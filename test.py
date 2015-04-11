@@ -1,9 +1,16 @@
 import requests
 
+
 BASE_URL = "http://api.foodessentials.com/"
 DEFAULT_PARAMS = {'appid': 'h3hw38z6ucxzy67rbjpyk8jy',
                   'f': 'json'}
-SESSION_ID = _tomsession()
+
+
+def createsession(user_id, device_id):
+    params = DEFAULT_PARAMS.copy()
+    params['uid'] = user_id
+    params['devid'] = device_id
+    return get('createsession', params).json()['session_id']
 
 
 def _tomsession():
@@ -22,13 +29,14 @@ def label(sid, barcode):
     return get('label', params)
 
 
-def createsession(user_id, device_id):
-    params = DEFAULT_PARAMS.copy()
-    params['uid'] = user_id
-    params['devid'] = device_id
-    return get('createsession', params).json()['session_id']
+def parse_ingredients(ingred_list):
+
+
+
+SESSION_ID = _tomsession()
 
 
 def get_ingredients(barcode):
     r = label(SESSION_ID, barcode)
-    return r.json()
+    result = r.json()
+    result['ingredients'] =

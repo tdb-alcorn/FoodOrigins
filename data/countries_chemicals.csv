@@ -1,0 +1,618 @@
+country,chemical
+Antigua and Barbuda,Organo-Phosphates
+Antigua and Barbuda,Carbamates Insecticides
+Antigua and Barbuda,Pyrethroids
+Antigua and Barbuda,Botanic.Produc&Biologic.
+Antigua and Barbuda,Triazines
+Antigua and Barbuda,Amides
+Antigua and Barbuda,Carbamates Herbicides
+Antigua and Barbuda,Dinitroanilines
+Antigua and Barbuda,Urea derivates
+Antigua and Barbuda,Sulfonyl Ureas
+Antigua and Barbuda,Bipiridils
+Antigua and Barbuda,Uracil
+Antigua and Barbuda,Inorganics
+Antigua and Barbuda,Dithiocarbamates
+Antigua and Barbuda,Benzimidazoles
+Antigua and Barbuda,Anticoagulants
+Argentina,Plant Growth Regulators
+Azerbaijan,Organo-Phosphates
+Azerbaijan,Pyrethroids
+Azerbaijan,Mineral Oils
+Azerbaijan,Phenoxy Hormone Products
+Azerbaijan,Dinitroanilines
+Azerbaijan,Urea derivates
+Azerbaijan,Sulfonyl Ureas
+Azerbaijan,Inorganics
+Azerbaijan,Dithiocarbamates
+Azerbaijan,Benzimidazoles
+Azerbaijan,"Triazoles, Diazoles"
+Azerbaijan,Dithiocarbamates-SeedTrF
+Azerbaijan,Benzimidazoles-SeedTrF
+Azerbaijan,Triazoles diazoles-SdTrF
+Azerbaijan,Plant Growth Regulators
+Azerbaijan,Anticoagulants
+Chile,Plant Growth Regulators
+"China, Hong Kong SAR",Organo-Phosphates
+"China, Hong Kong SAR",Carbamates Insecticides
+"China, Hong Kong SAR",Pyrethroids
+"China, Hong Kong SAR",Botanic.Produc&Biologic.
+"China, Hong Kong SAR",Phenoxy Hormone Products
+"China, Hong Kong SAR",Bipiridils
+"China, Hong Kong SAR",Dithiocarbamates
+Costa Rica,Organo-Phosphates
+Costa Rica,Carbamates Insecticides
+Costa Rica,Pyrethroids
+Costa Rica,Botanic.Produc&Biologic.
+Costa Rica,Phenoxy Hormone Products
+Costa Rica,Triazines
+Costa Rica,Amides
+Costa Rica,Carbamates Herbicides
+Costa Rica,Dinitroanilines
+Costa Rica,Urea derivates
+Costa Rica,Sulfonyl Ureas
+Costa Rica,Bipiridils
+Costa Rica,Uracil
+Costa Rica,Inorganics
+Costa Rica,Dithiocarbamates
+Costa Rica,Benzimidazoles
+Costa Rica,"Triazoles, Diazoles"
+Costa Rica,"Diazines, Morpholines"
+Costa Rica,Plant Growth Regulators
+Costa Rica,Anticoagulants
+Costa Rica,Disinfectants
+Czech Republic,Plant Growth Regulators
+Denmark,Plant Growth Regulators
+Ecuador,Chlorinated Hydrocarbons
+Ecuador,Organo-Phosphates
+Ecuador,Carbamates Insecticides
+Ecuador,Pyrethroids
+Ecuador,Botanic.Produc&Biologic.
+Ecuador,Phenoxy Hormone Products
+Ecuador,Triazines
+Ecuador,Dinitroanilines
+Ecuador,Urea derivates
+Ecuador,Sulfonyl Ureas
+Ecuador,Bipiridils
+Ecuador,Uracil
+Ecuador,Inorganics
+Ecuador,Dithiocarbamates
+Ecuador,Benzimidazoles
+Ecuador,"Triazoles, Diazoles"
+Ecuador,"Diazines, Morpholines"
+Ecuador,Plant Growth Regulators
+Ecuador,Anticoagulants
+Estonia,Plant Growth Regulators
+Finland,Organo-Phosphates
+Finland,Carbamates Insecticides
+Finland,Pyrethroids
+Finland,Botanic.Produc&Biologic.
+Finland,Mineral Oils
+Finland,Phenoxy Hormone Products
+Finland,Triazines
+Finland,Amides
+Finland,Carbamates Herbicides
+Finland,Dinitroanilines
+Finland,Urea derivates
+Finland,Sulfonyl Ureas
+Finland,Bipiridils
+Finland,Dithiocarbamates
+Finland,Benzimidazoles
+Finland,"Triazoles, Diazoles"
+Finland,"Diazines, Morpholines"
+Finland,Plant Growth Regulators
+French Polynesia,Organo-Phosphates
+French Polynesia,Carbamates Insecticides
+French Polynesia,Pyrethroids
+French Polynesia,Botanic.Produc&Biologic.
+French Polynesia,Mineral Oils
+French Polynesia,Phenoxy Hormone Products
+French Polynesia,Triazines
+French Polynesia,Carbamates Herbicides
+French Polynesia,Dinitroanilines
+French Polynesia,Urea derivates
+French Polynesia,Bipiridils
+French Polynesia,Inorganics
+French Polynesia,Dithiocarbamates
+French Polynesia,Benzimidazoles
+French Polynesia,"Triazoles, Diazoles"
+French Polynesia,Plant Growth Regulators
+French Polynesia,Anticoagulants
+French Polynesia,Narcotics
+Germany,Organo-Phosphates
+Germany,Carbamates Insecticides
+Germany,Pyrethroids
+Germany,Botanic.Produc&Biologic.
+Germany,Mineral Oils
+Germany,Phenoxy Hormone Products
+Germany,Triazines
+Germany,Amides
+Germany,Carbamates Herbicides
+Germany,Dinitroanilines
+Germany,Urea derivates
+Germany,Sulfonyl Ureas
+Germany,Bipiridils
+Germany,Inorganics
+Germany,Dithiocarbamates
+Germany,Benzimidazoles
+Germany,"Triazoles, Diazoles"
+Germany,"Diazines, Morpholines"
+Germany,Dithiocarbamates-SeedTrF
+Germany,Benzimidazoles-SeedTrF
+Germany,Triazoles diazoles-SdTrF
+Germany,Pyrethroids-SeedTr Ins
+Germany,Plant Growth Regulators
+Germany,Anticoagulants
+Guyana,Organo-Phosphates
+Guyana,Carbamates Insecticides
+Guyana,Pyrethroids
+Guyana,Botanic.Produc&Biologic.
+Guyana,Phenoxy Hormone Products
+Guyana,Triazines
+Guyana,Amides
+Guyana,Carbamates Herbicides
+Guyana,Urea derivates
+Guyana,Sulfonyl Ureas
+Guyana,Bipiridils
+Guyana,Inorganics
+Guyana,Dithiocarbamates
+Guyana,Benzimidazoles
+Guyana,"Triazoles, Diazoles"
+Guyana,"Diazines, Morpholines"
+Guyana,Anticoagulants
+Honduras,Chlorinated Hydrocarbons
+Honduras,Organo-Phosphates
+Honduras,Carbamates Insecticides
+Honduras,Pyrethroids
+Honduras,Botanic.Produc&Biologic.
+Honduras,Phenoxy Hormone Products
+Honduras,Triazines
+Honduras,Amides
+Honduras,Carbamates Herbicides
+Honduras,Dinitroanilines
+Honduras,Urea derivates
+Honduras,Sulfonyl Ureas
+Honduras,Bipiridils
+Honduras,Uracil
+Honduras,Inorganics
+Honduras,Dithiocarbamates
+Honduras,Benzimidazoles
+Honduras,"Triazoles, Diazoles"
+Honduras,"Diazines, Morpholines"
+Honduras,Botanic prod&biologSdTrF
+Honduras,Anticoagulants
+Iran (Islamic Republic of),Chlorinated Hydrocarbons
+Iran (Islamic Republic of),Organo-Phosphates
+Iran (Islamic Republic of),Carbamates Insecticides
+Iran (Islamic Republic of),Mineral Oils
+Iran (Islamic Republic of),Phenoxy Hormone Products
+Iran (Islamic Republic of),Triazines
+Iran (Islamic Republic of),Amides
+Iran (Islamic Republic of),Carbamates Herbicides
+Iran (Islamic Republic of),Dinitroanilines
+Iran (Islamic Republic of),Urea derivates
+Iran (Islamic Republic of),Sulfonyl Ureas
+Iran (Islamic Republic of),Bipiridils
+Iran (Islamic Republic of),Inorganics
+Iran (Islamic Republic of),Dithiocarbamates
+Iran (Islamic Republic of),Benzimidazoles
+Iran (Islamic Republic of),"Triazoles, Diazoles"
+Iran (Islamic Republic of),Triazoles diazoles-SdTrF
+Iran (Islamic Republic of),Botanic prod&biologSdTrF
+Iran (Islamic Republic of),Pyrethroids-SeedTr Ins
+Ireland,Organo-Phosphates
+Ireland,Carbamates Insecticides
+Ireland,Pyrethroids
+Ireland,Phenoxy Hormone Products
+Ireland,Triazines
+Ireland,Amides
+Ireland,Carbamates Herbicides
+Ireland,Dinitroanilines
+Ireland,Urea derivates
+Ireland,Sulfonyl Ureas
+Ireland,Bipiridils
+Ireland,Uracil
+Ireland,Inorganics
+Ireland,Dithiocarbamates
+Ireland,Benzimidazoles
+Ireland,"Triazoles, Diazoles"
+Ireland,"Diazines, Morpholines"
+Ireland,Dithiocarbamates-SeedTrF
+Ireland,Triazoles diazoles-SdTrF
+Ireland,Plant Growth Regulators
+Italy,Organo-Phosphates
+Italy,Carbamates Insecticides
+Italy,Pyrethroids
+Italy,Botanic.Produc&Biologic.
+Italy,Mineral Oils
+Italy,Phenoxy Hormone Products
+Italy,Triazines
+Italy,Amides
+Italy,Carbamates Herbicides
+Italy,Dinitroanilines
+Italy,Urea derivates
+Italy,Sulfonyl Ureas
+Italy,Bipiridils
+Italy,Uracil
+Italy,Inorganics
+Italy,Dithiocarbamates
+Italy,Benzimidazoles
+Italy,"Triazoles, Diazoles"
+Italy,"Diazines, Morpholines"
+Italy,Triazoles diazoles-SdTrF
+Italy,Plant Growth Regulators
+Italy,Anticoagulants
+Japan,Organo-Phosphates
+Japan,Carbamates Insecticides
+Japan,Pyrethroids
+Japan,Phenoxy Hormone Products
+Japan,Triazines
+Japan,Amides
+Japan,Carbamates Herbicides
+Japan,Dinitroanilines
+Japan,Urea derivates
+Japan,Sulfonyl Ureas
+Japan,Bipiridils
+Japan,Uracil
+Japan,Inorganics
+Japan,Dithiocarbamates
+Japan,Benzimidazoles
+Japan,"Triazoles, Diazoles"
+Japan,"Diazines, Morpholines"
+Japan,Plant Growth Regulators
+Japan,Anticoagulants
+Jordan,Mineral Oils
+Latvia,Organo-Phosphates
+Latvia,Carbamates Insecticides
+Latvia,Pyrethroids
+Latvia,Botanic.Produc&Biologic.
+Latvia,Phenoxy Hormone Products
+Latvia,Triazines
+Latvia,Amides
+Latvia,Carbamates Herbicides
+Latvia,Dinitroanilines
+Latvia,Sulfonyl Ureas
+Latvia,Inorganics
+Latvia,Dithiocarbamates
+Latvia,Benzimidazoles
+Latvia,"Triazoles, Diazoles"
+Latvia,"Diazines, Morpholines"
+Latvia,Plant Growth Regulators
+Lesotho,Chlorinated Hydrocarbons
+Lesotho,Organo-Phosphates
+Lesotho,Carbamates Insecticides
+Lesotho,Pyrethroids
+Lesotho,Botanic.Produc&Biologic.
+Lesotho,Phenoxy Hormone Products
+Lesotho,Amides
+Lesotho,Sulfonyl Ureas
+Lesotho,Inorganics
+Lesotho,"Triazoles, Diazoles"
+Lesotho,Plant Growth Regulators
+Lithuania,Organo-Phosphates
+Lithuania,Pyrethroids
+Lithuania,Botanic.Produc&Biologic.
+Lithuania,Phenoxy Hormone Products
+Lithuania,Triazines
+Lithuania,Amides
+Lithuania,Carbamates Herbicides
+Lithuania,Dinitroanilines
+Lithuania,Urea derivates
+Lithuania,Sulfonyl Ureas
+Lithuania,Bipiridils
+Lithuania,Inorganics
+Lithuania,Dithiocarbamates
+Lithuania,Benzimidazoles
+Lithuania,"Triazoles, Diazoles"
+Lithuania,"Diazines, Morpholines"
+Lithuania,Dithiocarbamates-SeedTrF
+Lithuania,Benzimidazoles-SeedTrF
+Lithuania,Triazoles diazoles-SdTrF
+Lithuania,Pyrethroids-SeedTr Ins
+Lithuania,Plant Growth Regulators
+Madagascar,Chlorinated Hydrocarbons
+Madagascar,Organo-Phosphates
+Madagascar,Carbamates Insecticides
+Madagascar,Pyrethroids
+Madagascar,Botanic.Produc&Biologic.
+Madagascar,Phenoxy Hormone Products
+Madagascar,Triazines
+Madagascar,Amides
+Madagascar,Dinitroanilines
+Madagascar,Sulfonyl Ureas
+Madagascar,Inorganics
+Madagascar,Dithiocarbamates
+Madagascar,"Triazoles, Diazoles"
+Madagascar,Plant Growth Regulators
+Mali,Organo-Phosphates
+Mali,Carbamates Insecticides
+Mali,Pyrethroids
+Mali,Botanic.Produc&Biologic.
+Mauritania,Organo-Phosphates
+Mozambique,Disinfectants
+Myanmar,Organo-Phosphates
+Myanmar,Carbamates Insecticides
+Myanmar,Pyrethroids
+Myanmar,Botanic.Produc&Biologic.
+Myanmar,Phenoxy Hormone Products
+Myanmar,Triazines
+Myanmar,Amides
+Myanmar,Dinitroanilines
+Myanmar,Sulfonyl Ureas
+Myanmar,Bipiridils
+Myanmar,Inorganics
+Myanmar,Dithiocarbamates
+Myanmar,Benzimidazoles
+Myanmar,"Triazoles, Diazoles"
+Myanmar,"Diazines, Morpholines"
+Myanmar,Plant Growth Regulators
+New Caledonia,Mineral Oils
+Norway,Organo-Phosphates
+Norway,Carbamates Insecticides
+Norway,Pyrethroids
+Norway,Botanic.Produc&Biologic.
+Norway,Phenoxy Hormone Products
+Norway,Triazines
+Norway,Amides
+Norway,Carbamates Herbicides
+Norway,Sulfonyl Ureas
+Norway,Bipiridils
+Norway,Inorganics
+Norway,Dithiocarbamates
+Norway,Benzimidazoles
+Norway,"Triazoles, Diazoles"
+Norway,Triazoles diazoles-SdTrF
+Norway,Plant Growth Regulators
+Oman,Mineral Oils
+Oman,Plant Growth Regulators
+Panama,Organo-Phosphates
+Panama,Carbamates Insecticides
+Panama,Pyrethroids
+Panama,Phenoxy Hormone Products
+Panama,Triazines
+Panama,Amides
+Panama,Dinitroanilines
+Panama,Urea derivates
+Panama,Sulfonyl Ureas
+Panama,Bipiridils
+Panama,Uracil
+Panama,Dithiocarbamates
+Panama,Benzimidazoles
+Panama,"Triazoles, Diazoles"
+Panama,"Diazines, Morpholines"
+Panama,Carbamates-insect-SdTr
+Panama,Pyrethroids-SeedTr Ins
+Peru,Plant Growth Regulators
+Poland,Organo-Phosphates
+Poland,Carbamates Insecticides
+Poland,Pyrethroids
+Poland,Botanic.Produc&Biologic.
+Poland,Mineral Oils
+Poland,Phenoxy Hormone Products
+Poland,Triazines
+Poland,Amides
+Poland,Carbamates Herbicides
+Poland,Dinitroanilines
+Poland,Urea derivates
+Poland,Sulfonyl Ureas
+Poland,Bipiridils
+Poland,Uracil
+Poland,Inorganics
+Poland,Dithiocarbamates
+Poland,Benzimidazoles
+Poland,"Triazoles, Diazoles"
+Poland,"Diazines, Morpholines"
+Poland,Dithiocarbamates-SeedTrF
+Poland,Benzimidazoles-SeedTrF
+Poland,Triazoles diazoles-SdTrF
+Poland,Carbamates-insect-SdTr
+Poland,Pyrethroids-SeedTr Ins
+Poland,Plant Growth Regulators
+Poland,Anticoagulants
+Portugal,Organo-Phosphates
+Portugal,Carbamates Insecticides
+Portugal,Pyrethroids
+Portugal,Botanic.Produc&Biologic.
+Portugal,Mineral Oils
+Portugal,Phenoxy Hormone Products
+Portugal,Triazines
+Portugal,Amides
+Portugal,Carbamates Herbicides
+Portugal,Dinitroanilines
+Portugal,Urea derivates
+Portugal,Inorganics
+Portugal,Dithiocarbamates
+Portugal,Benzimidazoles
+Portugal,"Triazoles, Diazoles"
+Portugal,"Diazines, Morpholines"
+Portugal,Plant Growth Regulators
+Rwanda,Organo-Phosphates
+Rwanda,Pyrethroids
+Rwanda,Inorganics
+Rwanda,Dithiocarbamates
+Rwanda,Benzimidazoles
+Saint Kitts and Nevis,Organo-Phosphates
+Saint Kitts and Nevis,Carbamates Insecticides
+Saint Kitts and Nevis,Pyrethroids
+Saint Kitts and Nevis,Botanic.Produc&Biologic.
+Saint Kitts and Nevis,Phenoxy Hormone Products
+Saint Kitts and Nevis,Triazines
+Saint Kitts and Nevis,Dinitroanilines
+Saint Kitts and Nevis,Bipiridils
+Saint Kitts and Nevis,Uracil
+Saint Kitts and Nevis,Inorganics
+Saint Kitts and Nevis,Dithiocarbamates
+Slovakia,Organo-Phosphates
+Slovakia,Carbamates Insecticides
+Slovakia,Pyrethroids
+Slovakia,Botanic.Produc&Biologic.
+Slovakia,Mineral Oils
+Slovakia,Phenoxy Hormone Products
+Slovakia,Triazines
+Slovakia,Amides
+Slovakia,Carbamates Herbicides
+Slovakia,Dinitroanilines
+Slovakia,Urea derivates
+Slovakia,Sulfonyl Ureas
+Slovakia,Bipiridils
+Slovakia,Uracil
+Slovakia,Inorganics
+Slovakia,Dithiocarbamates
+Slovakia,Benzimidazoles
+Slovakia,"Triazoles, Diazoles"
+Slovakia,"Diazines, Morpholines"
+Slovakia,Dithiocarbamates-SeedTrF
+Slovakia,Benzimidazoles-SeedTrF
+Slovakia,Triazoles diazoles-SdTrF
+Slovakia,Botanic prod&biologSdTrF
+Slovakia,Pyrethroids-SeedTr Ins
+Slovakia,Plant Growth Regulators
+Sri Lanka,Organo-Phosphates
+Sri Lanka,Carbamates Insecticides
+Sri Lanka,Pyrethroids
+Sri Lanka,Phenoxy Hormone Products
+Sri Lanka,Triazines
+Sri Lanka,Dinitroanilines
+Sri Lanka,Urea derivates
+Sri Lanka,Sulfonyl Ureas
+Sri Lanka,Bipiridils
+Sri Lanka,Inorganics
+Sri Lanka,Dithiocarbamates
+Sri Lanka,Benzimidazoles
+Sri Lanka,"Triazoles, Diazoles"
+Sri Lanka,Dithiocarbamates-SeedTrF
+Sri Lanka,Benzimidazoles-SeedTrF
+Suriname,Organo-Phosphates
+Suriname,Pyrethroids
+Suriname,Botanic.Produc&Biologic.
+Suriname,Mineral Oils
+Suriname,Phenoxy Hormone Products
+Suriname,Triazines
+Suriname,Amides
+Suriname,Sulfonyl Ureas
+Suriname,Bipiridils
+Suriname,Inorganics
+Suriname,Dithiocarbamates
+Suriname,Benzimidazoles
+Suriname,"Triazoles, Diazoles"
+Suriname,Anticoagulants
+Sweden,Plant Growth Regulators
+Switzerland,Organo-Phosphates
+Switzerland,Carbamates Insecticides
+Switzerland,Pyrethroids
+Switzerland,Mineral Oils
+Switzerland,Phenoxy Hormone Products
+Switzerland,Triazines
+Switzerland,Amides
+Switzerland,Carbamates Herbicides
+Switzerland,Dinitroanilines
+Switzerland,Urea derivates
+Switzerland,Sulfonyl Ureas
+Switzerland,Bipiridils
+Switzerland,Uracil
+Switzerland,Inorganics
+Switzerland,Dithiocarbamates
+Switzerland,Benzimidazoles
+Switzerland,"Triazoles, Diazoles"
+Switzerland,"Diazines, Morpholines"
+Switzerland,Plant Growth Regulators
+Tajikistan,Chlorinated Hydrocarbons
+Tajikistan,Organo-Phosphates
+Tajikistan,Pyrethroids
+Tajikistan,Botanic.Produc&Biologic.
+Tajikistan,Phenoxy Hormone Products
+Tajikistan,Amides
+Tajikistan,Sulfonyl Ureas
+Tajikistan,Dithiocarbamates
+Tajikistan,Benzimidazoles
+Tajikistan,"Triazoles, Diazoles"
+Tajikistan,Dithiocarbamates-SeedTrF
+Tajikistan,Triazoles diazoles-SdTrF
+Thailand,Organo-Phosphates
+Thailand,Carbamates Insecticides
+Thailand,Pyrethroids
+Thailand,Mineral Oils
+Thailand,Phenoxy Hormone Products
+Thailand,Triazines
+Thailand,Amides
+Thailand,Dinitroanilines
+Thailand,Urea derivates
+Thailand,Sulfonyl Ureas
+Thailand,Bipiridils
+Thailand,Uracil
+Thailand,Inorganics
+Thailand,Dithiocarbamates
+Thailand,Benzimidazoles
+Thailand,"Triazoles, Diazoles"
+Thailand,Plant Growth Regulators
+Thailand,Anticoagulants
+Togo,Organo-Phosphates
+Togo,Carbamates Insecticides
+Togo,Pyrethroids
+Ukraine,Chlorinated Hydrocarbons
+Ukraine,Organo-Phosphates
+Ukraine,Carbamates Insecticides
+Ukraine,Pyrethroids
+Ukraine,Phenoxy Hormone Products
+Ukraine,Triazines
+Ukraine,Amides
+Ukraine,Carbamates Herbicides
+Ukraine,Dinitroanilines
+Ukraine,Sulfonyl Ureas
+Ukraine,Inorganics
+Ukraine,Dithiocarbamates
+Ukraine,Benzimidazoles
+Ukraine,"Triazoles, Diazoles"
+Ukraine,"Diazines, Morpholines"
+Ukraine,Plant Growth Regulators
+United Kingdom,Organo-Phosphates
+United Kingdom,Carbamates Insecticides
+United Kingdom,Pyrethroids
+United Kingdom,Botanic.Produc&Biologic.
+United Kingdom,Mineral Oils
+United Kingdom,Phenoxy Hormone Products
+United Kingdom,Triazines
+United Kingdom,Amides
+United Kingdom,Carbamates Herbicides
+United Kingdom,Dinitroanilines
+United Kingdom,Urea derivates
+United Kingdom,Sulfonyl Ureas
+United Kingdom,Bipiridils
+United Kingdom,Uracil
+United Kingdom,Inorganics
+United Kingdom,Dithiocarbamates
+United Kingdom,Benzimidazoles
+United Kingdom,"Triazoles, Diazoles"
+United Kingdom,"Diazines, Morpholines"
+United Kingdom,Benzimidazoles-SeedTrF
+United Kingdom,Triazoles diazoles-SdTrF
+United Kingdom,Organo-phospates-SdTr In
+United Kingdom,Carbamates-insect-SdTr
+United Kingdom,Pyrethroids-SeedTr Ins
+United Kingdom,Plant Growth Regulators
+Uruguay,Organo-Phosphates
+Uruguay,Carbamates Insecticides
+Uruguay,Pyrethroids
+Uruguay,Botanic.Produc&Biologic.
+Uruguay,Mineral Oils
+Uruguay,Phenoxy Hormone Products
+Uruguay,Triazines
+Uruguay,Amides
+Uruguay,Dinitroanilines
+Uruguay,Urea derivates
+Uruguay,Sulfonyl Ureas
+Uruguay,Bipiridils
+Uruguay,Uracil
+Uruguay,Inorganics
+Uruguay,Dithiocarbamates
+Uruguay,Benzimidazoles
+Uruguay,"Triazoles, Diazoles"
+Uruguay,Dithiocarbamates-SeedTrF
+Uruguay,Plant Growth Regulators
+Uruguay,Anticoagulants
+Uruguay,Disinfectants
+Yemen,Pyrethroids
+Yemen,Mineral Oils
+Yemen,Inorganics
+Yemen,Benzimidazoles
+Yemen,"Triazoles, Diazoles"
