@@ -1,4 +1,5 @@
 import requests
+import re
 
 
 BASE_URL = "http://api.foodessentials.com/"
@@ -30,7 +31,7 @@ def label(sid, barcode):
 
 
 def parse_ingredients(ingred_list):
-
+    return re.split(',(?=[^\)]*(?:\(|$))', ingred_list)
 
 
 SESSION_ID = _tomsession()
@@ -39,4 +40,5 @@ SESSION_ID = _tomsession()
 def get_ingredients(barcode):
     r = label(SESSION_ID, barcode)
     result = r.json()
-    result['ingredients'] =
+    result['ingredients'] = parse_ingredients(result['ingredients'])
+    return result
