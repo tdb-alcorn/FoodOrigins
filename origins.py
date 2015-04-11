@@ -1,3 +1,7 @@
+import pandas as pd
+
+
+df = pd.read_csv('./data/us_imports_commodity_country.csv')
 
 
 def origins(destination_country, ingredient):
