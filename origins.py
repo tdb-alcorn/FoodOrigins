@@ -18,3 +18,7 @@ def origins(destination_country, ingredient):
 def origins_us(ingredient):
     comm = process.extractOne(ingredient, commodities)[0]
     return (df[comm[0]] / df[comm[0]].sum()).to_dict()
+
+
+def origins_us_list(ingredients):
+    return [origins_us(ingred) for ingred in ingredients]

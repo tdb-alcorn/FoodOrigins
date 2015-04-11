@@ -1,7 +1,13 @@
-import ingredients
+from ingredients import get_ingredients
 from barcodes import get_country
+from origins import origins_us_list
 
 
 def main(barcode):
     country = get_country(barcode)
-    r = ingredients.get_ingredients(barcode)
+    r = get_ingredients(barcode)
+    if country == 'USA':
+        origins = origins_us_list(r['ingredients'])
+    else:
+        origins = {}
+    return origins
