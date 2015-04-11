@@ -1,5 +1,3 @@
-
-
 def check_toxicity(x):
     if x <= 5:
         return "Very Toxic"
@@ -14,12 +12,13 @@ def check_toxicity(x):
     else:
         return "Unknown"
 
+
 def get_ld50(x):
     chemicals = {
         'Bipiridils': 157,
         'Anticoagulants': 280,
-        'Botanic prod&biologSdTrF':,
-        'Carbamates-insect-SdTr: 500',
+        'Botanic prod&biologSdTrF': "Varies",
+        'Carbamates-insect-SdTr': 500,
         'Chlorinated Hydrocarbons': 18,
         'Urea derivates': 11000,
         'Uracil': 6000,
@@ -48,12 +47,13 @@ def get_ld50(x):
         'Dithiocarbamates': 400,
         'Sulfonyl Ureas': 2000
     }
-    if x in dict:
-        return dict.get(x)
+    if x in chemicals:
+        return chemicals.get(x)
     else:
         return "NONE"
 
+
 def get_tox(chemical):
-    lDValue = get_ld50(chemical)                      #Gets LD
+    lDValue = get_ld50(chemical)
     toxicity = check_toxicity(lDValue)
     return toxicity
