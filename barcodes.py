@@ -5,7 +5,7 @@ df = pd.read_csv('./data/barcode_country_numbers.csv')
 df['nums'] = df['nums'].astype(str)
 df['nums'] = df['nums'].apply(lambda n: '0'+n if len(n) < 2 else n)
 df.index = df['nums']
-dff = dff['country']
+df = df['country']
 
 
 def get(barcode_prefix):

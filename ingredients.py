@@ -41,7 +41,8 @@ def get_ingredients(barcode):
     r = label(SESSION_ID, barcode)
     result = r.json()
     result['ingredients'] = parse_ingredients(result['ingredients'])
+    out = {}
     for key in result:
-        if key not in ['ingredients', 'product_name']:
-            del result[key]
-    return result
+        if key in ['ingredients', 'product_name']:
+            out[key] = result[key]
+    return out
