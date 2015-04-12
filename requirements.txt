@@ -1,0 +1,4 @@
+pandas
+web.py
+fuzzywuzzy
+requests
