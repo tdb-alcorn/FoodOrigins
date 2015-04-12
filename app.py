@@ -40,4 +40,4 @@ class BarcodeServer:
         return render.index(origins=origins, product=product)
 
 if __name__ == "__main__":
-    app.run(port=PORT)
+    app.run('0.0.0.0:'+str(PORT))
