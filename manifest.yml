@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 12G
+  host: FoodOrigins
+  name: FoodOrigins
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 1G
