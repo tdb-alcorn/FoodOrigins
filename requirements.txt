@@ -2,3 +2,4 @@ pandas
 web.py
 fuzzywuzzy
 requests
+python-Levenshtein
