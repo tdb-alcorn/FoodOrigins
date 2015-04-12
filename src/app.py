@@ -40,9 +40,13 @@ class BarcodeServer:
     def POST(self):
         form = web.input(barcode="")
         product, origins = main(form.barcode)
-        return render.index(origins=origins, product=product)
+        if product != 'NOT_FOUND':
+            map_origins(origins)
+            return render.map()
+        else:
+            return render.index(origins=origins, product=product)
 
 
 if __name__ == "__main__":
-    # web.httpserver.runsimple(app.wsgifunc(), (HOST, PORT))
-    map_origins(main('076840100477'))
+    web.httpserver.runsimple(app.wsgifunc(), (HOST, PORT))
+    # map_origins(main('076840100477'))
