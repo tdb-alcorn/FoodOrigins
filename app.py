@@ -11,6 +11,7 @@ urls = (
 
 render = web.template.render('static/')
 
+HOST = os.getenv('VCAP_APP_HOST', 'localhost')
 PORT = int(os.getenv('VCAP_APP_PORT', 8000))
 
 
@@ -30,6 +31,7 @@ def main(barcode, num_countries=10):
 
 app = web.application(urls, globals())
 
+
 class BarcodeServer:
     def GET(self):
         return render.form()
@@ -39,5 +41,6 @@ class BarcodeServer:
         product, origins = main(form.barcode)
         return render.index(origins=origins, product=product)
 
+
 if __name__ == "__main__":
-    app.run()
+    web.httpserver.runsimple(app.wsgifunc(), (HOST, PORT))
