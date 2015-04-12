@@ -67,7 +67,7 @@ $def with (product)
 
           
           var color = d3.scale.threshold()
-              .domain([5.0, 8.0, 10.0, 10.0, 20.0])
+              .domain([4.0, 7.0, 7.0, 20.0, 20.0])
               .range(['#FFFFCC', '#D9F0A3', '#ADDD8E', '#78C679', '#41AB5D', '#238443']);
           
 
@@ -120,7 +120,7 @@ $def with (product)
         .scale(x)
         .orient("top")
         .tickSize(1)
-        .tickValues([5.0, 8.0, 10.0, 10.0, 20.0]);
+        .tickValues([4.0, 7.0, 7.0, 20.0, 20.0]);
 
     var svg = d3.select(".legend.leaflet-control").append("svg")
         .attr("id", 'legend')
