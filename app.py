@@ -2,6 +2,7 @@ from ingredients import get_ingredients
 from barcodes import get_country
 from origins import origins_us_list
 import web
+import os
 
 
 urls = (
@@ -9,6 +10,9 @@ urls = (
 )
 
 render = web.template.render('static/')
+
+PORT = int(os.getenv('VCAP_APP_PORT', 8000))
+
 
 def main(barcode, num_countries=10):
     country = get_country(barcode)
@@ -36,4 +40,4 @@ class BarcodeServer:
         return render.index(origins=origins, product=product)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=PORT)
