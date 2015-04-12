@@ -42,7 +42,15 @@ class BarcodeServer:
         product, origins = main(form.barcode)
         if product != 'NOT_FOUND':
             map_origins(origins)
-            return render.map()
+            with open('./static/map.html', 'r') as r:
+                html = r.read()
+                one, two = html.split('<body>', 1)
+                one = '$def with (product)\n\n' + one
+                two = '<h1>$product</h1><br/>\n' + two
+                html_new = '<body>'.join([one, two])
+            with open('./static/map.html', 'w') as w:
+                w.write(html_new)
+            return render.map(product=product)
         else:
             return render.index(origins=origins, product=product)
 
