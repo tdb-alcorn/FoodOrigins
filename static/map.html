@@ -43,8 +43,8 @@
    <script>
 
       queue()
-          .defer(d3.json, './data/data.json')
-          .defer(d3.json, './data/countries_geo.json')
+          .defer(d3.json, './static/data.json')
+          .defer(d3.json, './static/countries_geo.json')
           .await(makeMap)
 
       function makeMap(error, data_1,gjson_1) {
@@ -64,7 +64,7 @@
 
           
           var color = d3.scale.threshold()
-              .domain([4.0, 7.0, 10.0, 10.0, 10.0])
+              .domain([5.0, 8.0, 10.0, 10.0, 20.0])
               .range(['#FFFFCC', '#D9F0A3', '#ADDD8E', '#78C679', '#41AB5D', '#238443']);
           
 
@@ -110,14 +110,14 @@
     legend.addTo(map);
 
     var x = d3.scale.linear()
-    .domain([0, 11])
+    .domain([0, 22])
     .range([0, 400]);
 
     var xAxis = d3.svg.axis()
         .scale(x)
         .orient("top")
         .tickSize(1)
-        .tickValues([4.0, 7.0, 10.0, 10.0, 10.0]);
+        .tickValues([5.0, 8.0, 10.0, 10.0, 20.0]);
 
     var svg = d3.select(".legend.leaflet-control").append("svg")
         .attr("id", 'legend')

@@ -7,7 +7,7 @@ import os
 
 
 urls = (
-  '/', 'BarcodeServer'
+  '/', 'BarcodeServer',
 )
 
 render = web.template.render('static/')
