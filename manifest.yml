@@ -1,5 +1,5 @@
 applications:
-- disk_quota: 12G
+- disk_quota: 2048M
   host: FoodOrigins
   name: FoodOrigins
   path: .
