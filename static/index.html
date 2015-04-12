@@ -1,10 +1,18 @@
-$def with (origins)
+$def with (origins, product)
 
 <!DOCTYPE html>
 <html>
 <body>
 
 <p> Sup bitch </p>
+</br>
+
+$if product:
+    <h1>$product</h1>
+$else:
+    Whatchu talkin bout willis
+
+<br/>
 
 $if origins:
     $origins

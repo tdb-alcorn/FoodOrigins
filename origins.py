@@ -22,6 +22,9 @@ def origins_us(ingredient):
 
 def origins_us_list(ingredients):
     origins = [origins_us(ingred) for ingred in ingredients]
-    df = reduce(lambda x, y: x.add(y, fill_value=0), origins)
-    df = df / df.sum()
-    return df
+    if len(origins) == 0:
+        return {}
+    else:
+        df = reduce(lambda x, y: x.add(y, fill_value=0), origins)
+        df = df / df.sum()
+        return df

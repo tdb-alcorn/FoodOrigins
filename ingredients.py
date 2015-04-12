@@ -40,9 +40,13 @@ SESSION_ID = _tomsession()
 def get_ingredients(barcode):
     r = label(SESSION_ID, barcode)
     result = r.json()
-    result['ingredients'] = parse_ingredients(result['ingredients'])
-    out = {}
-    for key in result:
-        if key in ['ingredients', 'product_name']:
-            out[key] = result[key]
-    return out
+    fields = ['ingredients', 'product_name']
+    if not all([f in result.keys() for f in fields]):
+        return {'ingredients': [], 'product_name': 'NOT_FOUND'}
+    else:
+        result['ingredients'] = parse_ingredients(result['ingredients'])
+        out = {}
+        for key in result:
+            if key in fields:
+                out[key] = result[key]
+        return out

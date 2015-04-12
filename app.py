@@ -15,11 +15,13 @@ def main(barcode, num_countries=10):
     r = get_ingredients(barcode)
     if country == 'USA':
         origins = origins_us_list(r['ingredients'])
-        origins.sort(ascending=False)
-        origins = origins.iloc[:num_countries].to_dict()
+        if len(origins) > 0:
+            origins.sort(ascending=False)
+            origins = origins.iloc[:num_countries]
+            origins = (origins/origins.sum()).to_dict()
     else:
         origins = {}
-    return origins
+    return r['product_name'], origins
 
 
 app = web.application(urls, globals())
@@ -30,8 +32,8 @@ class BarcodeServer:
 
     def POST(self):
         form = web.input(barcode="")
-        origins = main(form.barcode)
-        return render.index(origins=origins)
+        product, origins = main(form.barcode)
+        return render.index(origins=origins, product=product)
 
 if __name__ == "__main__":
     app.run()
