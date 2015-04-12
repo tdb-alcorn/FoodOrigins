@@ -3,4 +3,5 @@ web.py
 fuzzywuzzy
 requests
 python-Levenshtein
+Jinja2
 folium
