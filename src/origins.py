@@ -2,7 +2,7 @@ import pandas as pd
 from fuzzywuzzy import process
 
 
-df = pd.read_csv('./data/us_imports_commodity_country.csv')
+df = pd.read_csv('./data/us_imports_commodity_country_clean.csv')
 commodities = set(df['commodity'])
 df = df.groupby(['commodity', 'country'])['quantity'].sum()
 

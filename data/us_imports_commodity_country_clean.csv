@@ -1,0 +1,3266 @@
+,commodity,country,quantity
+0,"Almonds, Shelled Basis",Algeria,51600.0
+1,"Almonds, Shelled Basis",Australia,29900.0
+2,"Almonds, Shelled Basis",Canada,331900.0
+3,"Almonds, Shelled Basis",Chile,31300.0
+4,"Almonds, Shelled Basis",China,452900.0
+6,"Almonds, Shelled Basis",Greece,26633.0
+8,"Almonds, Shelled Basis",India,571600.0
+9,"Almonds, Shelled Basis",Iran,0.0
+10,"Almonds, Shelled Basis",Italy,216884.0
+11,"Almonds, Shelled Basis",Japan,370900.0
+13,"Almonds, Shelled Basis",Malaysia,28500.0
+14,"Almonds, Shelled Basis",Mexico,96600.0
+15,"Almonds, Shelled Basis",Morocco,392.0
+16,"Almonds, Shelled Basis",Norway,34100.0
+17,"Almonds, Shelled Basis",Portugal,3707.0
+18,"Almonds, Shelled Basis",Russia,143400.0
+19,"Almonds, Shelled Basis",Spain,212545.0
+20,"Almonds, Shelled Basis",Switzerland,50900.0
+21,"Almonds, Shelled Basis",Taiwan,76400.0
+22,"Almonds, Shelled Basis",Tunisia,895.0
+23,"Almonds, Shelled Basis",Turkey,166272.0
+24,"Almonds, Shelled Basis",United Arab Emirates,413700.0
+26,"Almonds, Shelled Basis",Vietnam,0.0
+27,"Animal Numbers, Cattle",Algeria,75.0
+28,"Animal Numbers, Cattle",Argentina,429.0
+29,"Animal Numbers, Cattle",Armenia,0.0
+30,"Animal Numbers, Cattle",Australia,22.0
+31,"Animal Numbers, Cattle",Austria,134.0
+32,"Animal Numbers, Cattle",Azerbaijan,0.0
+33,"Animal Numbers, Cattle",Belarus,21.0
+35,"Animal Numbers, Cattle",Belize,11.0
+36,"Animal Numbers, Cattle",Brazil,4630.0
+37,"Animal Numbers, Cattle",Bulgaria,38.0
+38,"Animal Numbers, Cattle",Canada,3683.0
+39,"Animal Numbers, Cattle",Chile,1402.0
+40,"Animal Numbers, Cattle",China,1588.0
+41,"Animal Numbers, Cattle",Colombia,200.0
+42,"Animal Numbers, Cattle",Costa Rica,162.0
+43,"Animal Numbers, Cattle",Czech Republic,79.0
+44,"Animal Numbers, Cattle",Denmark,8.0
+45,"Animal Numbers, Cattle",Dominican Republic,5.0
+47,"Animal Numbers, Cattle",Ecuador,41.0
+48,"Animal Numbers, Cattle",Egypt,3506.0
+49,"Animal Numbers, Cattle",El Salvador,803.0
+50,"Animal Numbers, Cattle",Estonia,387.0
+52,"Animal Numbers, Cattle",Finland,1.0
+55,"Animal Numbers, Cattle",France,5176.0
+56,"Animal Numbers, Cattle",Georgia,0.0
+58,"Animal Numbers, Cattle",Germany,538.0
+60,"Animal Numbers, Cattle",Greece,1431.0
+61,"Animal Numbers, Cattle",Guatemala,3184.0
+62,"Animal Numbers, Cattle",Haiti,1.0
+63,"Animal Numbers, Cattle",Honduras,688.0
+64,"Animal Numbers, Cattle",Hungary,239.0
+65,"Animal Numbers, Cattle",India,456.0
+66,"Animal Numbers, Cattle",Iran,15.0
+67,"Animal Numbers, Cattle",Ireland,2814.0
+68,"Animal Numbers, Cattle",Israel,31.0
+69,"Animal Numbers, Cattle",Italy,59289.0
+70,"Animal Numbers, Cattle",Japan,777.0
+71,"Animal Numbers, Cattle",Kazakhstan,2740.0
+73,"Animal Numbers, Cattle",Kyrgyzstan,0.0
+74,"Animal Numbers, Cattle",Latvia,409.0
+75,"Animal Numbers, Cattle",Lithuania,1330.0
+76,"Animal Numbers, Cattle",Mexico,4329.0
+77,"Animal Numbers, Cattle",Moldova,407.0
+78,"Animal Numbers, Cattle",Netherlands,6356.0
+79,"Animal Numbers, Cattle",New Zealand,1.0
+80,"Animal Numbers, Cattle",Nicaragua,105.0
+81,"Animal Numbers, Cattle",Norway,0.0
+82,"Animal Numbers, Cattle",Panama,0.0
+83,"Animal Numbers, Cattle",Peru,1082.0
+84,"Animal Numbers, Cattle",Philippines,2133.0
+85,"Animal Numbers, Cattle",Poland,563.0
+86,"Animal Numbers, Cattle",Portugal,219.0
+87,"Animal Numbers, Cattle",Romania,142.0
+88,"Animal Numbers, Cattle",Russia,889.0
+89,"Animal Numbers, Cattle",Saudi Arabia,1446.0
+90,"Animal Numbers, Cattle",Slovakia,84.0
+91,"Animal Numbers, Cattle",South Africa,8361.0
+92,"Animal Numbers, Cattle",Spain,1601.0
+93,"Animal Numbers, Cattle",Sweden,5.0
+94,"Animal Numbers, Cattle",Switzerland,334.0
+95,"Animal Numbers, Cattle",Taiwan,34.0
+96,"Animal Numbers, Cattle",Tajikistan,0.0
+97,"Animal Numbers, Cattle",Thailand,1975.0
+98,"Animal Numbers, Cattle",Tunisia,90.0
+99,"Animal Numbers, Cattle",Turkey,1617.0
+100,"Animal Numbers, Cattle",Turkmenistan,0.0
+101,"Animal Numbers, Cattle",Ukraine,7587.0
+103,"Animal Numbers, Cattle",United Kingdom,11597.0
+105,"Animal Numbers, Cattle",Uruguay,2.0
+106,"Animal Numbers, Cattle",Uzbekistan,259.0
+107,"Animal Numbers, Cattle",Venezuela,6677.0
+109,"Animal Numbers, Swine",Argentina,1.0
+110,"Animal Numbers, Swine",Armenia,0.0
+111,"Animal Numbers, Swine",Australia,0.0
+112,"Animal Numbers, Swine",Austria,2325.0
+113,"Animal Numbers, Swine",Azerbaijan,0.0
+114,"Animal Numbers, Swine",Belarus,32.0
+116,"Animal Numbers, Swine",Brazil,491.0
+117,"Animal Numbers, Swine",Bulgaria,34.0
+118,"Animal Numbers, Swine",Canada,107.0
+119,"Animal Numbers, Swine",Chile,28.0
+120,"Animal Numbers, Swine",China,233.0
+121,"Animal Numbers, Swine",Colombia,96.0
+122,"Animal Numbers, Swine",Costa Rica,303.0
+123,"Animal Numbers, Swine",Czech Republic,25.0
+124,"Animal Numbers, Swine",Denmark,0.0
+125,"Animal Numbers, Swine",Dominican Republic,18.0
+127,"Animal Numbers, Swine",Ecuador,4.0
+128,"Animal Numbers, Swine",Egypt,0.0
+129,"Animal Numbers, Swine",El Salvador,440.0
+130,"Animal Numbers, Swine",Estonia,1568.0
+132,"Animal Numbers, Swine",Finland,1.0
+135,"Animal Numbers, Swine",France,36885.0
+136,"Animal Numbers, Swine",Georgia,0.0
+138,"Animal Numbers, Swine",Germany,3451.0
+140,"Animal Numbers, Swine",Greece,64.0
+141,"Animal Numbers, Swine",Guatemala,46.0
+142,"Animal Numbers, Swine",Honduras,0.0
+144,"Animal Numbers, Swine",Hungary,712.0
+145,"Animal Numbers, Swine",India,0.0
+146,"Animal Numbers, Swine",Ireland,3454.0
+147,"Animal Numbers, Swine",Italy,22665.0
+148,"Animal Numbers, Swine",Japan,68.0
+149,"Animal Numbers, Swine",Kazakhstan,1194.0
+151,"Animal Numbers, Swine",Kyrgyzstan,373.0
+152,"Animal Numbers, Swine",Latvia,878.0
+153,"Animal Numbers, Swine",Lithuania,943.0
+154,"Animal Numbers, Swine",Mexico,2855.0
+155,"Animal Numbers, Swine",Moldova,594.0
+156,"Animal Numbers, Swine",Netherlands,1489.0
+157,"Animal Numbers, Swine",New Zealand,0.0
+158,"Animal Numbers, Swine",Nicaragua,2.0
+159,"Animal Numbers, Swine",Norway,0.0
+160,"Animal Numbers, Swine",Panama,0.0
+161,"Animal Numbers, Swine",Peru,3.0
+162,"Animal Numbers, Swine",Philippines,55.0
+163,"Animal Numbers, Swine",Poland,2236.0
+164,"Animal Numbers, Swine",Portugal,145.0
+165,"Animal Numbers, Swine",Romania,325.0
+166,"Animal Numbers, Swine",Russia,10017.0
+168,"Animal Numbers, Swine",South Africa,0.0
+169,"Animal Numbers, Swine",Spain,5966.0
+170,"Animal Numbers, Swine",Sweden,0.0
+171,"Animal Numbers, Swine",Switzerland,96.0
+172,"Animal Numbers, Swine",Taiwan,128.0
+173,"Animal Numbers, Swine",Tajikistan,0.0
+174,"Animal Numbers, Swine",Thailand,8.0
+175,"Animal Numbers, Swine",Turkmenistan,0.0
+176,"Animal Numbers, Swine",Ukraine,1060.0
+178,"Animal Numbers, Swine",United Kingdom,1386.0
+180,"Animal Numbers, Swine",Uruguay,2.0
+181,"Animal Numbers, Swine",Uzbekistan,0.0
+182,"Animal Numbers, Swine",Venezuela,386.0
+183,"Animal Numbers, Swine",Vietnam,2.0
+185,"Apples, Fresh",Afghanistan,0.0
+186,"Apples, Fresh",Algeria,1190413.0
+187,"Apples, Fresh",Argentina,71789.0
+188,"Apples, Fresh",Australia,1605.0
+189,"Apples, Fresh",Austria,1280400.0
+190,"Apples, Fresh",Azerbaijan,77700.0
+191,"Apples, Fresh",Bangladesh,1144600.0
+192,"Apples, Fresh",Belarus,245900.0
+194,"Apples, Fresh",Brazil,2019788.0
+195,"Apples, Fresh",Bulgaria,108805.0
+196,"Apples, Fresh",Canada,5167230.0
+197,"Apples, Fresh",Chile,4722.0
+198,"Apples, Fresh",China,727677.0
+199,"Apples, Fresh",Colombia,959600.0
+200,"Apples, Fresh",Costa Rica,174500.0
+201,"Apples, Fresh",Croatia,0.0
+202,"Apples, Fresh",Denmark,890514.0
+203,"Apples, Fresh",Ecuador,599900.0
+206,"Apples, Fresh",France,2796795.0
+208,"Apples, Fresh",Germany,7683906.0
+210,"Apples, Fresh",Greece,125435.0
+211,"Apples, Fresh",Guatemala,202200.0
+212,"Apples, Fresh",Honduras,120300.0
+214,"Apples, Fresh",Hungary,144500.0
+215,"Apples, Fresh",India,1194300.0
+216,"Apples, Fresh",Indonesia,1793900.0
+217,"Apples, Fresh",Iran,0.0
+218,"Apples, Fresh",Italy,1498794.0
+219,"Apples, Fresh",Japan,20477.0
+220,"Apples, Fresh",Kazakhstan,985000.0
+221,"Apples, Fresh",Kyrgyzstan,297000.0
+222,"Apples, Fresh",Lebanon,0.0
+223,"Apples, Fresh",Libya,406000.0
+224,"Apples, Fresh",Malaysia,1187800.0
+225,"Apples, Fresh",Mexico,3916826.0
+226,"Apples, Fresh",Morocco,0.0
+227,"Apples, Fresh",Netherlands,6744526.0
+228,"Apples, Fresh",New Zealand,39576.0
+229,"Apples, Fresh",Norway,1481806.0
+230,"Apples, Fresh",Peru,443700.0
+231,"Apples, Fresh",Philippines,875300.0
+232,"Apples, Fresh",Poland,228839.0
+233,"Apples, Fresh",Romania,39900.0
+234,"Apples, Fresh",Russia,14402924.0
+235,"Apples, Fresh",Saudi Arabia,1624800.0
+238,"Apples, Fresh",Slovakia,159900.0
+239,"Apples, Fresh",South Africa,4264.0
+240,"Apples, Fresh",Spain,2078459.0
+241,"Apples, Fresh",Sri Lanka,248500.0
+242,"Apples, Fresh",Sweden,1819481.0
+243,"Apples, Fresh",Switzerland,274277.0
+244,"Apples, Fresh",Taiwan,3464038.0
+245,"Apples, Fresh",Thailand,1351900.0
+246,"Apples, Fresh",Turkey,126822.0
+247,"Apples, Fresh",Ukraine,1179800.0
+248,"Apples, Fresh",United Arab Emirates,1618300.0
+249,"Apples, Fresh",United Kingdom,9975572.0
+251,"Apples, Fresh",Uruguay,8700.0
+252,"Apples, Fresh",Venezuela,319900.0
+253,"Apples, Fresh",Vietnam,1231700.0
+255,Barley,Afghanistan,103.0
+256,Barley,Albania,18.0
+257,Barley,Algeria,13093.0
+258,Barley,Argentina,177.0
+259,Barley,Armenia,615.0
+260,Barley,Australia,219.0
+261,Barley,Azerbaijan,842.0
+262,Barley,Bangladesh,6.0
+263,Barley,Belarus,3732.0
+264,Barley,Bhutan,7.0
+265,Barley,Bolivia,0.0
+266,Barley,Bosnia and Herzegovina,362.0
+267,Barley,Brazil,8030.0
+268,Barley,Bulgaria,3967.0
+269,Barley,Canada,1091.0
+270,Barley,Chile,1560.0
+271,Barley,China,54462.0
+272,Barley,Colombia,6856.0
+273,Barley,Croatia,86.0
+274,Barley,Cuba,1592.0
+275,Barley,Cyprus,5826.0
+276,Barley,Czech Republic,700.0
+279,Barley,Ecuador,1070.0
+280,Barley,Egypt,633.0
+281,Barley,Eritrea,133.0
+282,Barley,Estonia,1233.0
+283,Barley,Ethiopia,81.0
+287,Barley,Georgia,409.0
+288,Barley,Hungary,4782.0
+289,Barley,Iceland,2.0
+290,Barley,India,110.0
+291,Barley,Iran,23810.0
+292,Barley,Iraq,4282.0
+293,Barley,Israel,13849.0
+294,Barley,Japan,68041.0
+295,Barley,Jordan,14881.0
+296,Barley,Kazakhstan,364.0
+297,Barley,Kenya,52.0
+299,Barley,Kuwait,6448.0
+300,Barley,Kyrgyzstan,1770.0
+301,Barley,Latvia,1046.0
+302,Barley,Lebanon,2630.0
+303,Barley,Libya,13949.0
+304,Barley,Lithuania,1244.0
+305,Barley,Macedonia,105.0
+306,Barley,Malta,995.0
+307,Barley,Mexico,4371.0
+308,Barley,Moldova,2258.0
+309,Barley,Morocco,10579.0
+310,Barley,Nepal,1.0
+311,Barley,New Zealand,500.0
+312,Barley,Norway,3431.0
+313,Barley,Pakistan,43.0
+314,Barley,Peru,2622.0
+315,Barley,Poland,23204.0
+316,Barley,Romania,5792.0
+317,Barley,Russia,18503.0
+318,Barley,Saudi Arabia,201967.0
+322,Barley,Slovakia,431.0
+323,Barley,Slovenia,631.0
+324,Barley,South Africa,2145.0
+325,Barley,Switzerland,11915.0
+326,Barley,Syria,9127.0
+327,Barley,Taiwan,10974.0
+328,Barley,Tajikistan,1784.0
+329,Barley,Tunisia,10511.0
+330,Barley,Turkey,5434.0
+331,Barley,Turkmenistan,607.0
+332,Barley,Ukraine,3986.0
+334,Barley,United Arab Emirates,7012.0
+336,Barley,Uruguay,1547.0
+337,Barley,Uzbekistan,3999.0
+338,Barley,Venezuela,49.0
+339,Barley,Yemen,54.0
+342,Barley,Zimbabwe,161.0
+343,"Coffee, Green",Algeria,26455.0
+344,"Coffee, Green",Angola,0.0
+345,"Coffee, Green",Argentina,9095.0
+346,"Coffee, Green",Australia,15820.0
+347,"Coffee, Green",Benin,0.0
+348,"Coffee, Green",Bolivia,0.0
+349,"Coffee, Green",Brazil,17.0
+350,"Coffee, Green",Burundi,0.0
+351,"Coffee, Green",Cameroon,168.0
+352,"Coffee, Green",Canada,37960.0
+353,"Coffee, Green",Central African Republic,0.0
+354,"Coffee, Green",China,9830.0
+355,"Coffee, Green",Colombia,5872.0
+358,"Coffee, Green",Costa Rica,869.0
+360,"Coffee, Green",Croatia,0.0
+361,"Coffee, Green",Cuba,6368.0
+362,"Coffee, Green",Dominican Republic,0.0
+363,"Coffee, Green",Ecuador,8846.0
+364,"Coffee, Green",El Salvador,2204.0
+365,"Coffee, Green",Equatorial Guinea,0.0
+366,"Coffee, Green",Ethiopia,0.0
+368,"Coffee, Green",Gabon,0.0
+369,"Coffee, Green",Ghana,0.0
+370,"Coffee, Green",Guatemala,4716.0
+371,"Coffee, Green",Guinea,0.0
+372,"Coffee, Green",Guyana,0.0
+373,"Coffee, Green",Haiti,0.0
+374,"Coffee, Green",Honduras,207.0
+375,"Coffee, Green",India,8617.0
+376,"Coffee, Green",Indonesia,9204.0
+377,"Coffee, Green",Iran,1880.0
+378,"Coffee, Green",Jamaica,103.0
+379,"Coffee, Green",Japan,93370.0
+380,"Coffee, Green",Jordan,4335.0
+381,"Coffee, Green",Kazakhstan,2700.0
+382,"Coffee, Green",Kenya,194.0
+384,"Coffee, Green",Laos,0.0
+385,"Coffee, Green",Liberia,75.0
+386,"Coffee, Green",Madagascar,0.0
+387,"Coffee, Green",Malawi,0.0
+388,"Coffee, Green",Malaysia,18005.0
+389,"Coffee, Green",Mexico,8898.0
+390,"Coffee, Green",Morocco,7525.0
+391,"Coffee, Green",New Caledonia,0.0
+392,"Coffee, Green",New Zealand,3390.0
+393,"Coffee, Green",Nicaragua,0.0
+394,"Coffee, Green",Nigeria,2463.0
+395,"Coffee, Green",Norway,8835.0
+396,"Coffee, Green",Panama,114.0
+397,"Coffee, Green",Papua New Guinea,288.0
+398,"Coffee, Green",Paraguay,0.0
+399,"Coffee, Green",Peru,452.0
+400,"Coffee, Green",Philippines,24550.0
+401,"Coffee, Green",Russia,49575.0
+402,"Coffee, Green",Rwanda,0.0
+404,"Coffee, Green",Sierra Leone,0.0
+405,"Coffee, Green",South Africa,6330.0
+406,"Coffee, Green",Sri Lanka,8.0
+407,"Coffee, Green",Switzerland,23505.0
+409,"Coffee, Green",Thailand,9889.0
+410,"Coffee, Green",Togo,0.0
+411,"Coffee, Green",Trinidad and Tobago,127.0
+412,"Coffee, Green",Turkey,3825.0
+413,"Coffee, Green",Uganda,0.0
+414,"Coffee, Green",Ukraine,14560.0
+416,"Coffee, Green",Venezuela,4192.0
+417,"Coffee, Green",Vietnam,3543.0
+418,"Coffee, Green",Yemen,0.0
+420,"Coffee, Green",Zambia,110.0
+421,"Coffee, Green",Zimbabwe,54.0
+422,Corn,Afghanistan,17.0
+423,Corn,Albania,904.0
+424,Corn,Algeria,54541.0
+425,Corn,Angola,2939.0
+426,Corn,Argentina,164.0
+427,Corn,Armenia,1040.0
+428,Corn,Australia,342.0
+429,Corn,Azerbaijan,2081.0
+430,Corn,Belarus,9774.0
+431,Corn,Benin,199.0
+432,Corn,Bhutan,25.0
+433,Corn,Bolivia,193.0
+434,Corn,Bosnia and Herzegovina,4656.0
+435,Corn,Botswana,2615.0
+436,Corn,Brazil,32142.0
+437,Corn,Bulgaria,9168.0
+440,Corn,Burundi,180.0
+441,Corn,Cambodia,10.0
+442,Corn,Cameroon,449.0
+443,Corn,Canada,59107.0
+445,Corn,Central African Republic,25.0
+446,Corn,Chad,270.0
+447,Corn,Chile,27913.0
+448,Corn,China,40139.0
+449,Corn,Colombia,58137.0
+452,Corn,Costa Rica,14069.0
+454,Corn,Croatia,111.0
+455,Corn,Cuba,19162.0
+456,Corn,Cyprus,2527.0
+457,Corn,Czech Republic,764.0
+458,Corn,Dominican Republic,25775.0
+461,Corn,Ecuador,6605.0
+462,Corn,Egypt,130343.0
+463,Corn,El Salvador,10438.0
+464,Corn,Eritrea,44.0
+465,Corn,Estonia,1672.0
+466,Corn,Ethiopia,221.0
+471,Corn,Georgia,1856.0
+472,Corn,Ghana,1156.0
+473,Corn,Guatemala,13316.0
+474,Corn,Guinea,16.0
+476,Corn,Guyana,448.0
+477,Corn,Haiti,240.0
+478,Corn,Honduras,6500.0
+480,Corn,Hungary,2418.0
+481,Corn,India,2062.0
+482,Corn,Indonesia,33459.0
+483,Corn,Iran,68674.0
+484,Corn,Iraq,5192.0
+485,Corn,Israel,31550.0
+486,Corn,Jamaica,8933.0
+487,Corn,Japan,670035.0
+488,Corn,Jordan,12242.0
+489,Corn,Kazakhstan,2175.0
+490,Corn,Kenya,9957.0
+493,Corn,Kuwait,4243.0
+494,Corn,Kyrgyzstan,290.0
+495,Corn,Laos,35.0
+496,Corn,Latvia,1593.0
+497,Corn,Lebanon,10792.0
+498,Corn,Lesotho,2058.0
+499,Corn,Libya,9946.0
+500,Corn,Lithuania,3233.0
+501,Corn,Macedonia,1290.0
+502,Corn,Madagascar,77.0
+503,Corn,Malawi,2292.0
+504,Corn,Malaysia,77684.0
+505,Corn,Mali,524.0
+506,Corn,Malta,1540.0
+507,Corn,Mauritania,123.0
+508,Corn,Mexico,191151.0
+509,Corn,Moldova,634.0
+510,Corn,Morocco,29936.0
+511,Corn,Mozambique,6976.0
+512,Corn,Namibia,1525.0
+513,Corn,Nepal,955.0
+514,Corn,New Zealand,331.0
+515,Corn,Nicaragua,2583.0
+516,Corn,Nigeria,2743.0
+517,Corn,Norway,3102.0
+518,Corn,Pakistan,752.0
+519,Corn,Panama,7219.0
+520,Corn,Paraguay,206.0
+521,Corn,Peru,38244.0
+522,Corn,Philippines,9068.0
+523,Corn,Poland,23961.0
+524,Corn,Romania,9508.0
+525,Corn,Russia,53018.0
+526,Corn,Rwanda,375.0
+527,Corn,Saudi Arabia,44225.0
+528,Corn,Senegal,2169.0
+531,Corn,Sierra Leone,2.0
+533,Corn,Slovakia,95.0
+534,Corn,Slovenia,1438.0
+535,Corn,Somalia,993.0
+536,Corn,South Africa,17236.0
+537,Corn,South Sudan,0.0
+538,Corn,Swaziland,1152.0
+539,Corn,Switzerland,8152.0
+540,Corn,Syria,24119.0
+541,Corn,Taiwan,172636.0
+542,Corn,Tajikistan,604.0
+544,Corn,Thailand,6814.0
+545,Corn,Togo,118.0
+546,Corn,Trinidad and Tobago,4353.0
+547,Corn,Tunisia,18442.0
+548,Corn,Turkey,20546.0
+549,Corn,Turkmenistan,1111.0
+550,Corn,Uganda,448.0
+551,Corn,Ukraine,6703.0
+554,Corn,Uruguay,2665.0
+555,Corn,Uzbekistan,4163.0
+556,Corn,Venezuela,40728.0
+557,Corn,Vietnam,15645.0
+558,Corn,Yemen,7057.0
+560,Corn,Zambia,3195.0
+561,Corn,Zimbabwe,10648.0
+562,Cotton,Afghanistan,0.0
+563,Cotton,Albania,569.0
+564,Cotton,Algeria,3843.0
+565,Cotton,Angola,55.0
+566,Cotton,Argentina,3146.0
+567,Cotton,Armenia,403.0
+568,Cotton,Australia,954.0
+569,Cotton,Austria,6159.0
+570,Cotton,Azerbaijan,61.0
+572,Cotton,Bangladesh,54269.0
+573,Cotton,Belarus,2017.0
+575,Cotton,Benin,0.0
+576,Cotton,Bolivia,773.0
+577,Cotton,Bosnia and Herzegovina,0.0
+578,Cotton,Brazil,21440.0
+579,Cotton,Bulgaria,9591.0
+582,Cotton,Cambodia,336.0
+583,Cotton,Cameroon,200.0
+584,Cotton,Canada,13711.0
+585,Cotton,Central African Republic,0.0
+586,Cotton,Chad,0.0
+587,Cotton,Chile,4554.0
+588,Cotton,China,204785.0
+589,Cotton,Colombia,5350.0
+591,Cotton,Costa Rica,209.0
+593,Cotton,Croatia,261.0
+594,Cotton,Cuba,4429.0
+595,Cotton,Cyprus,48.0
+596,Cotton,Czech Republic,4108.0
+597,Cotton,Denmark,752.0
+598,Cotton,Dominican Republic,144.0
+599,Cotton,Ecuador,1756.0
+600,Cotton,Egypt,8103.0
+601,Cotton,El Salvador,2985.0
+602,Cotton,Estonia,2371.0
+603,Cotton,Ethiopia,714.0
+604,Cotton,Finland,2043.0
+607,Cotton,France,38329.0
+608,Cotton,Georgia,627.0
+610,Cotton,Germany,11653.0
+612,Cotton,Ghana,956.0
+613,Cotton,Greece,4129.0
+614,Cotton,Guatemala,2472.0
+615,Cotton,Guinea,0.0
+616,Cotton,Haiti,116.0
+617,Cotton,Honduras,344.0
+619,Cotton,Hungary,12491.0
+620,Cotton,India,26820.0
+621,Cotton,Indonesia,69955.0
+622,Cotton,Iran,2950.0
+623,Cotton,Iraq,2453.0
+624,Cotton,Ireland,2269.0
+625,Cotton,Israel,1225.0
+626,Cotton,Italy,55858.0
+627,Cotton,Japan,127325.0
+628,Cotton,Kazakhstan,1204.0
+629,Cotton,Kenya,1195.0
+632,Cotton,Kyrgyzstan,528.0
+633,Cotton,Latvia,549.0
+634,Cotton,Lebanon,608.0
+635,Cotton,Lithuania,1286.0
+636,Cotton,Macedonia,369.0
+637,Cotton,Madagascar,83.0
+638,Cotton,Malawi,1.0
+639,Cotton,Malaysia,12440.0
+640,Cotton,Mali,0.0
+642,Cotton,Mexico,31295.0
+643,Cotton,Moldova,936.0
+644,Cotton,Morocco,5944.0
+645,Cotton,Mozambique,90.0
+646,Cotton,Netherlands,6349.0
+647,Cotton,Nicaragua,0.0
+648,Cotton,Niger,67.0
+649,Cotton,Nigeria,3250.0
+650,Cotton,Norway,568.0
+651,Cotton,Pakistan,26564.0
+652,Cotton,Panama,161.0
+653,Cotton,Paraguay,110.0
+654,Cotton,Peru,4478.0
+655,Cotton,Philippines,8718.0
+656,Cotton,Poland,26072.0
+657,Cotton,Portugal,27724.0
+658,Cotton,Romania,15439.0
+659,Cotton,Russia,55536.0
+660,Cotton,Senegal,0.0
+663,Cotton,Slovakia,638.0
+664,Cotton,Slovenia,754.0
+665,Cotton,Somalia,171.0
+666,Cotton,South Africa,7403.0
+667,Cotton,Spain,13564.0
+668,Cotton,Sri Lanka,1545.0
+669,Cotton,Sudan,0.0
+670,Cotton,Sweden,1767.0
+671,Cotton,Switzerland,9555.0
+672,Cotton,Syria,0.0
+673,Cotton,Taiwan,54818.0
+674,Cotton,Tajikistan,0.0
+676,Cotton,Thailand,52660.0
+677,Cotton,Togo,0.0
+678,Cotton,Tunisia,3478.0
+679,Cotton,Turkey,59647.0
+680,Cotton,Turkmenistan,0.0
+681,Cotton,Uganda,0.0
+682,Cotton,Ukraine,6315.0
+684,Cotton,United Kingdom,19045.0
+686,Cotton,Uruguay,841.0
+687,Cotton,Uzbekistan,104.0
+688,Cotton,Venezuela,2525.0
+689,Cotton,Vietnam,27107.0
+690,Cotton,Yemen,57.0
+693,Cotton,Zambia,43.0
+694,Cotton,Zimbabwe,185.0
+695,"Dairy, Butter",Afghanistan,0.0
+696,"Dairy, Butter",Algeria,350.0
+697,"Dairy, Butter",Argentina,57.0
+698,"Dairy, Butter",Armenia,157.0
+699,"Dairy, Butter",Australia,276.0
+700,"Dairy, Butter",Austria,30.0
+701,"Dairy, Butter",Azerbaijan,201.0
+702,"Dairy, Butter",Belarus,0.0
+704,"Dairy, Butter",Brazil,219.0
+705,"Dairy, Butter",Bulgaria,0.0
+706,"Dairy, Butter",Canada,317.0
+707,"Dairy, Butter",Chile,121.0
+708,"Dairy, Butter",China,4.0
+709,"Dairy, Butter",Colombia,2.0
+710,"Dairy, Butter",Cyprus,0.0
+711,"Dairy, Butter",Denmark,257.0
+713,"Dairy, Butter",Egypt,1121.0
+714,"Dairy, Butter",Estonia,0.0
+716,"Dairy, Butter",Finland,2.0
+719,"Dairy, Butter",France,1914.0
+720,"Dairy, Butter",Georgia,163.0
+722,"Dairy, Butter",Germany,880.0
+724,"Dairy, Butter",Greece,110.0
+725,"Dairy, Butter",Hungary,76.0
+726,"Dairy, Butter",India,346.0
+727,"Dairy, Butter",Ireland,51.0
+728,"Dairy, Butter",Israel,2.0
+729,"Dairy, Butter",Italy,1496.0
+730,"Dairy, Butter",Japan,312.0
+731,"Dairy, Butter",Kazakhstan,50.0
+732,"Dairy, Butter",Kyrgyzstan,32.0
+733,"Dairy, Butter",Latvia,0.0
+734,"Dairy, Butter",Lebanon,52.0
+735,"Dairy, Butter",Lithuania,0.0
+736,"Dairy, Butter",Mexico,959.0
+737,"Dairy, Butter",Moldova,0.0
+738,"Dairy, Butter",Netherlands,2219.0
+739,"Dairy, Butter",New Zealand,65.0
+740,"Dairy, Butter",Norway,14.0
+741,"Dairy, Butter",Peru,226.0
+742,"Dairy, Butter",Philippines,47.0
+743,"Dairy, Butter",Poland,483.0
+744,"Dairy, Butter",Portugal,56.0
+745,"Dairy, Butter",Romania,75.0
+746,"Dairy, Butter",Russia,4545.0
+747,"Dairy, Butter",South Africa,75.0
+748,"Dairy, Butter",Spain,93.0
+749,"Dairy, Butter",Sweden,5.0
+750,"Dairy, Butter",Switzerland,306.0
+751,"Dairy, Butter",Taiwan,205.0
+752,"Dairy, Butter",Tajikistan,48.0
+753,"Dairy, Butter",Turkey,19.0
+754,"Dairy, Butter",Turkmenistan,48.0
+755,"Dairy, Butter",Ukraine,106.0
+757,"Dairy, Butter",United Kingdom,8718.0
+759,"Dairy, Butter",Uzbekistan,263.0
+760,"Dairy, Butter",Venezuela,26.0
+761,"Dairy, Cheese",Algeria,323.0
+762,"Dairy, Cheese",Argentina,104.0
+763,"Dairy, Cheese",Armenia,0.0
+764,"Dairy, Cheese",Australia,1560.0
+765,"Dairy, Cheese",Austria,330.0
+766,"Dairy, Cheese",Azerbaijan,0.0
+767,"Dairy, Cheese",Belarus,0.0
+769,"Dairy, Cheese",Brazil,624.0
+770,"Dairy, Cheese",Bulgaria,0.0
+771,"Dairy, Cheese",Canada,1052.0
+772,"Dairy, Cheese",Chile,12.0
+773,"Dairy, Cheese",China,0.0
+774,"Dairy, Cheese",Colombia,0.0
+775,"Dairy, Cheese",Denmark,263.0
+777,"Dairy, Cheese",Egypt,492.0
+778,"Dairy, Cheese",Estonia,0.0
+780,"Dairy, Cheese",Finland,43.0
+783,"Dairy, Cheese",France,2251.0
+784,"Dairy, Cheese",Georgia,0.0
+786,"Dairy, Cheese",Germany,2421.0
+788,"Dairy, Cheese",Greece,753.0
+789,"Dairy, Cheese",Hungary,11.0
+790,"Dairy, Cheese",India,0.0
+791,"Dairy, Cheese",Ireland,138.0
+792,"Dairy, Cheese",Israel,0.0
+793,"Dairy, Cheese",Italy,6633.0
+794,"Dairy, Cheese",Japan,6364.0
+795,"Dairy, Cheese",Kazakhstan,0.0
+797,"Dairy, Cheese",Kyrgyzstan,0.0
+798,"Dairy, Cheese",Latvia,0.0
+799,"Dairy, Cheese",Lebanon,101.0
+800,"Dairy, Cheese",Lithuania,0.0
+801,"Dairy, Cheese",Mexico,1605.0
+802,"Dairy, Cheese",Moldova,0.0
+803,"Dairy, Cheese",Netherlands,1145.0
+804,"Dairy, Cheese",New Zealand,76.0
+805,"Dairy, Cheese",Norway,32.0
+806,"Dairy, Cheese",Peru,17.0
+807,"Dairy, Cheese",Philippines,255.0
+808,"Dairy, Cheese",Poland,139.0
+809,"Dairy, Cheese",Portugal,96.0
+810,"Dairy, Cheese",Romania,39.0
+811,"Dairy, Cheese",Russia,4800.0
+812,"Dairy, Cheese",South Africa,32.0
+813,"Dairy, Cheese",Spain,883.0
+814,"Dairy, Cheese",Sweden,507.0
+815,"Dairy, Cheese",Switzerland,707.0
+816,"Dairy, Cheese",Taiwan,269.0
+817,"Dairy, Cheese",Tajikistan,0.0
+818,"Dairy, Cheese",Turkey,0.0
+819,"Dairy, Cheese",Turkmenistan,0.0
+820,"Dairy, Cheese",Ukraine,137.0
+822,"Dairy, Cheese",United Kingdom,5206.0
+824,"Dairy, Cheese",Uzbekistan,0.0
+825,"Dairy, Cheese",Venezuela,121.0
+826,"Dairy, Dry Whole Milk Powder",Afghanistan,0.0
+827,"Dairy, Dry Whole Milk Powder",Algeria,4172.0
+828,"Dairy, Dry Whole Milk Powder",Argentina,79.0
+829,"Dairy, Dry Whole Milk Powder",Australia,177.0
+831,"Dairy, Dry Whole Milk Powder",Brazil,1716.0
+832,"Dairy, Dry Whole Milk Powder",Canada,30.0
+833,"Dairy, Dry Whole Milk Powder",Chile,365.0
+834,"Dairy, Dry Whole Milk Powder",China,4014.0
+835,"Dairy, Dry Whole Milk Powder",Colombia,170.0
+836,"Dairy, Dry Whole Milk Powder",Denmark,117.0
+837,"Dairy, Dry Whole Milk Powder",Dominican Republic,9.0
+839,"Dairy, Dry Whole Milk Powder",Egypt,494.0
+841,"Dairy, Dry Whole Milk Powder",France,414.0
+843,"Dairy, Dry Whole Milk Powder",Germany,198.0
+845,"Dairy, Dry Whole Milk Powder",Greece,10.0
+846,"Dairy, Dry Whole Milk Powder",India,98.0
+847,"Dairy, Dry Whole Milk Powder",Indonesia,633.0
+848,"Dairy, Dry Whole Milk Powder",Ireland,28.0
+849,"Dairy, Dry Whole Milk Powder",Israel,68.0
+850,"Dairy, Dry Whole Milk Powder",Italy,521.0
+851,"Dairy, Dry Whole Milk Powder",Japan,1090.0
+852,"Dairy, Dry Whole Milk Powder",Malaysia,475.0
+853,"Dairy, Dry Whole Milk Powder",Mexico,774.0
+854,"Dairy, Dry Whole Milk Powder",Netherlands,4421.0
+855,"Dairy, Dry Whole Milk Powder",New Zealand,21.0
+856,"Dairy, Dry Whole Milk Powder",Peru,334.0
+857,"Dairy, Dry Whole Milk Powder",Philippines,782.0
+858,"Dairy, Dry Whole Milk Powder",Poland,2.0
+859,"Dairy, Dry Whole Milk Powder",Portugal,13.0
+860,"Dairy, Dry Whole Milk Powder",Russia,718.0
+861,"Dairy, Dry Whole Milk Powder",Spain,17.0
+862,"Dairy, Dry Whole Milk Powder",Switzerland,19.0
+863,"Dairy, Dry Whole Milk Powder",Taiwan,623.0
+864,"Dairy, Dry Whole Milk Powder",Thailand,336.0
+865,"Dairy, Dry Whole Milk Powder",Ukraine,7.0
+867,"Dairy, Dry Whole Milk Powder",United Kingdom,178.0
+869,"Dairy, Dry Whole Milk Powder",Venezuela,1608.0
+870,"Dairy, Milk, Fluid",Algeria,36.0
+871,"Dairy, Milk, Fluid",Argentina,357.0
+872,"Dairy, Milk, Fluid",Armenia,0.0
+873,"Dairy, Milk, Fluid",Australia,106.0
+874,"Dairy, Milk, Fluid",Austria,75.0
+875,"Dairy, Milk, Fluid",Azerbaijan,0.0
+876,"Dairy, Milk, Fluid",Belarus,0.0
+878,"Dairy, Milk, Fluid",Brazil,521.0
+879,"Dairy, Milk, Fluid",Bulgaria,0.0
+880,"Dairy, Milk, Fluid",Canada,355.0
+881,"Dairy, Milk, Fluid",Chile,0.0
+882,"Dairy, Milk, Fluid",China,1200.0
+883,"Dairy, Milk, Fluid",Colombia,203.0
+884,"Dairy, Milk, Fluid",Costa Rica,0.0
+885,"Dairy, Milk, Fluid",Denmark,55.0
+886,"Dairy, Milk, Fluid",Dominican Republic,0.0
+888,"Dairy, Milk, Fluid",Egypt,233.0
+889,"Dairy, Milk, Fluid",Estonia,0.0
+891,"Dairy, Milk, Fluid",Finland,68.0
+894,"Dairy, Milk, Fluid",France,3591.0
+895,"Dairy, Milk, Fluid",Georgia,0.0
+897,"Dairy, Milk, Fluid",Germany,1319.0
+899,"Dairy, Milk, Fluid",Greece,2908.0
+900,"Dairy, Milk, Fluid",Hungary,0.0
+901,"Dairy, Milk, Fluid",India,0.0
+902,"Dairy, Milk, Fluid",Ireland,776.0
+903,"Dairy, Milk, Fluid",Israel,13.0
+904,"Dairy, Milk, Fluid",Italy,23473.0
+905,"Dairy, Milk, Fluid",Japan,0.0
+906,"Dairy, Milk, Fluid",Kazakhstan,0.0
+908,"Dairy, Milk, Fluid",Kyrgyzstan,0.0
+909,"Dairy, Milk, Fluid",Latvia,0.0
+910,"Dairy, Milk, Fluid",Lebanon,106.0
+911,"Dairy, Milk, Fluid",Lithuania,0.0
+912,"Dairy, Milk, Fluid",Mexico,1225.0
+913,"Dairy, Milk, Fluid",Moldova,0.0
+914,"Dairy, Milk, Fluid",Netherlands,9702.0
+915,"Dairy, Milk, Fluid",New Zealand,25.0
+916,"Dairy, Milk, Fluid",Norway,25.0
+917,"Dairy, Milk, Fluid",Panama,0.0
+918,"Dairy, Milk, Fluid",Peru,0.0
+919,"Dairy, Milk, Fluid",Philippines,627.0
+920,"Dairy, Milk, Fluid",Poland,391.0
+921,"Dairy, Milk, Fluid",Portugal,340.0
+922,"Dairy, Milk, Fluid",Romania,24.0
+923,"Dairy, Milk, Fluid",Russia,2923.0
+924,"Dairy, Milk, Fluid",South Africa,0.0
+925,"Dairy, Milk, Fluid",Spain,4557.0
+926,"Dairy, Milk, Fluid",Sweden,7.0
+927,"Dairy, Milk, Fluid",Switzerland,346.0
+928,"Dairy, Milk, Fluid",Taiwan,213.0
+929,"Dairy, Milk, Fluid",Tajikistan,0.0
+930,"Dairy, Milk, Fluid",Thailand,0.0
+931,"Dairy, Milk, Fluid",Turkey,0.0
+932,"Dairy, Milk, Fluid",Turkmenistan,0.0
+933,"Dairy, Milk, Fluid",Ukraine,36.0
+935,"Dairy, Milk, Fluid",United Kingdom,979.0
+937,"Dairy, Milk, Fluid",Uzbekistan,0.0
+938,"Dairy, Milk, Fluid",Venezuela,0.0
+939,"Dairy, Milk, Nonfat Dry",Afghanistan,0.0
+940,"Dairy, Milk, Nonfat Dry",Algeria,2712.0
+941,"Dairy, Milk, Nonfat Dry",Argentina,80.0
+942,"Dairy, Milk, Nonfat Dry",Armenia,15.0
+943,"Dairy, Milk, Nonfat Dry",Australia,78.0
+944,"Dairy, Milk, Nonfat Dry",Austria,52.0
+945,"Dairy, Milk, Nonfat Dry",Azerbaijan,16.0
+946,"Dairy, Milk, Nonfat Dry",Belarus,0.0
+948,"Dairy, Milk, Nonfat Dry",Brazil,1465.0
+949,"Dairy, Milk, Nonfat Dry",Canada,81.0
+950,"Dairy, Milk, Nonfat Dry",Chile,353.0
+951,"Dairy, Milk, Nonfat Dry",China,1815.0
+952,"Dairy, Milk, Nonfat Dry",Colombia,33.0
+953,"Dairy, Milk, Nonfat Dry",Denmark,388.0
+955,"Dairy, Milk, Nonfat Dry",Egypt,187.0
+956,"Dairy, Milk, Nonfat Dry",Estonia,0.0
+958,"Dairy, Milk, Nonfat Dry",Finland,2.0
+961,"Dairy, Milk, Nonfat Dry",France,884.0
+962,"Dairy, Milk, Nonfat Dry",Georgia,15.0
+964,"Dairy, Milk, Nonfat Dry",Germany,209.0
+966,"Dairy, Milk, Nonfat Dry",Greece,166.0
+967,"Dairy, Milk, Nonfat Dry",Hungary,210.0
+968,"Dairy, Milk, Nonfat Dry",India,1030.0
+969,"Dairy, Milk, Nonfat Dry",Indonesia,2762.0
+970,"Dairy, Milk, Nonfat Dry",Ireland,37.0
+971,"Dairy, Milk, Nonfat Dry",Italy,5981.0
+972,"Dairy, Milk, Nonfat Dry",Japan,3672.0
+973,"Dairy, Milk, Nonfat Dry",Kazakhstan,0.0
+975,"Dairy, Milk, Nonfat Dry",Kyrgyzstan,0.0
+976,"Dairy, Milk, Nonfat Dry",Latvia,0.0
+977,"Dairy, Milk, Nonfat Dry",Lithuania,0.0
+978,"Dairy, Milk, Nonfat Dry",Luxembourg,0.0
+979,"Dairy, Milk, Nonfat Dry",Malaysia,833.0
+980,"Dairy, Milk, Nonfat Dry",Mexico,6388.0
+981,"Dairy, Milk, Nonfat Dry",Moldova,0.0
+982,"Dairy, Milk, Nonfat Dry",Netherlands,7724.0
+983,"Dairy, Milk, Nonfat Dry",New Zealand,86.0
+984,"Dairy, Milk, Nonfat Dry",Norway,11.0
+985,"Dairy, Milk, Nonfat Dry",Panama,6.0
+986,"Dairy, Milk, Nonfat Dry",Peru,708.0
+987,"Dairy, Milk, Nonfat Dry",Philippines,2803.0
+988,"Dairy, Milk, Nonfat Dry",Poland,125.0
+989,"Dairy, Milk, Nonfat Dry",Portugal,60.0
+990,"Dairy, Milk, Nonfat Dry",Romania,33.0
+991,"Dairy, Milk, Nonfat Dry",Russia,1485.0
+992,"Dairy, Milk, Nonfat Dry",South Africa,35.0
+993,"Dairy, Milk, Nonfat Dry",Spain,708.0
+994,"Dairy, Milk, Nonfat Dry",Sweden,49.0
+995,"Dairy, Milk, Nonfat Dry",Switzerland,73.0
+996,"Dairy, Milk, Nonfat Dry",Taiwan,494.0
+997,"Dairy, Milk, Nonfat Dry",Tajikistan,5.0
+998,"Dairy, Milk, Nonfat Dry",Thailand,838.0
+999,"Dairy, Milk, Nonfat Dry",Turkmenistan,5.0
+1000,"Dairy, Milk, Nonfat Dry",Ukraine,22.0
+1002,"Dairy, Milk, Nonfat Dry",United Kingdom,671.0
+1004,"Dairy, Milk, Nonfat Dry",Uzbekistan,16.0
+1005,"Dairy, Milk, Nonfat Dry",Venezuela,245.0
+1006,"Filberts, Inshell Basis",Australia,63300.0
+1007,"Filberts, Inshell Basis",Azerbaijan,0.0
+1008,"Filberts, Inshell Basis",Brazil,71000.0
+1009,"Filberts, Inshell Basis",Canada,162900.0
+1010,"Filberts, Inshell Basis",Croatia,18900.0
+1013,"Filberts, Inshell Basis",Iran,0.0
+1014,"Filberts, Inshell Basis",Italy,628172.0
+1015,"Filberts, Inshell Basis",Japan,16400.0
+1017,"Filberts, Inshell Basis",Norway,32200.0
+1018,"Filberts, Inshell Basis",Russia,261600.0
+1020,"Filberts, Inshell Basis",South Africa,11700.0
+1021,"Filberts, Inshell Basis",Spain,108376.0
+1022,"Filberts, Inshell Basis",Switzerland,280000.0
+1023,"Filberts, Inshell Basis",Turkey,36368.0
+1024,"Filberts, Inshell Basis",Ukraine,67900.0
+1026,"Fresh Cherries,(Sweet&Sour)",Afghanistan,0.0
+1027,"Fresh Cherries,(Sweet&Sour)",Argentina,510.0
+1028,"Fresh Cherries,(Sweet&Sour)",Australia,31499.0
+1029,"Fresh Cherries,(Sweet&Sour)",Austria,10500.0
+1030,"Fresh Cherries,(Sweet&Sour)",Azerbaijan,1266.0
+1031,"Fresh Cherries,(Sweet&Sour)",Bulgaria,0.0
+1032,"Fresh Cherries,(Sweet&Sour)",Canada,383947.0
+1033,"Fresh Cherries,(Sweet&Sour)",Chile,20.0
+1034,"Fresh Cherries,(Sweet&Sour)",China,145760.0
+1037,"Fresh Cherries,(Sweet&Sour)",France,51400.0
+1039,"Fresh Cherries,(Sweet&Sour)",Germany,291599.0
+1041,"Fresh Cherries,(Sweet&Sour)",Greece,4225.0
+1043,"Fresh Cherries,(Sweet&Sour)",Hungary,0.0
+1044,"Fresh Cherries,(Sweet&Sour)",Iran,0.0
+1045,"Fresh Cherries,(Sweet&Sour)",Italy,45637.0
+1046,"Fresh Cherries,(Sweet&Sour)",Japan,285092.0
+1047,"Fresh Cherries,(Sweet&Sour)",Kazakhstan,0.0
+1049,"Fresh Cherries,(Sweet&Sour)",Kyrgyzstan,0.0
+1050,"Fresh Cherries,(Sweet&Sour)",Netherlands,0.0
+1051,"Fresh Cherries,(Sweet&Sour)",New Zealand,0.0
+1052,"Fresh Cherries,(Sweet&Sour)",Poland,0.0
+1053,"Fresh Cherries,(Sweet&Sour)",Russia,647152.0
+1055,"Fresh Cherries,(Sweet&Sour)",Spain,2400.0
+1056,"Fresh Cherries,(Sweet&Sour)",Syria,103.0
+1057,"Fresh Cherries,(Sweet&Sour)",Taiwan,140377.0
+1058,"Fresh Cherries,(Sweet&Sour)",Turkey,163.0
+1059,"Fresh Cherries,(Sweet&Sour)",Ukraine,4308.0
+1061,"Fresh Cherries,(Sweet&Sour)",Uzbekistan,0.0
+1062,"Fresh Cherries,(Sweet&Sour)",Venezuela,403.0
+1064,Fresh Peaches & Nectarines,Argentina,31090.0
+1065,Fresh Peaches & Nectarines,Australia,18221.0
+1066,Fresh Peaches & Nectarines,Austria,163800.0
+1068,Fresh Peaches & Nectarines,Brazil,379791.0
+1069,Fresh Peaches & Nectarines,Canada,1512162.0
+1070,Fresh Peaches & Nectarines,Chile,859.0
+1071,Fresh Peaches & Nectarines,China,178671.0
+1072,Fresh Peaches & Nectarines,Colombia,29844.0
+1075,Fresh Peaches & Nectarines,France,858100.0
+1076,Fresh Peaches & Nectarines,Germany,1603671.0
+1077,Fresh Peaches & Nectarines,Greece,45.0
+1078,Fresh Peaches & Nectarines,Iraq,0.0
+1079,Fresh Peaches & Nectarines,Italy,210288.0
+1080,Fresh Peaches & Nectarines,Japan,526.0
+1081,Fresh Peaches & Nectarines,Malaysia,664.0
+1082,Fresh Peaches & Nectarines,Mexico,584315.0
+1083,Fresh Peaches & Nectarines,Netherlands,0.0
+1084,Fresh Peaches & Nectarines,New Zealand,2306.0
+1085,Fresh Peaches & Nectarines,Poland,0.0
+1086,Fresh Peaches & Nectarines,Portugal,0.0
+1087,Fresh Peaches & Nectarines,Russia,2073247.0
+1089,Fresh Peaches & Nectarines,Saudi Arabia,241151.0
+1091,Fresh Peaches & Nectarines,South Africa,4884.0
+1092,Fresh Peaches & Nectarines,Spain,62240.0
+1093,Fresh Peaches & Nectarines,Switzerland,441670.0
+1094,Fresh Peaches & Nectarines,Taiwan,488598.0
+1095,Fresh Peaches & Nectarines,Turkey,947.0
+1096,Fresh Peaches & Nectarines,Ukraine,330515.0
+1097,Fresh Peaches & Nectarines,United Kingdom,0.0
+1099,Fresh Peaches & Nectarines,Uzbekistan,26.0
+1100,Fresh Peaches & Nectarines,Venezuela,2628.0
+1101,Fresh Peaches & Nectarines,Vietnam,137410.0
+1102,"Grapefruit, Fresh",Algeria,0.0
+1103,"Grapefruit, Fresh",Argentina,66.0
+1104,"Grapefruit, Fresh",Australia,10.0
+1105,"Grapefruit, Fresh",Brazil,0.0
+1106,"Grapefruit, Fresh",Canada,667.0
+1107,"Grapefruit, Fresh",China,136.0
+1108,"Grapefruit, Fresh",Cuba,0.0
+1109,"Grapefruit, Fresh",Cyprus,0.0
+1110,"Grapefruit, Fresh",Egypt,0.0
+1114,"Grapefruit, Fresh",Greece,0.0
+1116,"Grapefruit, Fresh",Israel,78.0
+1117,"Grapefruit, Fresh",Italy,1311.0
+1118,"Grapefruit, Fresh",Japan,7026.0
+1119,"Grapefruit, Fresh",Lebanon,0.0
+1120,"Grapefruit, Fresh",Mexico,124.0
+1121,"Grapefruit, Fresh",Morocco,0.0
+1122,"Grapefruit, Fresh",Netherlands,0.0
+1123,"Grapefruit, Fresh",Russia,1204.0
+1124,"Grapefruit, Fresh",South Africa,45.0
+1125,"Grapefruit, Fresh",Spain,0.0
+1126,"Grapefruit, Fresh",Sweden,0.0
+1127,"Grapefruit, Fresh",Switzerland,111.0
+1128,"Grapefruit, Fresh",Turkey,106.0
+1129,"Grapefruit, Fresh",Ukraine,226.0
+1131,"Grapefruit, Fresh",Uruguay,0.0
+1132,"Grapes, Fresh",Argentina,48719.0
+1133,"Grapes, Fresh",Australia,121200.0
+1134,"Grapes, Fresh",Azerbaijan,12300.0
+1135,"Grapes, Fresh",Brazil,246600.0
+1136,"Grapes, Fresh",Canada,2313200.0
+1137,"Grapes, Fresh",Chile,2315.0
+1138,"Grapes, Fresh",China,1376469.0
+1141,"Grapes, Fresh",France,2396400.0
+1142,"Grapes, Fresh",Greece,8937.0
+1144,"Grapes, Fresh",India,29700.0
+1145,"Grapes, Fresh",Indonesia,417000.0
+1146,"Grapes, Fresh",Italy,182918.0
+1147,"Grapes, Fresh",Japan,311977.0
+1149,"Grapes, Fresh",Mexico,1376171.0
+1150,"Grapes, Fresh",Netherlands,254398.0
+1151,"Grapes, Fresh",New Zealand,140600.0
+1152,"Grapes, Fresh",Peru,15400.0
+1153,"Grapes, Fresh",Russia,4045260.0
+1154,"Grapes, Fresh",South Africa,27200.0
+1155,"Grapes, Fresh",Spain,160409.0
+1156,"Grapes, Fresh",Turkey,8255.0
+1157,"Grapes, Fresh",Ukraine,393300.0
+1159,"Lemons/Limes, Fresh",Algeria,0.0
+1160,"Lemons/Limes, Fresh",Argentina,14.0
+1161,"Lemons/Limes, Fresh",Australia,40.0
+1162,"Lemons/Limes, Fresh",Brazil,0.0
+1163,"Lemons/Limes, Fresh",Canada,975.0
+1164,"Lemons/Limes, Fresh",Chile,1.0
+1165,"Lemons/Limes, Fresh",Croatia,0.0
+1166,"Lemons/Limes, Fresh",Cyprus,0.0
+1167,"Lemons/Limes, Fresh",Egypt,0.0
+1171,"Lemons/Limes, Fresh",Greece,112.0
+1173,"Lemons/Limes, Fresh",Israel,43.0
+1174,"Lemons/Limes, Fresh",Italy,235.0
+1175,"Lemons/Limes, Fresh",Japan,2834.0
+1176,"Lemons/Limes, Fresh",Lebanon,0.0
+1177,"Lemons/Limes, Fresh",Mexico,29.0
+1178,"Lemons/Limes, Fresh",Morocco,0.0
+1179,"Lemons/Limes, Fresh",Netherlands,0.0
+1180,"Lemons/Limes, Fresh",Russia,2697.0
+1181,"Lemons/Limes, Fresh",Saudi Arabia,1147.0
+1183,"Lemons/Limes, Fresh",South Africa,34.0
+1184,"Lemons/Limes, Fresh",Spain,180.0
+1185,"Lemons/Limes, Fresh",Sweden,0.0
+1186,"Lemons/Limes, Fresh",Switzerland,0.0
+1187,"Lemons/Limes, Fresh",Tunisia,0.0
+1188,"Lemons/Limes, Fresh",Turkey,45.0
+1189,"Lemons/Limes, Fresh",Ukraine,748.0
+1190,"Lemons/Limes, Fresh",United Arab Emirates,755.0
+1191,"Lemons/Limes, Fresh",United Kingdom,0.0
+1193,"Lemons/Limes, Fresh",Uruguay,0.0
+1194,"Meal, Copra",Australia,0.0
+1195,"Meal, Copra",Austria,21.0
+1196,"Meal, Copra",Bangladesh,163.0
+1199,"Meal, Copra",Denmark,1542.0
+1203,"Meal, Copra",Fiji,0.0
+1204,"Meal, Copra",France,154.0
+1207,"Meal, Copra",Ghana,0.0
+1209,"Meal, Copra",India,685.0
+1210,"Meal, Copra",Indonesia,6.0
+1211,"Meal, Copra",Ireland,1.0
+1212,"Meal, Copra",Italy,300.0
+1213,"Meal, Copra",Jamaica,0.0
+1214,"Meal, Copra",Japan,287.0
+1216,"Meal, Copra",Malaysia,14.0
+1217,"Meal, Copra",Mexico,0.0
+1218,"Meal, Copra",Mozambique,0.0
+1219,"Meal, Copra",Netherlands,6339.0
+1220,"Meal, Copra",New Caledonia,0.0
+1221,"Meal, Copra",Nigeria,0.0
+1222,"Meal, Copra",Norway,6.0
+1223,"Meal, Copra",Papua New Guinea,0.0
+1224,"Meal, Copra",Philippines,0.0
+1225,"Meal, Copra",Poland,43.0
+1226,"Meal, Copra",Portugal,13.0
+1229,"Meal, Copra",Spain,18.0
+1230,"Meal, Copra",Sri Lanka,0.0
+1231,"Meal, Copra",Sweden,906.0
+1232,"Meal, Copra",Switzerland,0.0
+1234,"Meal, Copra",Thailand,21.0
+1236,"Meal, Copra",United Kingdom,87.0
+1238,"Meal, Copra",Venezuela,0.0
+1239,"Meal, Copra",Vietnam,1704.0
+1240,"Meal, Cottonseed",Albania,0.0
+1241,"Meal, Cottonseed",Algeria,1.0
+1242,"Meal, Cottonseed",Argentina,0.0
+1243,"Meal, Cottonseed",Armenia,0.0
+1244,"Meal, Cottonseed",Australia,0.0
+1245,"Meal, Cottonseed",Azerbaijan,0.0
+1246,"Meal, Cottonseed",Belarus,1272.0
+1248,"Meal, Cottonseed",Benin,0.0
+1249,"Meal, Cottonseed",Brazil,100.0
+1250,"Meal, Cottonseed",Bulgaria,48.0
+1253,"Meal, Cottonseed",Cameroon,0.0
+1254,"Meal, Cottonseed",Chad,0.0
+1255,"Meal, Cottonseed",China,48.0
+1256,"Meal, Cottonseed",Costa Rica,3.0
+1258,"Meal, Cottonseed",Denmark,8387.0
+1259,"Meal, Cottonseed",Dominican Republic,53.0
+1262,"Meal, Cottonseed",Egypt,175.0
+1263,"Meal, Cottonseed",Ethiopia,0.0
+1267,"Meal, Cottonseed",France,489.0
+1268,"Meal, Cottonseed",Georgia,0.0
+1270,"Meal, Cottonseed",Germany,0.0
+1272,"Meal, Cottonseed",Greece,4.0
+1273,"Meal, Cottonseed",Hungary,162.0
+1274,"Meal, Cottonseed",India,0.0
+1275,"Meal, Cottonseed",Indonesia,0.0
+1276,"Meal, Cottonseed",Iran,1461.0
+1277,"Meal, Cottonseed",Iraq,0.0
+1278,"Meal, Cottonseed",Ireland,583.0
+1279,"Meal, Cottonseed",Italy,606.0
+1280,"Meal, Cottonseed",Japan,140.0
+1281,"Meal, Cottonseed",Kazakhstan,0.0
+1283,"Meal, Cottonseed",Kyrgyzstan,0.0
+1284,"Meal, Cottonseed",Madagascar,0.0
+1285,"Meal, Cottonseed",Malaysia,2.0
+1286,"Meal, Cottonseed",Mali,39.0
+1287,"Meal, Cottonseed",Malta,196.0
+1288,"Meal, Cottonseed",Mexico,2876.0
+1289,"Meal, Cottonseed",Mozambique,48.0
+1290,"Meal, Cottonseed",Netherlands,559.0
+1291,"Meal, Cottonseed",Nicaragua,0.0
+1292,"Meal, Cottonseed",Nigeria,0.0
+1293,"Meal, Cottonseed",Norway,327.0
+1294,"Meal, Cottonseed",Pakistan,0.0
+1295,"Meal, Cottonseed",Panama,22.0
+1296,"Meal, Cottonseed",Paraguay,35.0
+1297,"Meal, Cottonseed",Romania,53.0
+1298,"Meal, Cottonseed",Russia,1606.0
+1299,"Meal, Cottonseed",Saudi Arabia,248.0
+1300,"Meal, Cottonseed",South Africa,2328.0
+1301,"Meal, Cottonseed",Spain,73.0
+1302,"Meal, Cottonseed",Sudan,0.0
+1303,"Meal, Cottonseed",Sweden,759.0
+1304,"Meal, Cottonseed",Syria,126.0
+1305,"Meal, Cottonseed",Tajikistan,0.0
+1307,"Meal, Cottonseed",Togo,15.0
+1308,"Meal, Cottonseed",Turkey,340.0
+1309,"Meal, Cottonseed",Turkmenistan,0.0
+1310,"Meal, Cottonseed",Uganda,51.0
+1312,"Meal, Cottonseed",United Kingdom,2068.0
+1314,"Meal, Cottonseed",Uzbekistan,0.0
+1317,"Meal, Cottonseed",Zimbabwe,117.0
+1318,"Meal, Fish",Austria,370.0
+1320,"Meal, Fish",Bermuda,0.0
+1321,"Meal, Fish",Canada,1401.0
+1322,"Meal, Fish",Chile,670.0
+1323,"Meal, Fish",China,25563.0
+1324,"Meal, Fish",Colombia,1137.0
+1325,"Meal, Fish",Denmark,379.0
+1328,"Meal, Fish",Ecuador,210.0
+1331,"Meal, Fish",Finland,1568.0
+1333,"Meal, Fish",France,1937.0
+1336,"Meal, Fish",Greece,429.0
+1337,"Meal, Fish",Hungary,1846.0
+1338,"Meal, Fish",Iceland,0.0
+1339,"Meal, Fish",Indonesia,2690.0
+1340,"Meal, Fish",Iran,1809.0
+1341,"Meal, Fish",Ireland,367.0
+1342,"Meal, Fish",Italy,2483.0
+1343,"Meal, Fish",Japan,11457.0
+1345,"Meal, Fish",Malaysia,1096.0
+1346,"Meal, Fish",Mexico,1581.0
+1347,"Meal, Fish",Netherlands,2741.0
+1348,"Meal, Fish",New Zealand,32.0
+1349,"Meal, Fish",Norway,4252.0
+1350,"Meal, Fish",Peru,8.0
+1351,"Meal, Fish",Philippines,1627.0
+1352,"Meal, Fish",Poland,2196.0
+1353,"Meal, Fish",Portugal,320.0
+1354,"Meal, Fish",Romania,816.0
+1355,"Meal, Fish",Russia,1220.0
+1356,"Meal, Fish",Senegal,0.0
+1357,"Meal, Fish",South Africa,1777.0
+1358,"Meal, Fish",Spain,1180.0
+1359,"Meal, Fish",Sweden,2062.0
+1360,"Meal, Fish",Switzerland,2078.0
+1361,"Meal, Fish",Taiwan,10749.0
+1362,"Meal, Fish",Thailand,1436.0
+1363,"Meal, Fish",Turkey,1129.0
+1365,"Meal, Fish",United Kingdom,7580.0
+1367,"Meal, Fish",Venezuela,235.0
+1368,"Meal, Palm Kernel",Australia,749.0
+1370,"Meal, Palm Kernel",Benin,0.0
+1371,"Meal, Palm Kernel",Brazil,0.0
+1372,"Meal, Palm Kernel",Cameroon,0.0
+1373,"Meal, Palm Kernel",Colombia,10.0
+1375,"Meal, Palm Kernel",Costa Rica,117.0
+1377,"Meal, Palm Kernel",Denmark,661.0
+1378,"Meal, Palm Kernel",Dominican Republic,0.0
+1381,"Meal, Palm Kernel",Ecuador,1.0
+1384,"Meal, Palm Kernel",France,185.0
+1385,"Meal, Palm Kernel",Germany,0.0
+1387,"Meal, Palm Kernel",Ghana,19.0
+1388,"Meal, Palm Kernel",Guatemala,0.0
+1389,"Meal, Palm Kernel",Guinea,0.0
+1391,"Meal, Palm Kernel",Honduras,4.0
+1392,"Meal, Palm Kernel",Hungary,256.0
+1393,"Meal, Palm Kernel",India,64.0
+1394,"Meal, Palm Kernel",Indonesia,4.0
+1395,"Meal, Palm Kernel",Ireland,27.0
+1396,"Meal, Palm Kernel",Italy,0.0
+1398,"Meal, Palm Kernel",Liberia,0.0
+1399,"Meal, Palm Kernel",Malaysia,83.0
+1400,"Meal, Palm Kernel",Netherlands,5331.0
+1401,"Meal, Palm Kernel",New Zealand,12764.0
+1402,"Meal, Palm Kernel",Nigeria,0.0
+1403,"Meal, Palm Kernel",Papua New Guinea,0.0
+1404,"Meal, Palm Kernel",Philippines,294.0
+1405,"Meal, Palm Kernel",Poland,10.0
+1406,"Meal, Palm Kernel",Portugal,306.0
+1407,"Meal, Palm Kernel",Romania,224.0
+1408,"Meal, Palm Kernel",Sierra Leone,0.0
+1410,"Meal, Palm Kernel",Sweden,84.0
+1411,"Meal, Palm Kernel",Switzerland,4.0
+1412,"Meal, Palm Kernel",Thailand,834.0
+1413,"Meal, Palm Kernel",Togo,0.0
+1415,"Meal, Palm Kernel",United Kingdom,535.0
+1416,"Meal, Palm Kernel",Vietnam,1621.0
+1417,"Meal, Peanut",Argentina,0.0
+1418,"Meal, Peanut",Bangladesh,5.0
+1420,"Meal, Peanut",Benin,0.0
+1421,"Meal, Peanut",Brazil,0.0
+1424,"Meal, Peanut",Cameroon,0.0
+1425,"Meal, Peanut",Central African Republic,0.0
+1426,"Meal, Peanut",Chad,0.0
+1427,"Meal, Peanut",China,574.0
+1428,"Meal, Peanut",Colombia,0.0
+1433,"Meal, Peanut",Ecuador,0.0
+1436,"Meal, Peanut",France,4155.0
+1439,"Meal, Peanut",Germany,0.0
+1441,"Meal, Peanut",India,0.0
+1442,"Meal, Peanut",Indonesia,1411.0
+1443,"Meal, Peanut",Ireland,80.0
+1444,"Meal, Peanut",Italy,570.0
+1445,"Meal, Peanut",Japan,0.0
+1446,"Meal, Peanut",Malawi,0.0
+1447,"Meal, Peanut",Malaysia,493.0
+1448,"Meal, Peanut",Mali,0.0
+1449,"Meal, Peanut",Mexico,55.0
+1450,"Meal, Peanut",Morocco,3.0
+1451,"Meal, Peanut",Mozambique,0.0
+1452,"Meal, Peanut",Netherlands,644.0
+1453,"Meal, Peanut",Niger,0.0
+1454,"Meal, Peanut",Nigeria,6.0
+1455,"Meal, Peanut",Philippines,32.0
+1456,"Meal, Peanut",Portugal,436.0
+1457,"Meal, Peanut",Russia,141.0
+1458,"Meal, Peanut",Senegal,1.0
+1459,"Meal, Peanut",South Africa,85.0
+1460,"Meal, Peanut",Spain,159.0
+1461,"Meal, Peanut",Sudan,0.0
+1462,"Meal, Peanut",Switzerland,140.0
+1463,"Meal, Peanut",Taiwan,313.0
+1465,"Meal, Peanut",Thailand,2159.0
+1466,"Meal, Peanut",Togo,0.0
+1467,"Meal, Peanut",Turkey,0.0
+1468,"Meal, Peanut",Uganda,0.0
+1470,"Meal, Peanut",United Kingdom,1748.0
+1472,"Meal, Peanut",Vietnam,154.0
+1473,"Meal, Peanut",Zambia,0.0
+1474,"Meal, Peanut",Zimbabwe,0.0
+1475,"Meal, Rapeseed",Algeria,2.0
+1476,"Meal, Rapeseed",Argentina,0.0
+1477,"Meal, Rapeseed",Australia,11.0
+1478,"Meal, Rapeseed",Austria,185.0
+1479,"Meal, Rapeseed",Bangladesh,972.0
+1480,"Meal, Rapeseed",Belarus,0.0
+1482,"Meal, Rapeseed",Canada,147.0
+1483,"Meal, Rapeseed",Chile,64.0
+1484,"Meal, Rapeseed",China,5101.0
+1485,"Meal, Rapeseed",Czech Republic,22.0
+1486,"Meal, Rapeseed",Denmark,2327.0
+1489,"Meal, Rapeseed",Ethiopia,0.0
+1491,"Meal, Rapeseed",Finland,0.0
+1493,"Meal, Rapeseed",France,933.0
+1496,"Meal, Rapeseed",Hungary,13.0
+1497,"Meal, Rapeseed",India,0.0
+1498,"Meal, Rapeseed",Indonesia,2819.0
+1499,"Meal, Rapeseed",Ireland,783.0
+1500,"Meal, Rapeseed",Italy,203.0
+1501,"Meal, Rapeseed",Japan,3874.0
+1502,"Meal, Rapeseed",Kazakhstan,0.0
+1504,"Meal, Rapeseed",Lithuania,0.0
+1505,"Meal, Rapeseed",Mexico,1151.0
+1506,"Meal, Rapeseed",Morocco,4.0
+1507,"Meal, Rapeseed",Netherlands,4383.0
+1508,"Meal, Rapeseed",Nigeria,0.0
+1509,"Meal, Rapeseed",Norway,2853.0
+1510,"Meal, Rapeseed",Pakistan,167.0
+1511,"Meal, Rapeseed",Paraguay,0.0
+1512,"Meal, Rapeseed",Poland,34.0
+1513,"Meal, Rapeseed",Romania,2.0
+1514,"Meal, Rapeseed",Russia,28.0
+1515,"Meal, Rapeseed",Slovakia,1.0
+1516,"Meal, Rapeseed",Spain,377.0
+1517,"Meal, Rapeseed",Sweden,86.0
+1518,"Meal, Rapeseed",Switzerland,455.0
+1519,"Meal, Rapeseed",Taiwan,2252.0
+1520,"Meal, Rapeseed",Thailand,3887.0
+1521,"Meal, Rapeseed",Turkey,478.0
+1522,"Meal, Rapeseed",Ukraine,13.0
+1524,"Meal, Rapeseed",United Arab Emirates,39.0
+1525,"Meal, Rapeseed",United Kingdom,2091.0
+1527,"Meal, Soybean",Algeria,17316.0
+1528,"Meal, Soybean",Argentina,45.0
+1529,"Meal, Soybean",Australia,9805.0
+1530,"Meal, Soybean",Austria,7657.0
+1531,"Meal, Soybean",Bangladesh,4115.0
+1533,"Meal, Soybean",Belarus,3601.0
+1535,"Meal, Soybean",Bolivia,1.0
+1536,"Meal, Soybean",Bosnia and Herzegovina,755.0
+1537,"Meal, Soybean",Brazil,3463.0
+1538,"Meal, Soybean",Bulgaria,6103.0
+1540,"Meal, Soybean",Canada,34162.0
+1541,"Meal, Soybean",Chile,11095.0
+1542,"Meal, Soybean",China,13515.0
+1543,"Meal, Soybean",Colombia,15222.0
+1544,"Meal, Soybean",Costa Rica,596.0
+1546,"Meal, Soybean",Croatia,452.0
+1547,"Meal, Soybean",Cuba,7862.0
+1548,"Meal, Soybean",Cyprus,1278.0
+1549,"Meal, Soybean",Czech Republic,2325.0
+1550,"Meal, Soybean",Denmark,20184.0
+1551,"Meal, Soybean",Dominican Republic,9017.0
+1554,"Meal, Soybean",Ecuador,7944.0
+1555,"Meal, Soybean",Egypt,18184.0
+1556,"Meal, Soybean",El Salvador,3884.0
+1557,"Meal, Soybean",Estonia,535.0
+1559,"Meal, Soybean",Finland,92.0
+1562,"Meal, Soybean",France,57988.0
+1563,"Meal, Soybean",Georgia,252.0
+1566,"Meal, Soybean",Greece,740.0
+1567,"Meal, Soybean",Guatemala,5385.0
+1568,"Meal, Soybean",Guyana,320.0
+1569,"Meal, Soybean",Honduras,3010.0
+1570,"Meal, Soybean",Hungary,15519.0
+1571,"Meal, Soybean",India,104.0
+1572,"Meal, Soybean",Indonesia,45554.0
+1573,"Meal, Soybean",Iran,26366.0
+1574,"Meal, Soybean",Iraq,3014.0
+1575,"Meal, Soybean",Ireland,4032.0
+1576,"Meal, Soybean",Israel,1764.0
+1577,"Meal, Soybean",Italy,22793.0
+1578,"Meal, Soybean",Jamaica,2222.0
+1579,"Meal, Soybean",Japan,38039.0
+1580,"Meal, Soybean",Jordan,5659.0
+1581,"Meal, Soybean",Kazakhstan,98.0
+1582,"Meal, Soybean",Kenya,335.0
+1585,"Meal, Soybean",Kyrgyzstan,0.0
+1586,"Meal, Soybean",Latvia,1158.0
+1587,"Meal, Soybean",Lebanon,3419.0
+1588,"Meal, Soybean",Libya,4140.0
+1589,"Meal, Soybean",Lithuania,1309.0
+1590,"Meal, Soybean",Macedonia,481.0
+1591,"Meal, Soybean",Malaysia,20417.0
+1592,"Meal, Soybean",Malta,120.0
+1593,"Meal, Soybean",Mexico,23704.0
+1594,"Meal, Soybean",Morocco,3904.0
+1595,"Meal, Soybean",Netherlands,24869.0
+1597,"Meal, Soybean",New Zealand,2549.0
+1598,"Meal, Soybean",Nicaragua,996.0
+1599,"Meal, Soybean",Nigeria,740.0
+1600,"Meal, Soybean",Norway,1096.0
+1601,"Meal, Soybean",Pakistan,6033.0
+1602,"Meal, Soybean",Panama,3289.0
+1603,"Meal, Soybean",Paraguay,12.0
+1604,"Meal, Soybean",Peru,16069.0
+1605,"Meal, Soybean",Philippines,39392.0
+1606,"Meal, Soybean",Poland,20632.0
+1607,"Meal, Soybean",Portugal,2374.0
+1608,"Meal, Soybean",Romania,5541.0
+1609,"Meal, Soybean",Russia,19137.0
+1610,"Meal, Soybean",Saudi Arabia,14783.0
+1614,"Meal, Soybean",Slovenia,882.0
+1615,"Meal, Soybean",South Africa,13954.0
+1616,"Meal, Soybean",Spain,13203.0
+1617,"Meal, Soybean",Sri Lanka,2346.0
+1618,"Meal, Soybean",Suriname,35.0
+1619,"Meal, Soybean",Sweden,4912.0
+1620,"Meal, Soybean",Switzerland,5423.0
+1621,"Meal, Soybean",Syria,8131.0
+1622,"Meal, Soybean",Taiwan,1690.0
+1623,"Meal, Soybean",Thailand,43339.0
+1624,"Meal, Soybean",Trinidad and Tobago,1063.0
+1625,"Meal, Soybean",Tunisia,5950.0
+1626,"Meal, Soybean",Turkey,11317.0
+1627,"Meal, Soybean",Ukraine,6410.0
+1629,"Meal, Soybean",United Arab Emirates,2933.0
+1630,"Meal, Soybean",United Kingdom,16623.0
+1632,"Meal, Soybean",Uruguay,2043.0
+1633,"Meal, Soybean",Uzbekistan,206.0
+1634,"Meal, Soybean",Venezuela,25468.0
+1635,"Meal, Soybean",Vietnam,31832.0
+1636,"Meal, Soybean",Yemen,2024.0
+1637,"Meal, Soybean",Zambia,20.0
+1638,"Meal, Soybean",Zimbabwe,30.0
+1639,"Meal, Soybean (Local)",Argentina,12.0
+1640,"Meal, Soybean (Local)",Brazil,3013.0
+1641,"Meal, Sunflowerseed",Argentina,0.0
+1642,"Meal, Sunflowerseed",Armenia,0.0
+1643,"Meal, Sunflowerseed",Australia,1.0
+1644,"Meal, Sunflowerseed",Austria,43.0
+1645,"Meal, Sunflowerseed",Azerbaijan,0.0
+1646,"Meal, Sunflowerseed",Belarus,5921.0
+1648,"Meal, Sunflowerseed",Bolivia,0.0
+1649,"Meal, Sunflowerseed",Bosnia and Herzegovina,17.0
+1650,"Meal, Sunflowerseed",Brazil,60.0
+1651,"Meal, Sunflowerseed",Bulgaria,252.0
+1653,"Meal, Sunflowerseed",Canada,91.0
+1654,"Meal, Sunflowerseed",China,55.0
+1655,"Meal, Sunflowerseed",Croatia,11.0
+1656,"Meal, Sunflowerseed",Czech Republic,72.0
+1657,"Meal, Sunflowerseed",Denmark,4013.0
+1660,"Meal, Sunflowerseed",Egypt,1030.0
+1662,"Meal, Sunflowerseed",Finland,0.0
+1665,"Meal, Sunflowerseed",France,1656.0
+1668,"Meal, Sunflowerseed",Greece,26.0
+1669,"Meal, Sunflowerseed",Hungary,196.0
+1670,"Meal, Sunflowerseed",India,213.0
+1671,"Meal, Sunflowerseed",Iran,465.0
+1672,"Meal, Sunflowerseed",Ireland,449.0
+1673,"Meal, Sunflowerseed",Israel,3021.0
+1674,"Meal, Sunflowerseed",Italy,579.0
+1675,"Meal, Sunflowerseed",Kazakhstan,41.0
+1676,"Meal, Sunflowerseed",Macedonia,131.0
+1677,"Meal, Sunflowerseed",Mexico,121.0
+1678,"Meal, Sunflowerseed",Moldova,5.0
+1679,"Meal, Sunflowerseed",Morocco,1702.0
+1680,"Meal, Sunflowerseed",Netherlands,3780.0
+1681,"Meal, Sunflowerseed",Norway,79.0
+1682,"Meal, Sunflowerseed",Pakistan,0.0
+1683,"Meal, Sunflowerseed",Paraguay,0.0
+1684,"Meal, Sunflowerseed",Portugal,231.0
+1685,"Meal, Sunflowerseed",Romania,44.0
+1686,"Meal, Sunflowerseed",Russia,740.0
+1689,"Meal, Sunflowerseed",Slovakia,0.0
+1690,"Meal, Sunflowerseed",Slovenia,123.0
+1691,"Meal, Sunflowerseed",South Africa,1266.0
+1692,"Meal, Sunflowerseed",Spain,406.0
+1693,"Meal, Sunflowerseed",Sweden,48.0
+1694,"Meal, Sunflowerseed",Switzerland,73.0
+1695,"Meal, Sunflowerseed",Taiwan,0.0
+1696,"Meal, Sunflowerseed",Thailand,761.0
+1697,"Meal, Sunflowerseed",Turkey,6516.0
+1698,"Meal, Sunflowerseed",Ukraine,5.0
+1700,"Meal, Sunflowerseed",United Kingdom,3126.0
+1702,"Meal, Sunflowerseed",Uruguay,802.0
+1703,"Meat, Beef and Veal",Albania,85.0
+1704,"Meat, Beef and Veal",Algeria,1451.0
+1705,"Meat, Beef and Veal",Angola,1381.0
+1706,"Meat, Beef and Veal",Argentina,232.0
+1707,"Meat, Beef and Veal",Armenia,120.0
+1708,"Meat, Beef and Veal",Australia,187.0
+1709,"Meat, Beef and Veal",Austria,225.0
+1710,"Meat, Beef and Veal",Azerbaijan,352.0
+1711,"Meat, Beef and Veal",Belarus,256.0
+1713,"Meat, Beef and Veal",Belize,0.0
+1714,"Meat, Beef and Veal",Bosnia and Herzegovina,315.0
+1715,"Meat, Beef and Veal",Brazil,3659.0
+1716,"Meat, Beef and Veal",Bulgaria,219.0
+1717,"Meat, Beef and Veal",Canada,8903.0
+1718,"Meat, Beef and Veal",Chile,3697.0
+1719,"Meat, Beef and Veal",China,1709.0
+1720,"Meat, Beef and Veal",Colombia,52.0
+1722,"Meat, Beef and Veal",Costa Rica,88.0
+1724,"Meat, Beef and Veal",Czech Republic,41.0
+1725,"Meat, Beef and Veal",Denmark,282.0
+1726,"Meat, Beef and Veal",Dominican Republic,72.0
+1728,"Meat, Beef and Veal",Ecuador,0.0
+1729,"Meat, Beef and Veal",Egypt,6611.0
+1730,"Meat, Beef and Veal",El Salvador,440.0
+1731,"Meat, Beef and Veal",Estonia,0.0
+1733,"Meat, Beef and Veal",Finland,45.0
+1736,"Meat, Beef and Veal",France,6336.0
+1737,"Meat, Beef and Veal",Gabon,234.0
+1738,"Meat, Beef and Veal",Georgia,276.0
+1740,"Meat, Beef and Veal",Germany,875.0
+1742,"Meat, Beef and Veal",Ghana,147.0
+1743,"Meat, Beef and Veal",Greece,2710.0
+1744,"Meat, Beef and Veal",Guatemala,130.0
+1745,"Meat, Beef and Veal",Haiti,0.0
+1746,"Meat, Beef and Veal",Honduras,69.0
+1748,"Meat, Beef and Veal",Hungary,330.0
+1749,"Meat, Beef and Veal",India,0.0
+1750,"Meat, Beef and Veal",Iran,2057.0
+1751,"Meat, Beef and Veal",Ireland,199.0
+1752,"Meat, Beef and Veal",Israel,2852.0
+1753,"Meat, Beef and Veal",Italy,11554.0
+1754,"Meat, Beef and Veal",Jamaica,143.0
+1755,"Meat, Beef and Veal",Japan,23740.0
+1756,"Meat, Beef and Veal",Jordan,541.0
+1757,"Meat, Beef and Veal",Kazakhstan,309.0
+1759,"Meat, Beef and Veal",Kuwait,592.0
+1760,"Meat, Beef and Veal",Kyrgyzstan,0.0
+1761,"Meat, Beef and Veal",Latvia,0.0
+1762,"Meat, Beef and Veal",Lebanon,692.0
+1763,"Meat, Beef and Veal",Libya,307.0
+1764,"Meat, Beef and Veal",Lithuania,0.0
+1765,"Meat, Beef and Veal",Macedonia,327.0
+1766,"Meat, Beef and Veal",Malaysia,2997.0
+1767,"Meat, Beef and Veal",Mexico,7113.0
+1768,"Meat, Beef and Veal",Moldova,0.0
+1769,"Meat, Beef and Veal",Morocco,24.0
+1770,"Meat, Beef and Veal",Netherlands,2273.0
+1771,"Meat, Beef and Veal",New Zealand,244.0
+1772,"Meat, Beef and Veal",Nicaragua,2.0
+1773,"Meat, Beef and Veal",Norway,118.0
+1774,"Meat, Beef and Veal",Oman,425.0
+1775,"Meat, Beef and Veal",Pakistan,39.0
+1776,"Meat, Beef and Veal",Panama,2.0
+1777,"Meat, Beef and Veal",Paraguay,24.0
+1778,"Meat, Beef and Veal",Peru,390.0
+1779,"Meat, Beef and Veal",Philippines,2827.0
+1780,"Meat, Beef and Veal",Poland,732.0
+1781,"Meat, Beef and Veal",Portugal,642.0
+1782,"Meat, Beef and Veal",Romania,395.0
+1783,"Meat, Beef and Veal",Russia,25862.0
+1784,"Meat, Beef and Veal",Saudi Arabia,2989.0
+1785,"Meat, Beef and Veal",Senegal,91.0
+1787,"Meat, Beef and Veal",Slovakia,3.0
+1788,"Meat, Beef and Veal",South Africa,2585.0
+1789,"Meat, Beef and Veal",Spain,1675.0
+1790,"Meat, Beef and Veal",Sweden,395.0
+1791,"Meat, Beef and Veal",Switzerland,1177.0
+1792,"Meat, Beef and Veal",Taiwan,2818.0
+1793,"Meat, Beef and Veal",Tajikistan,121.0
+1794,"Meat, Beef and Veal",Turkey,262.0
+1795,"Meat, Beef and Veal",Turkmenistan,131.0
+1796,"Meat, Beef and Veal",Ukraine,201.0
+1798,"Meat, Beef and Veal",United Arab Emirates,992.0
+1799,"Meat, Beef and Veal",United Kingdom,13323.0
+1801,"Meat, Beef and Veal",Uruguay,32.0
+1802,"Meat, Beef and Veal",Uzbekistan,1364.0
+1803,"Meat, Beef and Veal",Venezuela,2741.0
+1804,"Meat, Beef and Veal",Vietnam,97.0
+1806,"Meat, Swine",Afghanistan,0.0
+1807,"Meat, Swine",Albania,237.0
+1808,"Meat, Swine",Angola,794.0
+1810,"Meat, Swine",Argentina,782.0
+1811,"Meat, Swine",Armenia,151.0
+1812,"Meat, Swine",Australia,2184.0
+1813,"Meat, Swine",Austria,101.0
+1814,"Meat, Swine",Azerbaijan,35.0
+1816,"Meat, Swine",Belarus,859.0
+1818,"Meat, Swine",Bosnia and Herzegovina,168.0
+1819,"Meat, Swine",Brazil,166.0
+1820,"Meat, Swine",Bulgaria,114.0
+1821,"Meat, Swine",Canada,3775.0
+1822,"Meat, Swine",Chile,267.0
+1823,"Meat, Swine",China,6125.0
+1824,"Meat, Swine",Colombia,365.0
+1827,"Meat, Swine",Costa Rica,0.0
+1829,"Meat, Swine",Croatia,64.0
+1830,"Meat, Swine",Cuba,194.0
+1831,"Meat, Swine",Czech Republic,89.0
+1832,"Meat, Swine",Denmark,74.0
+1833,"Meat, Swine",Dominican Republic,230.0
+1835,"Meat, Swine",Ecuador,85.0
+1836,"Meat, Swine",El Salvador,65.0
+1837,"Meat, Swine",Estonia,0.0
+1839,"Meat, Swine",Finland,15.0
+1842,"Meat, Swine",France,8149.0
+1843,"Meat, Swine",Gabon,112.0
+1844,"Meat, Swine",Georgia,269.0
+1846,"Meat, Swine",Germany,1784.0
+1848,"Meat, Swine",Ghana,59.0
+1849,"Meat, Swine",Greece,722.0
+1850,"Meat, Swine",Guatemala,177.0
+1851,"Meat, Swine",Haiti,93.0
+1852,"Meat, Swine",Honduras,241.0
+1854,"Meat, Swine",Hungary,449.0
+1855,"Meat, Swine",India,0.0
+1856,"Meat, Swine",Iran,4.0
+1857,"Meat, Swine",Ireland,217.0
+1858,"Meat, Swine",Israel,0.0
+1859,"Meat, Swine",Italy,8487.0
+1860,"Meat, Swine",Jamaica,35.0
+1861,"Meat, Swine",Japan,30864.0
+1862,"Meat, Swine",Kazakhstan,117.0
+1865,"Meat, Swine",Kyrgyzstan,78.0
+1866,"Meat, Swine",Latvia,0.0
+1867,"Meat, Swine",Lithuania,0.0
+1869,"Meat, Swine",Macedonia,216.0
+1870,"Meat, Swine",Mexico,9609.0
+1871,"Meat, Swine",Moldova,94.0
+1872,"Meat, Swine",Montenegro,327.0
+1873,"Meat, Swine",Morocco,0.0
+1874,"Meat, Swine",Netherlands,944.0
+1876,"Meat, Swine",New Zealand,641.0
+1877,"Meat, Swine",Nicaragua,1.0
+1878,"Meat, Swine",Norway,210.0
+1879,"Meat, Swine",Panama,177.0
+1880,"Meat, Swine",Peru,6.0
+1881,"Meat, Swine",Philippines,1648.0
+1882,"Meat, Swine",Poland,1492.0
+1883,"Meat, Swine",Portugal,318.0
+1884,"Meat, Swine",Romania,165.0
+1885,"Meat, Swine",Russia,17282.0
+1888,"Meat, Swine",South Africa,532.0
+1889,"Meat, Swine",Spain,900.0
+1890,"Meat, Swine",Sweden,407.0
+1891,"Meat, Swine",Switzerland,553.0
+1892,"Meat, Swine",Taiwan,793.0
+1893,"Meat, Swine",Tajikistan,26.0
+1894,"Meat, Swine",Trinidad and Tobago,128.0
+1895,"Meat, Swine",Turkmenistan,32.0
+1896,"Meat, Swine",Ukraine,1581.0
+1898,"Meat, Swine",United Kingdom,18268.0
+1900,"Meat, Swine",Uruguay,301.0
+1901,"Meat, Swine",Uzbekistan,116.0
+1902,"Meat, Swine",Venezuela,220.0
+1903,"Meat, Swine",Vietnam,42.0
+1905,Millet,Angola,0.0
+1906,Millet,Argentina,0.0
+1907,Millet,Australia,0.0
+1908,Millet,Bangladesh,0.0
+1909,Millet,Benin,0.0
+1910,Millet,Botswana,0.0
+1911,Millet,Bulgaria,0.0
+1914,Millet,Burundi,0.0
+1915,Millet,Cameroon,0.0
+1916,Millet,Central African Republic,0.0
+1917,Millet,Chad,34.0
+1918,Millet,China,0.0
+1922,Millet,Eritrea,0.0
+1923,Millet,Ethiopia,0.0
+1925,Millet,Ghana,0.0
+1926,Millet,Guinea,0.0
+1928,Millet,Haiti,0.0
+1929,Millet,India,0.0
+1930,Millet,Iraq,0.0
+1931,Millet,Japan,726.0
+1932,Millet,Kazakhstan,0.0
+1933,Millet,Kenya,0.0
+1936,Millet,Mali,40.0
+1937,Millet,Mauritania,0.0
+1938,Millet,Mozambique,0.0
+1939,Millet,Nepal,0.0
+1940,Millet,Niger,0.0
+1941,Millet,Nigeria,0.0
+1942,Millet,Pakistan,0.0
+1943,Millet,Peru,0.0
+1944,Millet,Russia,0.0
+1945,Millet,Rwanda,0.0
+1946,Millet,Senegal,245.0
+1947,Millet,Sierra Leone,0.0
+1948,Millet,South Sudan,0.0
+1949,Millet,Sri Lanka,0.0
+1950,Millet,Sudan,0.0
+1951,Millet,Syria,0.0
+1952,Millet,Taiwan,24.0
+1954,Millet,Togo,0.0
+1955,Millet,Turkey,0.0
+1956,Millet,Uganda,0.0
+1957,Millet,Ukraine,0.0
+1959,Millet,Yemen,0.0
+1961,Millet,Zambia,0.0
+1962,Millet,Zimbabwe,0.0
+1963,Mixed Grain,Bangladesh,36.0
+1964,Mixed Grain,Canada,0.0
+1969,Mixed Grain,Norway,0.0
+1970,Mixed Grain,Poland,0.0
+1972,Mixed Grain,Switzerland,331.0
+1973,Mixed Grain,Turkey,0.0
+1974,Oats,Albania,10.0
+1975,Oats,Algeria,220.0
+1976,Oats,Argentina,43.0
+1977,Oats,Armenia,0.0
+1978,Oats,Australia,16.0
+1979,Oats,Azerbaijan,0.0
+1980,Oats,Belarus,15.0
+1981,Oats,Bosnia and Herzegovina,59.0
+1982,Oats,Brazil,639.0
+1983,Oats,Bulgaria,35.0
+1984,Oats,Canada,634.0
+1985,Oats,Chile,42.0
+1986,Oats,China,987.0
+1987,Oats,Colombia,621.0
+1988,Oats,Croatia,1.0
+1989,Oats,Czech Republic,1.0
+1992,Oats,Ecuador,792.0
+1993,Oats,Estonia,77.0
+1997,Oats,Georgia,0.0
+1998,Oats,Hungary,192.0
+1999,Oats,Japan,4674.0
+2000,Oats,Kazakhstan,0.0
+2001,Oats,Kyrgyzstan,0.0
+2002,Oats,Latvia,42.0
+2003,Oats,Lithuania,15.0
+2004,Oats,Macedonia,0.0
+2005,Oats,Mexico,1862.0
+2006,Oats,Moldova,0.0
+2007,Oats,Morocco,38.0
+2008,Oats,New Zealand,12.0
+2009,Oats,Norway,706.0
+2010,Oats,Poland,959.0
+2011,Oats,Romania,383.0
+2012,Oats,Russia,761.0
+2015,Oats,Slovakia,3.0
+2016,Oats,Slovenia,0.0
+2017,Oats,South Africa,589.0
+2018,Oats,Switzerland,5365.0
+2019,Oats,Tajikistan,0.0
+2020,Oats,Turkey,81.0
+2021,Oats,Ukraine,120.0
+2024,Oats,Uruguay,193.0
+2025,"Oil, Coconut",Australia,650.0
+2026,"Oil, Coconut",Austria,215.0
+2027,"Oil, Coconut",Bangladesh,569.0
+2029,"Oil, Coconut",Canada,1024.0
+2030,"Oil, Coconut",China,3457.0
+2032,"Oil, Coconut",Denmark,96.0
+2036,"Oil, Coconut",Finland,61.0
+2038,"Oil, Coconut",France,1373.0
+2041,"Oil, Coconut",Ghana,1.0
+2042,"Oil, Coconut",Hungary,26.0
+2043,"Oil, Coconut",India,290.0
+2044,"Oil, Coconut",Indonesia,354.0
+2045,"Oil, Coconut",Iraq,91.0
+2046,"Oil, Coconut",Ireland,120.0
+2047,"Oil, Coconut",Italy,924.0
+2048,"Oil, Coconut",Japan,1621.0
+2050,"Oil, Coconut",Malaysia,3011.0
+2051,"Oil, Coconut",Mexico,439.0
+2052,"Oil, Coconut",Mozambique,0.0
+2053,"Oil, Coconut",Netherlands,1797.0
+2054,"Oil, Coconut",Nigeria,0.0
+2055,"Oil, Coconut",Norway,137.0
+2056,"Oil, Coconut",Papua New Guinea,0.0
+2057,"Oil, Coconut",Philippines,5.0
+2058,"Oil, Coconut",Poland,77.0
+2059,"Oil, Coconut",Portugal,2.0
+2060,"Oil, Coconut",Russia,1212.0
+2063,"Oil, Coconut",South Africa,405.0
+2064,"Oil, Coconut",Spain,365.0
+2065,"Oil, Coconut",Sri Lanka,122.0
+2066,"Oil, Coconut",Sweden,22.0
+2067,"Oil, Coconut",Switzerland,206.0
+2069,"Oil, Coconut",Thailand,145.0
+2070,"Oil, Coconut",Turkey,447.0
+2072,"Oil, Coconut",United Kingdom,1275.0
+2074,"Oil, Coconut",Vietnam,83.0
+2075,"Oil, Cottonseed",Albania,0.0
+2076,"Oil, Cottonseed",Algeria,0.0
+2077,"Oil, Cottonseed",Argentina,1.0
+2078,"Oil, Cottonseed",Armenia,2.0
+2079,"Oil, Cottonseed",Australia,82.0
+2080,"Oil, Cottonseed",Austria,11.0
+2081,"Oil, Cottonseed",Azerbaijan,0.0
+2083,"Oil, Cottonseed",Benin,0.0
+2084,"Oil, Cottonseed",Brazil,65.0
+2085,"Oil, Cottonseed",Bulgaria,0.0
+2088,"Oil, Cottonseed",Cameroon,0.0
+2089,"Oil, Cottonseed",Canada,644.0
+2090,"Oil, Cottonseed",Chad,0.0
+2091,"Oil, Cottonseed",China,0.0
+2092,"Oil, Cottonseed",Costa Rica,74.0
+2094,"Oil, Cottonseed",Cuba,0.0
+2097,"Oil, Cottonseed",Egypt,3760.0
+2098,"Oil, Cottonseed",El Salvador,474.0
+2101,"Oil, Cottonseed",France,2.0
+2102,"Oil, Cottonseed",Georgia,90.0
+2104,"Oil, Cottonseed",Germany,0.0
+2106,"Oil, Cottonseed",Greece,11.0
+2107,"Oil, Cottonseed",Guatemala,121.0
+2108,"Oil, Cottonseed",Honduras,27.0
+2109,"Oil, Cottonseed",India,298.0
+2110,"Oil, Cottonseed",Indonesia,0.0
+2111,"Oil, Cottonseed",Iran,266.0
+2112,"Oil, Cottonseed",Iraq,0.0
+2113,"Oil, Cottonseed",Ireland,15.0
+2114,"Oil, Cottonseed",Italy,2.0
+2115,"Oil, Cottonseed",Japan,727.0
+2116,"Oil, Cottonseed",Kazakhstan,364.0
+2118,"Oil, Cottonseed",Kyrgyzstan,325.0
+2119,"Oil, Cottonseed",Madagascar,202.0
+2120,"Oil, Cottonseed",Malaysia,2.0
+2121,"Oil, Cottonseed",Mali,0.0
+2122,"Oil, Cottonseed",Mexico,321.0
+2123,"Oil, Cottonseed",Morocco,11.0
+2124,"Oil, Cottonseed",Mozambique,0.0
+2125,"Oil, Cottonseed",Netherlands,22.0
+2126,"Oil, Cottonseed",Niger,0.0
+2127,"Oil, Cottonseed",Nigeria,52.0
+2128,"Oil, Cottonseed",Pakistan,24.0
+2129,"Oil, Cottonseed",Paraguay,0.0
+2130,"Oil, Cottonseed",Poland,45.0
+2131,"Oil, Cottonseed",Russia,736.0
+2132,"Oil, Cottonseed",Saudi Arabia,156.0
+2133,"Oil, Cottonseed",Somalia,0.0
+2134,"Oil, Cottonseed",South Africa,295.0
+2135,"Oil, Cottonseed",Spain,3.0
+2136,"Oil, Cottonseed",Sudan,0.0
+2137,"Oil, Cottonseed",Sweden,159.0
+2138,"Oil, Cottonseed",Syria,17.0
+2139,"Oil, Cottonseed",Tajikistan,101.0
+2141,"Oil, Cottonseed",Togo,0.0
+2142,"Oil, Cottonseed",Turkey,136.0
+2143,"Oil, Cottonseed",Turkmenistan,40.0
+2144,"Oil, Cottonseed",Uganda,0.0
+2146,"Oil, Cottonseed",United Kingdom,224.0
+2148,"Oil, Cottonseed",Uzbekistan,249.0
+2151,"Oil, Cottonseed",Zimbabwe,32.0
+2152,"Oil, Olive",Algeria,2.0
+2153,"Oil, Olive",Australia,837.0
+2155,"Oil, Olive",Brazil,1193.0
+2156,"Oil, Olive",Canada,765.0
+2160,"Oil, Olive",France,821.0
+2162,"Oil, Olive",Greece,74.0
+2163,"Oil, Olive",Israel,123.0
+2164,"Oil, Olive",Italy,4302.0
+2165,"Oil, Olive",Jordan,157.0
+2166,"Oil, Olive",Lebanon,84.0
+2167,"Oil, Olive",Libya,625.0
+2168,"Oil, Olive",Morocco,106.0
+2169,"Oil, Olive",Netherlands,32.0
+2170,"Oil, Olive",Norway,11.0
+2171,"Oil, Olive",Portugal,166.0
+2172,"Oil, Olive",Saudi Arabia,404.0
+2173,"Oil, Olive",Spain,71.0
+2174,"Oil, Olive",Switzerland,312.0
+2175,"Oil, Olive",Syria,108.0
+2176,"Oil, Olive",Tunisia,26.0
+2177,"Oil, Olive",Turkey,57.0
+2179,"Oil, Olive",United Kingdom,240.0
+2181,"Oil, Palm",Afghanistan,2222.0
+2182,"Oil, Palm",Algeria,1536.0
+2183,"Oil, Palm",Angola,1731.0
+2184,"Oil, Palm",Australia,3739.0
+2185,"Oil, Palm",Austria,189.0
+2186,"Oil, Palm",Bangladesh,14487.0
+2188,"Oil, Palm",Benin,4252.0
+2189,"Oil, Palm",Brazil,2197.0
+2191,"Oil, Palm",Cameroon,605.0
+2192,"Oil, Palm",Canada,1269.0
+2193,"Oil, Palm",China,87179.0
+2194,"Oil, Palm",Colombia,908.0
+2196,"Oil, Palm",Costa Rica,209.0
+2198,"Oil, Palm",Denmark,451.0
+2199,"Oil, Palm",Dominican Republic,255.0
+2202,"Oil, Palm",Ecuador,104.0
+2203,"Oil, Palm",Egypt,17987.0
+2204,"Oil, Palm",El Salvador,1248.0
+2205,"Oil, Palm",Ethiopia,2262.0
+2207,"Oil, Palm",Finland,44.0
+2210,"Oil, Palm",France,1747.0
+2212,"Oil, Palm",Ghana,2521.0
+2213,"Oil, Palm",Greece,82.0
+2214,"Oil, Palm",Guatemala,375.0
+2215,"Oil, Palm",Guinea,506.0
+2216,"Oil, Palm",Haiti,1508.0
+2217,"Oil, Palm",Honduras,190.0
+2219,"Oil, Palm",India,102181.0
+2220,"Oil, Palm",Indonesia,2214.0
+2221,"Oil, Palm",Iran,8018.0
+2222,"Oil, Palm",Iraq,7097.0
+2223,"Oil, Palm",Ireland,130.0
+2224,"Oil, Palm",Italy,1889.0
+2225,"Oil, Palm",Japan,14543.0
+2226,"Oil, Palm",Jordan,4567.0
+2227,"Oil, Palm",Kenya,10122.0
+2230,"Oil, Palm",Kuwait,1008.0
+2231,"Oil, Palm",Liberia,214.0
+2232,"Oil, Palm",Madagascar,25.0
+2233,"Oil, Palm",Malaysia,12877.0
+2234,"Oil, Palm",Mexico,6171.0
+2235,"Oil, Palm",Mozambique,1706.0
+2236,"Oil, Palm",Netherlands,4678.0
+2237,"Oil, Palm",New Zealand,523.0
+2238,"Oil, Palm",Nigeria,7689.0
+2239,"Oil, Palm",Norway,409.0
+2240,"Oil, Palm",Oman,1706.0
+2242,"Oil, Palm",Pakistan,43320.0
+2243,"Oil, Palm",Papua New Guinea,232.0
+2244,"Oil, Palm",Peru,435.0
+2245,"Oil, Palm",Philippines,1390.0
+2246,"Oil, Palm",Poland,419.0
+2247,"Oil, Palm",Portugal,298.0
+2248,"Oil, Palm",Russia,9483.0
+2249,"Oil, Palm",Rwanda,342.0
+2250,"Oil, Palm",Saudi Arabia,7569.0
+2251,"Oil, Palm",Sierra Leone,160.0
+2253,"Oil, Palm",South Africa,6137.0
+2254,"Oil, Palm",Spain,368.0
+2255,"Oil, Palm",Sri Lanka,2544.0
+2256,"Oil, Palm",Sudan,1876.0
+2257,"Oil, Palm",Sweden,328.0
+2258,"Oil, Palm",Switzerland,516.0
+2259,"Oil, Palm",Taiwan,3149.0
+2261,"Oil, Palm",Thailand,656.0
+2262,"Oil, Palm",Togo,2168.0
+2263,"Oil, Palm",Turkey,8778.0
+2265,"Oil, Palm",United Arab Emirates,6108.0
+2266,"Oil, Palm",United Kingdom,5822.0
+2268,"Oil, Palm",Venezuela,1010.0
+2269,"Oil, Palm",Vietnam,6960.0
+2270,"Oil, Palm",Yemen,2719.0
+2273,"Oil, Palm",Zimbabwe,436.0
+2275,"Oil, Palm Kernel",Benin,0.0
+2276,"Oil, Palm Kernel",Brazil,1783.0
+2277,"Oil, Palm Kernel",Cameroon,12.0
+2278,"Oil, Palm Kernel",Canada,528.0
+2279,"Oil, Palm Kernel",China,5367.0
+2280,"Oil, Palm Kernel",Colombia,26.0
+2282,"Oil, Palm Kernel",Costa Rica,11.0
+2284,"Oil, Palm Kernel",Denmark,170.0
+2285,"Oil, Palm Kernel",Dominican Republic,0.0
+2288,"Oil, Palm Kernel",Ecuador,25.0
+2290,"Oil, Palm Kernel",France,477.0
+2292,"Oil, Palm Kernel",Germany,0.0
+2294,"Oil, Palm Kernel",Ghana,12.0
+2295,"Oil, Palm Kernel",Guatemala,0.0
+2296,"Oil, Palm Kernel",Guinea,0.0
+2298,"Oil, Palm Kernel",Honduras,12.0
+2299,"Oil, Palm Kernel",Hungary,4.0
+2300,"Oil, Palm Kernel",India,2444.0
+2301,"Oil, Palm Kernel",Indonesia,74.0
+2302,"Oil, Palm Kernel",Ireland,53.0
+2303,"Oil, Palm Kernel",Italy,295.0
+2304,"Oil, Palm Kernel",Japan,1826.0
+2305,"Oil, Palm Kernel",Liberia,0.0
+2306,"Oil, Palm Kernel",Malaysia,4357.0
+2307,"Oil, Palm Kernel",Mexico,1197.0
+2308,"Oil, Palm Kernel",Mozambique,285.0
+2309,"Oil, Palm Kernel",Netherlands,1539.0
+2310,"Oil, Palm Kernel",Nigeria,95.0
+2311,"Oil, Palm Kernel",Papua New Guinea,0.0
+2312,"Oil, Palm Kernel",Philippines,320.0
+2313,"Oil, Palm Kernel",Poland,72.0
+2314,"Oil, Palm Kernel",Portugal,0.0
+2315,"Oil, Palm Kernel",Russia,604.0
+2316,"Oil, Palm Kernel",Saudi Arabia,353.0
+2317,"Oil, Palm Kernel",Sierra Leone,0.0
+2319,"Oil, Palm Kernel",South Africa,1151.0
+2320,"Oil, Palm Kernel",Spain,229.0
+2321,"Oil, Palm Kernel",Sweden,51.0
+2322,"Oil, Palm Kernel",Switzerland,117.0
+2323,"Oil, Palm Kernel",Thailand,310.0
+2324,"Oil, Palm Kernel",Togo,0.0
+2326,"Oil, Palm Kernel",United Kingdom,1415.0
+2328,"Oil, Peanut",Argentina,0.0
+2329,"Oil, Peanut",Bangladesh,0.0
+2331,"Oil, Peanut",Benin,0.0
+2332,"Oil, Peanut",Brazil,15.0
+2335,"Oil, Peanut",Cameroon,0.0
+2336,"Oil, Peanut",Central African Republic,0.0
+2337,"Oil, Peanut",Chad,0.0
+2338,"Oil, Peanut",China,640.0
+2341,"Oil, Peanut",Dominican Republic,6.0
+2344,"Oil, Peanut",Ecuador,1.0
+2347,"Oil, Peanut",France,3174.0
+2351,"Oil, Peanut",Guinea,0.0
+2353,"Oil, Peanut",India,68.0
+2354,"Oil, Peanut",Indonesia,0.0
+2355,"Oil, Peanut",Italy,708.0
+2356,"Oil, Peanut",Japan,18.0
+2357,"Oil, Peanut",Malawi,0.0
+2358,"Oil, Peanut",Malaysia,30.0
+2359,"Oil, Peanut",Mali,0.0
+2360,"Oil, Peanut",Mexico,0.0
+2361,"Oil, Peanut",Mozambique,0.0
+2362,"Oil, Peanut",Netherlands,299.0
+2363,"Oil, Peanut",Niger,0.0
+2364,"Oil, Peanut",Nigeria,86.0
+2365,"Oil, Peanut",Philippines,0.0
+2366,"Oil, Peanut",Senegal,19.0
+2367,"Oil, Peanut",South Africa,0.0
+2368,"Oil, Peanut",Spain,3.0
+2369,"Oil, Peanut",Sudan,0.0
+2370,"Oil, Peanut",Sweden,20.0
+2371,"Oil, Peanut",Switzerland,427.0
+2372,"Oil, Peanut",Taiwan,36.0
+2374,"Oil, Peanut",Thailand,0.0
+2375,"Oil, Peanut",Togo,0.0
+2376,"Oil, Peanut",Turkey,0.0
+2377,"Oil, Peanut",Uganda,0.0
+2378,"Oil, Peanut",United Kingdom,359.0
+2380,"Oil, Peanut",Vietnam,1.0
+2381,"Oil, Peanut",Zambia,0.0
+2382,"Oil, Peanut",Zimbabwe,0.0
+2383,"Oil, Rapeseed",Algeria,2450.0
+2384,"Oil, Rapeseed",Argentina,0.0
+2385,"Oil, Rapeseed",Australia,322.0
+2386,"Oil, Rapeseed",Austria,443.0
+2387,"Oil, Rapeseed",Bangladesh,1031.0
+2388,"Oil, Rapeseed",Belarus,15.0
+2390,"Oil, Rapeseed",Canada,1585.0
+2391,"Oil, Rapeseed",Chile,407.0
+2392,"Oil, Rapeseed",China,13105.0
+2393,"Oil, Rapeseed",Colombia,0.0
+2395,"Oil, Rapeseed",Cyprus,21.0
+2396,"Oil, Rapeseed",Czech Republic,28.0
+2397,"Oil, Rapeseed",Denmark,78.0
+2400,"Oil, Rapeseed",Ethiopia,54.0
+2402,"Oil, Rapeseed",Finland,0.0
+2404,"Oil, Rapeseed",France,371.0
+2406,"Oil, Rapeseed",Germany,0.0
+2408,"Oil, Rapeseed",Ghana,21.0
+2410,"Oil, Rapeseed",Hungary,0.0
+2411,"Oil, Rapeseed",India,3709.0
+2412,"Oil, Rapeseed",Indonesia,1018.0
+2413,"Oil, Rapeseed",Ireland,126.0
+2414,"Oil, Rapeseed",Italy,1195.0
+2415,"Oil, Rapeseed",Jamaica,8.0
+2416,"Oil, Rapeseed",Japan,632.0
+2417,"Oil, Rapeseed",Kazakhstan,0.0
+2419,"Oil, Rapeseed",Lithuania,67.0
+2420,"Oil, Rapeseed",Malaysia,11.0
+2421,"Oil, Rapeseed",Mauritania,43.0
+2422,"Oil, Rapeseed",Mexico,2057.0
+2423,"Oil, Rapeseed",Morocco,1550.0
+2424,"Oil, Rapeseed",Netherlands,1360.0
+2425,"Oil, Rapeseed",New Zealand,440.0
+2426,"Oil, Rapeseed",Nicaragua,18.0
+2427,"Oil, Rapeseed",Nigeria,670.0
+2428,"Oil, Rapeseed",Norway,2492.0
+2429,"Oil, Rapeseed",Pakistan,142.0
+2430,"Oil, Rapeseed",Paraguay,0.0
+2431,"Oil, Rapeseed",Poland,209.0
+2432,"Oil, Rapeseed",Romania,0.0
+2433,"Oil, Rapeseed",Russia,864.0
+2434,"Oil, Rapeseed",Senegal,414.0
+2436,"Oil, Rapeseed",Slovakia,15.0
+2437,"Oil, Rapeseed",South Africa,147.0
+2438,"Oil, Rapeseed",Spain,137.0
+2439,"Oil, Rapeseed",Sweden,5.0
+2440,"Oil, Rapeseed",Switzerland,125.0
+2441,"Oil, Rapeseed",Taiwan,447.0
+2442,"Oil, Rapeseed",Tunisia,653.0
+2443,"Oil, Rapeseed",Turkey,268.0
+2444,"Oil, Rapeseed",Ukraine,165.0
+2446,"Oil, Rapeseed",United Arab Emirates,27.0
+2447,"Oil, Rapeseed",United Kingdom,638.0
+2449,"Oil, Soybean",Algeria,5766.0
+2450,"Oil, Soybean",Angola,1799.0
+2451,"Oil, Soybean",Argentina,119.0
+2452,"Oil, Soybean",Australia,1022.0
+2453,"Oil, Soybean",Austria,632.0
+2454,"Oil, Soybean",Bangladesh,10387.0
+2457,"Oil, Soybean",Bolivia,185.0
+2458,"Oil, Soybean",Bosnia and Herzegovina,70.0
+2459,"Oil, Soybean",Brazil,3041.0
+2461,"Oil, Soybean",Cambodia,51.0
+2462,"Oil, Soybean",Canada,1525.0
+2463,"Oil, Soybean",Chile,2284.0
+2464,"Oil, Soybean",China,36442.0
+2465,"Oil, Soybean",Colombia,4906.0
+2466,"Oil, Soybean",Costa Rica,65.0
+2468,"Oil, Soybean",Croatia,30.0
+2469,"Oil, Soybean",Cuba,1455.0
+2470,"Oil, Soybean",Cyprus,283.0
+2471,"Oil, Soybean",Czech Republic,138.0
+2472,"Oil, Soybean",Denmark,493.0
+2473,"Oil, Soybean",Dominican Republic,3575.0
+2476,"Oil, Soybean",Ecuador,2694.0
+2477,"Oil, Soybean",Egypt,6000.0
+2478,"Oil, Soybean",El Salvador,417.0
+2479,"Oil, Soybean",Ethiopia,271.0
+2481,"Oil, Soybean",Finland,18.0
+2484,"Oil, Soybean",France,1822.0
+2487,"Oil, Soybean",Greece,145.0
+2488,"Oil, Soybean",Guatemala,1310.0
+2489,"Oil, Soybean",Guyana,30.0
+2490,"Oil, Soybean",Haiti,945.0
+2492,"Oil, Soybean",India,29491.0
+2493,"Oil, Soybean",Indonesia,467.0
+2494,"Oil, Soybean",Iran,20355.0
+2495,"Oil, Soybean",Ireland,232.0
+2496,"Oil, Soybean",Israel,636.0
+2497,"Oil, Soybean",Italy,1113.0
+2498,"Oil, Soybean",Jamaica,528.0
+2499,"Oil, Soybean",Japan,637.0
+2500,"Oil, Soybean",Jordan,597.0
+2503,"Oil, Soybean",Kyrgyzstan,0.0
+2504,"Oil, Soybean",Lebanon,852.0
+2505,"Oil, Soybean",Madagascar,755.0
+2506,"Oil, Soybean",Malaysia,2165.0
+2508,"Oil, Soybean",Mexico,4222.0
+2509,"Oil, Soybean",Morocco,9298.0
+2510,"Oil, Soybean",Netherlands,1031.0
+2511,"Oil, Soybean",New Zealand,594.0
+2512,"Oil, Soybean",Nicaragua,678.0
+2513,"Oil, Soybean",Nigeria,416.0
+2514,"Oil, Soybean",Norway,466.0
+2515,"Oil, Soybean",Pakistan,7950.0
+2516,"Oil, Soybean",Panama,865.0
+2517,"Oil, Soybean",Paraguay,45.0
+2518,"Oil, Soybean",Peru,6815.0
+2519,"Oil, Soybean",Philippines,778.0
+2520,"Oil, Soybean",Poland,1313.0
+2521,"Oil, Soybean",Portugal,5.0
+2522,"Oil, Soybean",Romania,18.0
+2523,"Oil, Soybean",Russia,2537.0
+2524,"Oil, Soybean",Saudi Arabia,233.0
+2525,"Oil, Soybean",Senegal,1651.0
+2529,"Oil, Soybean",Slovenia,58.0
+2530,"Oil, Soybean",Somalia,203.0
+2531,"Oil, Soybean",South Africa,3634.0
+2532,"Oil, Soybean",Spain,294.0
+2533,"Oil, Soybean",Sri Lanka,10.0
+2534,"Oil, Soybean",Sweden,1369.0
+2535,"Oil, Soybean",Switzerland,173.0
+2536,"Oil, Soybean",Syria,549.0
+2537,"Oil, Soybean",Taiwan,568.0
+2539,"Oil, Soybean",Thailand,256.0
+2540,"Oil, Soybean",Trinidad and Tobago,322.0
+2541,"Oil, Soybean",Tunisia,4723.0
+2542,"Oil, Soybean",Turkey,4267.0
+2543,"Oil, Soybean",Ukraine,392.0
+2545,"Oil, Soybean",United Arab Emirates,845.0
+2546,"Oil, Soybean",United Kingdom,1866.0
+2548,"Oil, Soybean",Uruguay,313.0
+2549,"Oil, Soybean",Uzbekistan,42.0
+2550,"Oil, Soybean",Venezuela,7306.0
+2551,"Oil, Soybean",Vietnam,1395.0
+2552,"Oil, Soybean",Zambia,312.0
+2553,"Oil, Soybean",Zimbabwe,554.0
+2554,"Oil, Soybean (Local)",Argentina,124.0
+2555,"Oil, Soybean (Local)",Brazil,2836.0
+2556,"Oil, Sunflowerseed",Algeria,5688.0
+2557,"Oil, Sunflowerseed",Argentina,8.0
+2558,"Oil, Sunflowerseed",Australia,783.0
+2559,"Oil, Sunflowerseed",Austria,548.0
+2560,"Oil, Sunflowerseed",Belarus,1617.0
+2562,"Oil, Sunflowerseed",Bolivia,7.0
+2563,"Oil, Sunflowerseed",Bosnia and Herzegovina,883.0
+2564,"Oil, Sunflowerseed",Brazil,617.0
+2565,"Oil, Sunflowerseed",Bulgaria,34.0
+2567,"Oil, Sunflowerseed",Canada,655.0
+2568,"Oil, Sunflowerseed",China,1963.0
+2569,"Oil, Sunflowerseed",Croatia,110.0
+2570,"Oil, Sunflowerseed",Cuba,2301.0
+2571,"Oil, Sunflowerseed",Czech Republic,30.0
+2572,"Oil, Sunflowerseed",Denmark,60.0
+2575,"Oil, Sunflowerseed",Egypt,9764.0
+2576,"Oil, Sunflowerseed",Estonia,124.0
+2578,"Oil, Sunflowerseed",Finland,37.0
+2581,"Oil, Sunflowerseed",France,2285.0
+2582,"Oil, Sunflowerseed",Georgia,576.0
+2585,"Oil, Sunflowerseed",Greece,59.0
+2586,"Oil, Sunflowerseed",Guatemala,560.0
+2587,"Oil, Sunflowerseed",Haiti,3.0
+2588,"Oil, Sunflowerseed",Hungary,83.0
+2589,"Oil, Sunflowerseed",India,10024.0
+2590,"Oil, Sunflowerseed",Iran,5420.0
+2591,"Oil, Sunflowerseed",Iraq,1923.0
+2592,"Oil, Sunflowerseed",Ireland,136.0
+2593,"Oil, Sunflowerseed",Israel,275.0
+2594,"Oil, Sunflowerseed",Italy,292.0
+2595,"Oil, Sunflowerseed",Japan,801.0
+2596,"Oil, Sunflowerseed",Jordan,317.0
+2597,"Oil, Sunflowerseed",Kazakhstan,1068.0
+2598,"Oil, Sunflowerseed",Kyrgyzstan,0.0
+2599,"Oil, Sunflowerseed",Latvia,256.0
+2600,"Oil, Sunflowerseed",Lebanon,0.0
+2601,"Oil, Sunflowerseed",Libya,597.0
+2602,"Oil, Sunflowerseed",Lithuania,248.0
+2603,"Oil, Sunflowerseed",Macedonia,407.0
+2604,"Oil, Sunflowerseed",Mexico,3638.0
+2605,"Oil, Sunflowerseed",Moldova,114.0
+2606,"Oil, Sunflowerseed",Morocco,501.0
+2607,"Oil, Sunflowerseed",Netherlands,1009.0
+2608,"Oil, Sunflowerseed",Pakistan,111.0
+2609,"Oil, Sunflowerseed",Paraguay,102.0
+2610,"Oil, Sunflowerseed",Peru,142.0
+2611,"Oil, Sunflowerseed",Poland,1150.0
+2612,"Oil, Sunflowerseed",Portugal,22.0
+2613,"Oil, Sunflowerseed",Romania,402.0
+2614,"Oil, Sunflowerseed",Russia,4861.0
+2617,"Oil, Sunflowerseed",Slovakia,20.0
+2618,"Oil, Sunflowerseed",Slovenia,274.0
+2619,"Oil, Sunflowerseed",South Africa,3654.0
+2620,"Oil, Sunflowerseed",Spain,396.0
+2621,"Oil, Sunflowerseed",Sweden,90.0
+2622,"Oil, Sunflowerseed",Switzerland,1640.0
+2623,"Oil, Sunflowerseed",Syria,1129.0
+2624,"Oil, Sunflowerseed",Taiwan,463.0
+2625,"Oil, Sunflowerseed",Turkey,8448.0
+2626,"Oil, Sunflowerseed",Ukraine,1550.0
+2628,"Oil, Sunflowerseed",United Kingdom,1171.0
+2630,"Oil, Sunflowerseed",Uruguay,171.0
+2631,"Oil, Sunflowerseed",Uzbekistan,875.0
+2632,"Oil, Sunflowerseed",Venezuela,2074.0
+2633,"Oilseed, Copra",Australia,339.0
+2637,"Oilseed, Copra",Denmark,438.0
+2641,"Oilseed, Copra",Fiji,38.0
+2642,"Oilseed, Copra",France,1056.0
+2644,"Oilseed, Copra",Germany,0.0
+2646,"Oilseed, Copra",Ghana,0.0
+2648,"Oilseed, Copra",India,298.0
+2649,"Oilseed, Copra",Indonesia,95.0
+2650,"Oilseed, Copra",Ireland,93.0
+2651,"Oilseed, Copra",Italy,277.0
+2652,"Oilseed, Copra",Japan,2791.0
+2654,"Oilseed, Copra",Malaysia,762.0
+2655,"Oilseed, Copra",Mexico,1.0
+2656,"Oilseed, Copra",Mozambique,0.0
+2657,"Oilseed, Copra",Netherlands,1716.0
+2658,"Oilseed, Copra",Nigeria,0.0
+2659,"Oilseed, Copra",Norway,392.0
+2660,"Oilseed, Copra",Papua New Guinea,0.0
+2661,"Oilseed, Copra",Philippines,737.0
+2662,"Oilseed, Copra",Portugal,471.0
+2666,"Oilseed, Copra",Solomon Islands,0.0
+2667,"Oilseed, Copra",Spain,203.0
+2668,"Oilseed, Copra",Sri Lanka,0.0
+2669,"Oilseed, Copra",Sweden,909.0
+2670,"Oilseed, Copra",Switzerland,218.0
+2672,"Oilseed, Copra",Thailand,69.0
+2674,"Oilseed, Copra",United Kingdom,601.0
+2677,"Oilseed, Copra",Venezuela,185.0
+2678,"Oilseed, Copra",Vietnam,10.0
+2679,"Oilseed, Cottonseed",Algeria,0.0
+2680,"Oilseed, Cottonseed",Argentina,9.0
+2681,"Oilseed, Cottonseed",Armenia,140.0
+2682,"Oilseed, Cottonseed",Australia,2.0
+2683,"Oilseed, Cottonseed",Azerbaijan,0.0
+2684,"Oilseed, Cottonseed",Benin,0.0
+2685,"Oilseed, Cottonseed",Brazil,54.0
+2688,"Oilseed, Cottonseed",Cameroon,1.0
+2689,"Oilseed, Cottonseed",Chad,0.0
+2690,"Oilseed, Cottonseed",China,1147.0
+2692,"Oilseed, Cottonseed",Denmark,4.0
+2695,"Oilseed, Cottonseed",Egypt,0.0
+2697,"Oilseed, Cottonseed",France,1.0
+2698,"Oilseed, Cottonseed",Georgia,20.0
+2700,"Oilseed, Cottonseed",Greece,540.0
+2701,"Oilseed, Cottonseed",India,0.0
+2702,"Oilseed, Cottonseed",Indonesia,0.0
+2703,"Oilseed, Cottonseed",Iran,65.0
+2704,"Oilseed, Cottonseed",Ireland,3.0
+2705,"Oilseed, Cottonseed",Italy,302.0
+2706,"Oilseed, Cottonseed",Japan,7248.0
+2707,"Oilseed, Cottonseed",Kazakhstan,147.0
+2709,"Oilseed, Cottonseed",Kyrgyzstan,359.0
+2710,"Oilseed, Cottonseed",Madagascar,0.0
+2711,"Oilseed, Cottonseed",Mali,239.0
+2712,"Oilseed, Cottonseed",Mexico,5377.0
+2713,"Oilseed, Cottonseed",Mozambique,0.0
+2714,"Oilseed, Cottonseed",Nigeria,106.0
+2715,"Oilseed, Cottonseed",Pakistan,5.0
+2716,"Oilseed, Cottonseed",Paraguay,35.0
+2717,"Oilseed, Cottonseed",Poland,9.0
+2718,"Oilseed, Cottonseed",Russia,2.0
+2719,"Oilseed, Cottonseed",Saudi Arabia,961.0
+2720,"Oilseed, Cottonseed",South Africa,1224.0
+2721,"Oilseed, Cottonseed",Spain,67.0
+2722,"Oilseed, Cottonseed",Sudan,2.0
+2723,"Oilseed, Cottonseed",Syria,0.0
+2724,"Oilseed, Cottonseed",Tajikistan,160.0
+2726,"Oilseed, Cottonseed",Togo,17.0
+2727,"Oilseed, Cottonseed",Turkey,1510.0
+2728,"Oilseed, Cottonseed",Turkmenistan,275.0
+2729,"Oilseed, Cottonseed",Uganda,0.0
+2731,"Oilseed, Cottonseed",United Kingdom,3.0
+2733,"Oilseed, Cottonseed",Uzbekistan,1185.0
+2736,"Oilseed, Cottonseed",Zimbabwe,10.0
+2738,"Oilseed, Palm Kernel",Benin,0.0
+2739,"Oilseed, Palm Kernel",Brazil,0.0
+2740,"Oilseed, Palm Kernel",Cameroon,0.0
+2741,"Oilseed, Palm Kernel",Colombia,2.0
+2743,"Oilseed, Palm Kernel",Costa Rica,68.0
+2745,"Oilseed, Palm Kernel",Denmark,398.0
+2746,"Oilseed, Palm Kernel",Dominican Republic,0.0
+2749,"Oilseed, Palm Kernel",Ecuador,6.0
+2751,"Oilseed, Palm Kernel",France,470.0
+2753,"Oilseed, Palm Kernel",Ghana,0.0
+2754,"Oilseed, Palm Kernel",Greece,57.0
+2755,"Oilseed, Palm Kernel",Guatemala,0.0
+2756,"Oilseed, Palm Kernel",Guinea,0.0
+2758,"Oilseed, Palm Kernel",Honduras,0.0
+2759,"Oilseed, Palm Kernel",India,0.0
+2760,"Oilseed, Palm Kernel",Indonesia,10.0
+2761,"Oilseed, Palm Kernel",Ireland,29.0
+2762,"Oilseed, Palm Kernel",Italy,20.0
+2763,"Oilseed, Palm Kernel",Liberia,0.0
+2764,"Oilseed, Palm Kernel",Malaysia,495.0
+2765,"Oilseed, Palm Kernel",Nigeria,105.0
+2766,"Oilseed, Palm Kernel",Papua New Guinea,0.0
+2767,"Oilseed, Palm Kernel",Paraguay,0.0
+2768,"Oilseed, Palm Kernel",Philippines,3.0
+2769,"Oilseed, Palm Kernel",Portugal,308.0
+2771,"Oilseed, Palm Kernel",Sierra Leone,0.0
+2773,"Oilseed, Palm Kernel",Solomon Islands,0.0
+2774,"Oilseed, Palm Kernel",Spain,12.0
+2775,"Oilseed, Palm Kernel",Switzerland,115.0
+2776,"Oilseed, Palm Kernel",Thailand,0.0
+2777,"Oilseed, Palm Kernel",Togo,0.0
+2779,"Oilseed, Palm Kernel",United Kingdom,1798.0
+2780,"Oilseed, Peanut",Argentina,0.0
+2781,"Oilseed, Peanut",Australia,463.0
+2782,"Oilseed, Peanut",Austria,36.0
+2783,"Oilseed, Peanut",Bangladesh,0.0
+2785,"Oilseed, Peanut",Benin,0.0
+2786,"Oilseed, Peanut",Brazil,215.0
+2789,"Oilseed, Peanut",Cameroon,0.0
+2790,"Oilseed, Peanut",Canada,4431.0
+2791,"Oilseed, Peanut",Central African Republic,0.0
+2792,"Oilseed, Peanut",Chad,0.0
+2793,"Oilseed, Peanut",China,317.0
+2798,"Oilseed, Peanut",Egypt,183.0
+2801,"Oilseed, Peanut",France,2977.0
+2804,"Oilseed, Peanut",Ghana,6.0
+2805,"Oilseed, Peanut",Guinea,0.0
+2807,"Oilseed, Peanut",India,5.0
+2808,"Oilseed, Peanut",Indonesia,5566.0
+2809,"Oilseed, Peanut",Italy,1220.0
+2810,"Oilseed, Peanut",Japan,4973.0
+2812,"Oilseed, Peanut",Malawi,0.0
+2813,"Oilseed, Peanut",Malaysia,1417.0
+2814,"Oilseed, Peanut",Mali,0.0
+2815,"Oilseed, Peanut",Mexico,2669.0
+2816,"Oilseed, Peanut",Morocco,37.0
+2817,"Oilseed, Peanut",Mozambique,21.0
+2818,"Oilseed, Peanut",Netherlands,2281.0
+2819,"Oilseed, Peanut",Nicaragua,9.0
+2820,"Oilseed, Peanut",Niger,0.0
+2821,"Oilseed, Peanut",Nigeria,227.0
+2822,"Oilseed, Peanut",Norway,239.0
+2823,"Oilseed, Peanut",Pakistan,190.0
+2824,"Oilseed, Peanut",Philippines,1568.0
+2825,"Oilseed, Peanut",Portugal,771.0
+2826,"Oilseed, Peanut",Russia,2498.0
+2827,"Oilseed, Peanut",Senegal,354.0
+2829,"Oilseed, Peanut",South Africa,622.0
+2830,"Oilseed, Peanut",Spain,561.0
+2831,"Oilseed, Peanut",Sudan,0.0
+2832,"Oilseed, Peanut",Sweden,50.0
+2833,"Oilseed, Peanut",Switzerland,938.0
+2834,"Oilseed, Peanut",Taiwan,116.0
+2836,"Oilseed, Peanut",Thailand,978.0
+2837,"Oilseed, Peanut",Togo,0.0
+2838,"Oilseed, Peanut",Turkey,176.0
+2839,"Oilseed, Peanut",Uganda,0.0
+2841,"Oilseed, Peanut",United Kingdom,2405.0
+2843,"Oilseed, Peanut",Vietnam,1177.0
+2844,"Oilseed, Peanut",Zambia,0.0
+2845,"Oilseed, Peanut",Zimbabwe,54.0
+2846,"Oilseed, Rapeseed",Algeria,1285.0
+2847,"Oilseed, Rapeseed",Argentina,0.0
+2848,"Oilseed, Rapeseed",Australia,134.0
+2849,"Oilseed, Rapeseed",Austria,4.0
+2850,"Oilseed, Rapeseed",Bangladesh,4405.0
+2851,"Oilseed, Rapeseed",Belarus,16.0
+2853,"Oilseed, Rapeseed",Canada,3349.0
+2854,"Oilseed, Rapeseed",Chile,12.0
+2855,"Oilseed, Rapeseed",China,34120.0
+2856,"Oilseed, Rapeseed",Czech Republic,43.0
+2857,"Oilseed, Rapeseed",Denmark,51.0
+2860,"Oilseed, Rapeseed",Ethiopia,2.0
+2862,"Oilseed, Rapeseed",Finland,77.0
+2864,"Oilseed, Rapeseed",France,1428.0
+2867,"Oilseed, Rapeseed",Hungary,89.0
+2868,"Oilseed, Rapeseed",India,594.0
+2869,"Oilseed, Rapeseed",Ireland,39.0
+2870,"Oilseed, Rapeseed",Italy,2576.0
+2871,"Oilseed, Rapeseed",Japan,77399.0
+2872,"Oilseed, Rapeseed",Kazakhstan,3.0
+2874,"Oilseed, Rapeseed",Lithuania,33.0
+2875,"Oilseed, Rapeseed",Mexico,24806.0
+2876,"Oilseed, Rapeseed",Morocco,569.0
+2877,"Oilseed, Rapeseed",Netherlands,3912.0
+2878,"Oilseed, Rapeseed",Nigeria,2.0
+2879,"Oilseed, Rapeseed",Norway,407.0
+2880,"Oilseed, Rapeseed",Pakistan,11072.0
+2881,"Oilseed, Rapeseed",Paraguay,0.0
+2882,"Oilseed, Rapeseed",Poland,592.0
+2883,"Oilseed, Rapeseed",Romania,4.0
+2884,"Oilseed, Rapeseed",Russia,33.0
+2885,"Oilseed, Rapeseed",Slovakia,103.0
+2886,"Oilseed, Rapeseed",Spain,47.0
+2887,"Oilseed, Rapeseed",Sweden,33.0
+2888,"Oilseed, Rapeseed",Switzerland,136.0
+2889,"Oilseed, Rapeseed",Taiwan,99.0
+2890,"Oilseed, Rapeseed",Turkey,2101.0
+2891,"Oilseed, Rapeseed",Ukraine,35.0
+2893,"Oilseed, Rapeseed",United Arab Emirates,5993.0
+2894,"Oilseed, Rapeseed",United Kingdom,2787.0
+2896,"Oilseed, Soybean",Argentina,11740.0
+2897,"Oilseed, Soybean",Australia,1155.0
+2898,"Oilseed, Soybean",Austria,31.0
+2899,"Oilseed, Soybean",Bangladesh,2796.0
+2902,"Oilseed, Soybean",Bolivia,1810.0
+2903,"Oilseed, Soybean",Bosnia and Herzegovina,317.0
+2904,"Oilseed, Soybean",Brazil,23246.0
+2906,"Oilseed, Soybean",Canada,16725.0
+2907,"Oilseed, Soybean",Chile,2021.0
+2908,"Oilseed, Soybean",China,614663.0
+2909,"Oilseed, Soybean",Colombia,8541.0
+2910,"Oilseed, Soybean",Costa Rica,5055.0
+2912,"Oilseed, Soybean",Croatia,447.0
+2913,"Oilseed, Soybean",Cuba,2263.0
+2914,"Oilseed, Soybean",Denmark,8193.0
+2915,"Oilseed, Soybean",Dominican Republic,672.0
+2918,"Oilseed, Soybean",Ecuador,264.0
+2919,"Oilseed, Soybean",Egypt,18650.0
+2920,"Oilseed, Soybean",Estonia,196.0
+2922,"Oilseed, Soybean",Finland,2647.0
+2925,"Oilseed, Soybean",France,13182.0
+2928,"Oilseed, Soybean",Greece,3515.0
+2929,"Oilseed, Soybean",Guatemala,188.0
+2930,"Oilseed, Soybean",Guyana,8.0
+2931,"Oilseed, Soybean",Haiti,292.0
+2932,"Oilseed, Soybean",Honduras,99.0
+2933,"Oilseed, Soybean",Hungary,272.0
+2934,"Oilseed, Soybean",India,120.0
+2935,"Oilseed, Soybean",Indonesia,34945.0
+2936,"Oilseed, Soybean",Iran,10843.0
+2937,"Oilseed, Soybean",Iraq,138.0
+2938,"Oilseed, Soybean",Ireland,97.0
+2939,"Oilseed, Soybean",Israel,21072.0
+2940,"Oilseed, Soybean",Italy,27862.0
+2941,"Oilseed, Soybean",Jamaica,1157.0
+2942,"Oilseed, Soybean",Japan,202478.0
+2945,"Oilseed, Soybean",Macedonia,6.0
+2946,"Oilseed, Soybean",Malaysia,17132.0
+2947,"Oilseed, Soybean",Mexico,97599.0
+2948,"Oilseed, Soybean",Morocco,5399.0
+2949,"Oilseed, Soybean",Netherlands,58809.0
+2950,"Oilseed, Soybean",Nicaragua,97.0
+2951,"Oilseed, Soybean",Nigeria,219.0
+2952,"Oilseed, Soybean",Norway,15439.0
+2953,"Oilseed, Soybean",Pakistan,855.0
+2954,"Oilseed, Soybean",Panama,192.0
+2955,"Oilseed, Soybean",Paraguay,2904.0
+2956,"Oilseed, Soybean",Peru,1916.0
+2957,"Oilseed, Soybean",Philippines,4177.0
+2958,"Oilseed, Soybean",Poland,2580.0
+2959,"Oilseed, Soybean",Portugal,9707.0
+2960,"Oilseed, Soybean",Romania,5205.0
+2961,"Oilseed, Soybean",Russia,10025.0
+2965,"Oilseed, Soybean",South Africa,1524.0
+2966,"Oilseed, Soybean",Spain,51020.0
+2967,"Oilseed, Soybean",Sweden,93.0
+2968,"Oilseed, Soybean",Switzerland,2644.0
+2969,"Oilseed, Soybean",Syria,3644.0
+2970,"Oilseed, Soybean",Taiwan,86163.0
+2971,"Oilseed, Soybean",Thailand,29380.0
+2972,"Oilseed, Soybean",Trinidad and Tobago,1607.0
+2973,"Oilseed, Soybean",Tunisia,18.0
+2974,"Oilseed, Soybean",Turkey,18401.0
+2975,"Oilseed, Soybean",Uganda,0.0
+2976,"Oilseed, Soybean",Ukraine,1173.0
+2978,"Oilseed, Soybean",United Arab Emirates,1977.0
+2979,"Oilseed, Soybean",United Kingdom,18394.0
+2981,"Oilseed, Soybean",Uruguay,126.0
+2982,"Oilseed, Soybean",Uzbekistan,825.0
+2983,"Oilseed, Soybean",Venezuela,5403.0
+2984,"Oilseed, Soybean",Vietnam,7444.0
+2985,"Oilseed, Soybean",Zambia,1.0
+2986,"Oilseed, Soybean",Zimbabwe,233.0
+2987,"Oilseed, Soybean (Local)",Argentina,11012.0
+2988,"Oilseed, Soybean (Local)",Brazil,17385.0
+2989,"Oilseed, Sunflowerseed",Argentina,427.0
+2990,"Oilseed, Sunflowerseed",Armenia,25.0
+2991,"Oilseed, Sunflowerseed",Australia,54.0
+2992,"Oilseed, Sunflowerseed",Austria,130.0
+2993,"Oilseed, Sunflowerseed",Azerbaijan,25.0
+2994,"Oilseed, Sunflowerseed",Belarus,515.0
+2996,"Oilseed, Sunflowerseed",Bolivia,11.0
+2997,"Oilseed, Sunflowerseed",Bosnia and Herzegovina,0.0
+2998,"Oilseed, Sunflowerseed",Brazil,94.0
+2999,"Oilseed, Sunflowerseed",Bulgaria,279.0
+3001,"Oilseed, Sunflowerseed",Canada,671.0
+3002,"Oilseed, Sunflowerseed",China,186.0
+3003,"Oilseed, Sunflowerseed",Croatia,35.0
+3004,"Oilseed, Sunflowerseed",Czech Republic,116.0
+3005,"Oilseed, Sunflowerseed",Denmark,40.0
+3008,"Oilseed, Sunflowerseed",Egypt,449.0
+3010,"Oilseed, Sunflowerseed",Finland,67.0
+3013,"Oilseed, Sunflowerseed",France,868.0
+3016,"Oilseed, Sunflowerseed",Greece,55.0
+3017,"Oilseed, Sunflowerseed",Hungary,326.0
+3018,"Oilseed, Sunflowerseed",India,6.0
+3019,"Oilseed, Sunflowerseed",Iran,412.0
+3020,"Oilseed, Sunflowerseed",Israel,296.0
+3021,"Oilseed, Sunflowerseed",Italy,1514.0
+3022,"Oilseed, Sunflowerseed",Kazakhstan,544.0
+3024,"Oilseed, Sunflowerseed",Lebanon,0.0
+3025,"Oilseed, Sunflowerseed",Macedonia,31.0
+3026,"Oilseed, Sunflowerseed",Mexico,5701.0
+3027,"Oilseed, Sunflowerseed",Moldova,383.0
+3028,"Oilseed, Sunflowerseed",Morocco,985.0
+3029,"Oilseed, Sunflowerseed",Netherlands,3745.0
+3030,"Oilseed, Sunflowerseed",Pakistan,1494.0
+3031,"Oilseed, Sunflowerseed",Paraguay,47.0
+3032,"Oilseed, Sunflowerseed",Poland,100.0
+3033,"Oilseed, Sunflowerseed",Portugal,3346.0
+3034,"Oilseed, Sunflowerseed",Romania,110.0
+3035,"Oilseed, Sunflowerseed",Russia,473.0
+3038,"Oilseed, Sunflowerseed",Slovakia,1.0
+3039,"Oilseed, Sunflowerseed",South Africa,662.0
+3040,"Oilseed, Sunflowerseed",Spain,422.0
+3041,"Oilseed, Sunflowerseed",Sweden,111.0
+3042,"Oilseed, Sunflowerseed",Switzerland,548.0
+3043,"Oilseed, Sunflowerseed",Turkey,11301.0
+3044,"Oilseed, Sunflowerseed",Ukraine,171.0
+3046,"Oilseed, Sunflowerseed",United Kingdom,998.0
+3048,"Oilseed, Sunflowerseed",Uruguay,7.0
+3049,Orange Juice,Argentina,31946.0
+3050,Orange Juice,Australia,866938.0
+3051,Orange Juice,Brazil,0.0
+3052,Orange Juice,Canada,1584257.0
+3053,Orange Juice,China,774027.0
+3055,Orange Juice,Germany,707780.0
+3057,Orange Juice,Greece,122850.0
+3058,Orange Juice,Israel,790163.0
+3059,Orange Juice,Italy,141569.0
+3060,Orange Juice,Japan,2184895.0
+3063,Orange Juice,Mexico,22465.0
+3064,Orange Juice,Morocco,36064.0
+3065,Orange Juice,Netherlands,814898.0
+3066,Orange Juice,Russia,659000.0
+3067,Orange Juice,South Africa,12568.0
+3068,Orange Juice,Spain,343700.0
+3069,Orange Juice,Sweden,141475.0
+3070,Orange Juice,Switzerland,0.0
+3071,Orange Juice,Turkey,111304.0
+3073,"Oranges, Fresh",Algeria,0.0
+3074,"Oranges, Fresh",Argentina,40.0
+3075,"Oranges, Fresh",Australia,417.0
+3076,"Oranges, Fresh",Brazil,88.0
+3077,"Oranges, Fresh",Canada,2821.0
+3078,"Oranges, Fresh",Chile,23.0
+3079,"Oranges, Fresh",China,1140.0
+3080,"Oranges, Fresh",Costa Rica,593.0
+3081,"Oranges, Fresh",Croatia,0.0
+3082,"Oranges, Fresh",Cuba,0.0
+3083,"Oranges, Fresh",Cyprus,0.0
+3084,"Oranges, Fresh",Egypt,0.0
+3088,"Oranges, Fresh",Greece,45.0
+3089,"Oranges, Fresh",Guatemala,597.0
+3091,"Oranges, Fresh",Iran,0.0
+3092,"Oranges, Fresh",Iraq,1092.0
+3093,"Oranges, Fresh",Israel,428.0
+3094,"Oranges, Fresh",Italy,414.0
+3095,"Oranges, Fresh",Japan,4225.0
+3097,"Oranges, Fresh",Lebanon,0.0
+3098,"Oranges, Fresh",Malaysia,1237.0
+3099,"Oranges, Fresh",Mexico,486.0
+3100,"Oranges, Fresh",Morocco,0.0
+3101,"Oranges, Fresh",Mozambique,523.0
+3102,"Oranges, Fresh",Netherlands,4197.0
+3103,"Oranges, Fresh",Norway,512.0
+3104,"Oranges, Fresh",Russia,6404.0
+3105,"Oranges, Fresh",Saudi Arabia,3169.0
+3108,"Oranges, Fresh",South Africa,102.0
+3109,"Oranges, Fresh",Spain,594.0
+3110,"Oranges, Fresh",Sweden,0.0
+3111,"Oranges, Fresh",Switzerland,879.0
+3112,"Oranges, Fresh",Tunisia,0.0
+3113,"Oranges, Fresh",Turkey,644.0
+3114,"Oranges, Fresh",Ukraine,1532.0
+3115,"Oranges, Fresh",United Arab Emirates,1820.0
+3117,"Oranges, Fresh",Uruguay,0.0
+3118,"Oranges, Fresh",Vietnam,500.0
+3119,"Pears, Fresh",Argentina,12509.0
+3120,"Pears, Fresh",Australia,41837.0
+3121,"Pears, Fresh",Austria,420500.0
+3123,"Pears, Fresh",Brazil,1913400.0
+3124,"Pears, Fresh",Bulgaria,993.0
+3125,"Pears, Fresh",Canada,2046444.0
+3126,"Pears, Fresh",Chile,1000.0
+3127,"Pears, Fresh",China,24092.0
+3128,"Pears, Fresh",Colombia,254700.0
+3129,"Pears, Fresh",Denmark,220358.0
+3130,"Pears, Fresh",Ecuador,108400.0
+3133,"Pears, Fresh",France,1786600.0
+3135,"Pears, Fresh",Germany,1954624.0
+3137,"Pears, Fresh",Greece,114911.0
+3139,"Pears, Fresh",Hungary,0.0
+3140,"Pears, Fresh",India,125100.0
+3141,"Pears, Fresh",Indonesia,1145400.0
+3142,"Pears, Fresh",Iran,121900.0
+3143,"Pears, Fresh",Italy,1521973.0
+3144,"Pears, Fresh",Japan,4067.0
+3145,"Pears, Fresh",Lebanon,0.0
+3146,"Pears, Fresh",Malaysia,633400.0
+3147,"Pears, Fresh",Mexico,1688123.0
+3148,"Pears, Fresh",Netherlands,1420841.0
+3149,"Pears, Fresh",New Zealand,55602.0
+3150,"Pears, Fresh",Norway,554619.0
+3151,"Pears, Fresh",Peru,133300.0
+3152,"Pears, Fresh",Philippines,155500.0
+3153,"Pears, Fresh",Russia,4954865.0
+3154,"Pears, Fresh",Saudi Arabia,168500.0
+3156,"Pears, Fresh",South Africa,1100.0
+3157,"Pears, Fresh",Spain,414100.0
+3158,"Pears, Fresh",Sweden,657070.0
+3159,"Pears, Fresh",Switzerland,236963.0
+3160,"Pears, Fresh",Taiwan,143400.0
+3161,"Pears, Fresh",Thailand,431200.0
+3162,"Pears, Fresh",Turkey,7577.0
+3163,"Pears, Fresh",United Arab Emirates,230600.0
+3164,"Pears, Fresh",United Kingdom,2122696.0
+3166,"Pears, Fresh",Venezuela,111900.0
+3167,"Pears, Fresh",Vietnam,711700.0
+3169,"Pistachios, Inshell Basis",Afghanistan,0.0
+3170,"Pistachios, Inshell Basis",Australia,40065.0
+3171,"Pistachios, Inshell Basis",Canada,130875.0
+3172,"Pistachios, Inshell Basis",China,592500.0
+3173,"Pistachios, Inshell Basis",Egypt,20075.0
+3175,"Pistachios, Inshell Basis",Greece,24313.0
+3177,"Pistachios, Inshell Basis",India,64950.0
+3178,"Pistachios, Inshell Basis",Iran,0.0
+3179,"Pistachios, Inshell Basis",Iraq,86625.0
+3180,"Pistachios, Inshell Basis",Israel,27200.0
+3181,"Pistachios, Inshell Basis",Italy,140735.0
+3182,"Pistachios, Inshell Basis",Japan,39275.0
+3183,"Pistachios, Inshell Basis",Jordan,4925.0
+3184,"Pistachios, Inshell Basis",Lebanon,34000.0
+3185,"Pistachios, Inshell Basis",Mexico,49925.0
+3186,"Pistachios, Inshell Basis",Pakistan,36225.0
+3187,"Pistachios, Inshell Basis",Russia,172725.0
+3188,"Pistachios, Inshell Basis",Saudi Arabia,0.0
+3189,"Pistachios, Inshell Basis",Syria,127249.0
+3190,"Pistachios, Inshell Basis",Taiwan,56425.0
+3191,"Pistachios, Inshell Basis",Turkey,85792.0
+3192,"Pistachios, Inshell Basis",Ukraine,38450.0
+3193,"Pistachios, Inshell Basis",United Arab Emirates,181750.0
+3195,"Pistachios, Inshell Basis",Vietnam,0.0
+3196,"Poultry, Meat, Broiler",Albania,0.0
+3197,"Poultry, Meat, Broiler",Algeria,0.0
+3198,"Poultry, Meat, Broiler",Angola,2986.0
+3199,"Poultry, Meat, Broiler",Argentina,566.0
+3200,"Poultry, Meat, Broiler",Armenia,19.0
+3201,"Poultry, Meat, Broiler",Australia,55.0
+3202,"Poultry, Meat, Broiler",Austria,195.0
+3203,"Poultry, Meat, Broiler",Azerbaijan,651.0
+3207,"Poultry, Meat, Broiler",Belarus,286.0
+3209,"Poultry, Meat, Broiler",Benin,1255.0
+3210,"Poultry, Meat, Broiler",Brazil,21.0
+3211,"Poultry, Meat, Broiler",Bulgaria,23.0
+3212,"Poultry, Meat, Broiler",Canada,2848.0
+3213,"Poultry, Meat, Broiler",Chile,612.0
+3214,"Poultry, Meat, Broiler",China,8910.0
+3215,"Poultry, Meat, Broiler",Colombia,489.0
+3218,"Poultry, Meat, Broiler",Costa Rica,0.0
+3219,"Poultry, Meat, Broiler",Cuba,2390.0
+3220,"Poultry, Meat, Broiler",Denmark,44.0
+3221,"Poultry, Meat, Broiler",Dominican Republic,9.0
+3223,"Poultry, Meat, Broiler",Egypt,709.0
+3224,"Poultry, Meat, Broiler",Estonia,0.0
+3226,"Poultry, Meat, Broiler",Finland,0.0
+3229,"Poultry, Meat, Broiler",France,691.0
+3230,"Poultry, Meat, Broiler",Gabon,590.0
+3231,"Poultry, Meat, Broiler",Georgia,516.0
+3233,"Poultry, Meat, Broiler",Germany,1826.0
+3235,"Poultry, Meat, Broiler",Ghana,1368.0
+3236,"Poultry, Meat, Broiler",Greece,206.0
+3237,"Poultry, Meat, Broiler",Guatemala,1051.0
+3238,"Poultry, Meat, Broiler",Haiti,652.0
+3240,"Poultry, Meat, Broiler",Hungary,9.0
+3241,"Poultry, Meat, Broiler",India,8.0
+3242,"Poultry, Meat, Broiler",Indonesia,42.0
+3243,"Poultry, Meat, Broiler",Iran,306.0
+3244,"Poultry, Meat, Broiler",Iraq,6008.0
+3245,"Poultry, Meat, Broiler",Ireland,139.0
+3246,"Poultry, Meat, Broiler",Israel,22.0
+3247,"Poultry, Meat, Broiler",Italy,443.0
+3248,"Poultry, Meat, Broiler",Jamaica,808.0
+3249,"Poultry, Meat, Broiler",Japan,18987.0
+3250,"Poultry, Meat, Broiler",Jordan,434.0
+3251,"Poultry, Meat, Broiler",Kazakhstan,1925.0
+3253,"Poultry, Meat, Broiler",Kuwait,1790.0
+3254,"Poultry, Meat, Broiler",Kyrgyzstan,0.0
+3255,"Poultry, Meat, Broiler",Latvia,0.0
+3256,"Poultry, Meat, Broiler",Lebanon,13.0
+3257,"Poultry, Meat, Broiler",Lithuania,0.0
+3258,"Poultry, Meat, Broiler",Macedonia,516.0
+3259,"Poultry, Meat, Broiler",Malaysia,624.0
+3260,"Poultry, Meat, Broiler",Mexico,8685.0
+3261,"Poultry, Meat, Broiler",Moldova,276.0
+3262,"Poultry, Meat, Broiler",Netherlands,859.0
+3263,"Poultry, Meat, Broiler",Norway,3.0
+3264,"Poultry, Meat, Broiler",Oman,1073.0
+3265,"Poultry, Meat, Broiler",Peru,32.0
+3266,"Poultry, Meat, Broiler",Philippines,1341.0
+3267,"Poultry, Meat, Broiler",Poland,303.0
+3268,"Poultry, Meat, Broiler",Portugal,36.0
+3269,"Poultry, Meat, Broiler",Qatar,973.0
+3270,"Poultry, Meat, Broiler",Romania,341.0
+3271,"Poultry, Meat, Broiler",Russia,21073.0
+3272,"Poultry, Meat, Broiler",Saudi Arabia,11748.0
+3274,"Poultry, Meat, Broiler",South Africa,4071.0
+3275,"Poultry, Meat, Broiler",Spain,716.0
+3276,"Poultry, Meat, Broiler",Sweden,0.0
+3277,"Poultry, Meat, Broiler",Switzerland,369.0
+3278,"Poultry, Meat, Broiler",Syria,0.0
+3279,"Poultry, Meat, Broiler",Taiwan,1279.0
+3280,"Poultry, Meat, Broiler",Tajikistan,17.0
+3281,"Poultry, Meat, Broiler",Thailand,30.0
+3282,"Poultry, Meat, Broiler",Turkey,5.0
+3283,"Poultry, Meat, Broiler",Turkmenistan,19.0
+3284,"Poultry, Meat, Broiler",Ukraine,2207.0
+3286,"Poultry, Meat, Broiler",United Arab Emirates,3765.0
+3287,"Poultry, Meat, Broiler",United Kingdom,1718.0
+3289,"Poultry, Meat, Broiler",Uzbekistan,92.0
+3290,"Poultry, Meat, Broiler",Venezuela,2669.0
+3291,"Poultry, Meat, Broiler",Vietnam,460.0
+3292,"Poultry, Meat, Broiler",Yemen,1552.0
+3294,"Poultry, Meat, Turkey",Algeria,0.0
+3295,"Poultry, Meat, Turkey",Argentina,2.0
+3296,"Poultry, Meat, Turkey",Australia,0.0
+3297,"Poultry, Meat, Turkey",Austria,33.0
+3299,"Poultry, Meat, Turkey",Brazil,0.0
+3300,"Poultry, Meat, Turkey",Bulgaria,21.0
+3301,"Poultry, Meat, Turkey",Canada,215.0
+3302,"Poultry, Meat, Turkey",China,555.0
+3303,"Poultry, Meat, Turkey",Denmark,40.0
+3305,"Poultry, Meat, Turkey",Egypt,73.0
+3309,"Poultry, Meat, Turkey",France,80.0
+3311,"Poultry, Meat, Turkey",Germany,796.0
+3313,"Poultry, Meat, Turkey",Greece,24.0
+3315,"Poultry, Meat, Turkey",Hungary,9.0
+3316,"Poultry, Meat, Turkey",Ireland,29.0
+3317,"Poultry, Meat, Turkey",Israel,0.0
+3318,"Poultry, Meat, Turkey",Italy,150.0
+3319,"Poultry, Meat, Turkey",Japan,10.0
+3321,"Poultry, Meat, Turkey",Mexico,3140.0
+3322,"Poultry, Meat, Turkey",Netherlands,441.0
+3323,"Poultry, Meat, Turkey",Norway,0.0
+3324,"Poultry, Meat, Turkey",Peru,0.0
+3325,"Poultry, Meat, Turkey",Poland,83.0
+3326,"Poultry, Meat, Turkey",Portugal,8.0
+3327,"Poultry, Meat, Turkey",Russia,1873.0
+3328,"Poultry, Meat, Turkey",South Africa,521.0
+3329,"Poultry, Meat, Turkey",Spain,145.0
+3330,"Poultry, Meat, Turkey",Sweden,0.0
+3331,"Poultry, Meat, Turkey",Switzerland,49.0
+3332,"Poultry, Meat, Turkey",Taiwan,159.0
+3333,"Poultry, Meat, Turkey",Turkey,0.0
+3335,"Poultry, Meat, Turkey",United Kingdom,296.0
+3337,"Poultry, Meat, Turkey",Venezuela,0.0
+3339,Raisins,Afghanistan,0.0
+3340,Raisins,Algeria,109775.0
+3341,Raisins,Argentina,2182.0
+3342,Raisins,Australia,484215.0
+3343,Raisins,Brazil,307725.0
+3344,Raisins,Canada,470375.0
+3345,Raisins,Chile,9816.0
+3346,Raisins,China,191038.0
+3347,Raisins,Colombia,103481.0
+3350,Raisins,Greece,11260.0
+3351,Raisins,India,123500.0
+3352,Raisins,Iran,3000.0
+3353,Raisins,Iraq,150300.0
+3354,Raisins,Japan,451750.0
+3355,Raisins,Kazakhstan,57150.0
+3358,Raisins,Malaysia,88750.0
+3359,Raisins,Mexico,263217.0
+3360,Raisins,Morocco,64800.0
+3361,Raisins,New Zealand,114250.0
+3362,Raisins,Norway,61000.0
+3363,Raisins,Peru,82400.0
+3364,Raisins,Philippines,51900.0
+3365,Raisins,Russia,824675.0
+3366,Raisins,South Africa,10183.0
+3367,Raisins,Spain,0.0
+3368,Raisins,Switzerland,61800.0
+3369,Raisins,Taiwan,93800.0
+3370,Raisins,Turkey,67138.0
+3371,Raisins,Ukraine,255450.0
+3372,Raisins,United Arab Emirates,198700.0
+3374,Raisins,Uzbekistan,0.0
+3375,Raisins,Venezuela,60900.0
+3376,"Rice, Milled",Afghanistan,3781.0
+3377,"Rice, Milled",Algeria,2290.0
+3378,"Rice, Milled",Angola,5572.0
+3379,"Rice, Milled",Argentina,197.0
+3380,"Rice, Milled",Armenia,109.0
+3381,"Rice, Milled",Australia,2556.0
+3382,"Rice, Milled",Azerbaijan,392.0
+3383,"Rice, Milled",Bangladesh,27184.0
+3384,"Rice, Milled",Belarus,527.0
+3385,"Rice, Milled",Benin,3802.0
+3386,"Rice, Milled",Bolivia,560.0
+3387,"Rice, Milled",Bosnia and Herzegovina,147.0
+3388,"Rice, Milled",Brazil,22990.0
+3389,"Rice, Milled",Brunei,1229.0
+3390,"Rice, Milled",Bulgaria,606.0
+3393,"Rice, Milled",Cambodia,2912.0
+3394,"Rice, Milled",Cameroon,6757.0
+3395,"Rice, Milled",Canada,9218.0
+3397,"Rice, Milled",Chad,282.0
+3398,"Rice, Milled",Chile,2890.0
+3399,"Rice, Milled",China,27329.0
+3400,"Rice, Milled",Colombia,3706.0
+3402,"Rice, Milled",Costa Rica,1997.0
+3404,"Rice, Milled",Croatia,56.0
+3405,"Rice, Milled",Cuba,16587.0
+3406,"Rice, Milled",Cyprus,47.0
+3407,"Rice, Milled",Czech Republic,349.0
+3408,"Rice, Milled",Djibouti,840.0
+3409,"Rice, Milled",Dominican Republic,1346.0
+3412,"Rice, Milled",Ecuador,673.0
+3413,"Rice, Milled",Egypt,888.0
+3414,"Rice, Milled",El Salvador,1444.0
+3415,"Rice, Milled",Estonia,46.0
+3419,"Rice, Milled",Gabon,63.0
+3421,"Rice, Milled",Ghana,9378.0
+3422,"Rice, Milled",Guatemala,1134.0
+3423,"Rice, Milled",Guinea,7927.0
+3425,"Rice, Milled",Guyana,0.0
+3426,"Rice, Milled",Haiti,7344.0
+3427,"Rice, Milled",Honduras,2007.0
+3429,"Rice, Milled",Hungary,810.0
+3430,"Rice, Milled",India,8569.0
+3431,"Rice, Milled",Indonesia,63287.0
+3432,"Rice, Milled",Iran,42931.0
+3433,"Rice, Milled",Iraq,27608.0
+3434,"Rice, Milled",Israel,2733.0
+3435,"Rice, Milled",Jamaica,3142.0
+3436,"Rice, Milled",Japan,19572.0
+3437,"Rice, Milled",Jordan,4558.0
+3438,"Rice, Milled",Kazakhstan,705.0
+3439,"Rice, Milled",Kenya,7313.0
+3442,"Rice, Milled",Kuwait,5290.0
+3443,"Rice, Milled",Kyrgyzstan,228.0
+3444,"Rice, Milled",Laos,1779.0
+3445,"Rice, Milled",Lebanon,1593.0
+3446,"Rice, Milled",Liberia,4934.0
+3447,"Rice, Milled",Libya,4932.0
+3449,"Rice, Milled",Macedonia,5.0
+3450,"Rice, Milled",Madagascar,7427.0
+3451,"Rice, Milled",Malawi,185.0
+3452,"Rice, Milled",Malaysia,27007.0
+3453,"Rice, Milled",Mali,2650.0
+3454,"Rice, Milled",Mauritania,2596.0
+3456,"Rice, Milled",Mexico,13071.0
+3457,"Rice, Milled",Morocco,549.0
+3458,"Rice, Milled",Mozambique,7190.0
+3459,"Rice, Milled",Nepal,2226.0
+3460,"Rice, Milled",New Zealand,674.0
+3461,"Rice, Milled",Nicaragua,2343.0
+3462,"Rice, Milled",Niger,3047.0
+3463,"Rice, Milled",Nigeria,42964.0
+3464,"Rice, Milled",Norway,101.0
+3465,"Rice, Milled",Oman,3886.0
+3466,"Rice, Milled",Pakistan,317.0
+3467,"Rice, Milled",Panama,901.0
+3468,"Rice, Milled",Papua New Guinea,6328.0
+3469,"Rice, Milled",Paraguay,117.0
+3470,"Rice, Milled",Peru,6281.0
+3471,"Rice, Milled",Philippines,35052.0
+3472,"Rice, Milled",Poland,2831.0
+3473,"Rice, Milled",Qatar,831.0
+3475,"Rice, Milled",Romania,1746.0
+3476,"Rice, Milled",Russia,7445.0
+3477,"Rice, Milled",Rwanda,330.0
+3478,"Rice, Milled",Saudi Arabia,33207.0
+3479,"Rice, Milled",Senegal,25312.0
+3480,"Rice, Milled",Sierra Leone,4242.0
+3482,"Rice, Milled",Slovakia,126.0
+3483,"Rice, Milled",Slovenia,61.0
+3484,"Rice, Milled",Somalia,3945.0
+3485,"Rice, Milled",South Africa,20112.0
+3486,"Rice, Milled",Sri Lanka,13753.0
+3487,"Rice, Milled",Sudan,1171.0
+3488,"Rice, Milled",Suriname,0.0
+3489,"Rice, Milled",Swaziland,1.0
+3490,"Rice, Milled",Switzerland,2739.0
+3491,"Rice, Milled",Syria,6948.0
+3492,"Rice, Milled",Taiwan,1853.0
+3493,"Rice, Milled",Tajikistan,167.0
+3495,"Rice, Milled",Thailand,2631.0
+3496,"Rice, Milled",Togo,2553.0
+3497,"Rice, Milled",Trinidad and Tobago,1841.0
+3498,"Rice, Milled",Turkey,8524.0
+3499,"Rice, Milled",Turkmenistan,597.0
+3500,"Rice, Milled",Uganda,1155.0
+3501,"Rice, Milled",Ukraine,1746.0
+3503,"Rice, Milled",United Arab Emirates,6087.0
+3505,"Rice, Milled",Uruguay,43.0
+3506,"Rice, Milled",Uzbekistan,617.0
+3507,"Rice, Milled",Venezuela,3092.0
+3508,"Rice, Milled",Vietnam,15294.0
+3509,"Rice, Milled",Yemen,6206.0
+3512,"Rice, Milled",Zambia,283.0
+3513,Rye,Albania,25.0
+3514,Rye,Argentina,0.0
+3515,Rye,Australia,90.0
+3516,Rye,Belarus,698.0
+3517,Rye,Bosnia and Herzegovina,0.0
+3518,Rye,Brazil,18.0
+3519,Rye,Bulgaria,81.0
+3520,Rye,Canada,49.0
+3521,Rye,Chile,90.0
+3522,Rye,China,1327.0
+3523,Rye,Croatia,7.0
+3524,Rye,Czech Republic,375.0
+3527,Rye,Ecuador,0.0
+3528,Rye,Estonia,393.0
+3532,Rye,Hungary,540.0
+3533,Rye,Israel,670.0
+3534,Rye,Japan,9627.0
+3535,Rye,Kazakhstan,424.0
+3537,Rye,Latvia,458.0
+3538,Rye,Lithuania,415.0
+3539,Rye,Macedonia,0.0
+3540,Rye,Moldova,523.0
+3541,Rye,Norway,1812.0
+3542,Rye,Poland,4407.0
+3543,Rye,Romania,776.0
+3544,Rye,Russia,3621.0
+3547,Rye,Slovakia,92.0
+3548,Rye,Slovenia,0.0
+3549,Rye,South Africa,9.0
+3550,Rye,Switzerland,616.0
+3551,Rye,Tajikistan,70.0
+3552,Rye,Turkey,444.0
+3553,Rye,Ukraine,1757.0
+3556,Rye,Uzbekistan,269.0
+3557,Sorghum,Argentina,52.0
+3558,Sorghum,Australia,282.0
+3559,Sorghum,Benin,27.0
+3560,Sorghum,Bolivia,34.0
+3561,Sorghum,Botswana,1328.0
+3562,Sorghum,Brazil,740.0
+3564,Sorghum,Burundi,10.0
+3565,Sorghum,Cameroon,105.0
+3566,Sorghum,Central African Republic,0.0
+3567,Sorghum,Chad,235.0
+3568,Sorghum,Chile,4016.0
+3569,Sorghum,China,13669.0
+3570,Sorghum,Colombia,3789.0
+3572,Sorghum,Costa Rica,217.0
+3574,Sorghum,Cyprus,608.0
+3575,Sorghum,Dominican Republic,12.0
+3578,Sorghum,Ecuador,504.0
+3579,Sorghum,Egypt,338.0
+3580,Sorghum,El Salvador,159.0
+3581,Sorghum,Eritrea,700.0
+3582,Sorghum,Ethiopia,1102.0
+3586,Sorghum,Ghana,98.0
+3587,Sorghum,Guatemala,115.0
+3588,Sorghum,Guinea,0.0
+3590,Sorghum,Haiti,5.0
+3591,Sorghum,Honduras,125.0
+3592,Sorghum,India,7490.0
+3593,Sorghum,Iran,1701.0
+3594,Sorghum,Iraq,11.0
+3595,Sorghum,Israel,15848.0
+3596,Sorghum,Jamaica,0.0
+3597,Sorghum,Japan,149090.0
+3598,Sorghum,Jordan,565.0
+3599,Sorghum,Kenya,569.0
+3601,Sorghum,Lesotho,214.0
+3602,Sorghum,Mali,10.0
+3603,Sorghum,Mauritania,56.0
+3604,Sorghum,Mexico,97023.0
+3605,Sorghum,Morocco,565.0
+3606,Sorghum,Mozambique,46.0
+3607,Sorghum,Nicaragua,102.0
+3608,Sorghum,Niger,1357.0
+3609,Sorghum,Nigeria,324.0
+3610,Sorghum,Norway,3098.0
+3611,Sorghum,Pakistan,163.0
+3612,Sorghum,Paraguay,2.0
+3613,Sorghum,Peru,662.0
+3614,Sorghum,Philippines,293.0
+3615,Sorghum,Poland,3815.0
+3616,Sorghum,Romania,1189.0
+3617,Sorghum,Russia,1412.0
+3618,Sorghum,Rwanda,98.0
+3619,Sorghum,Saudi Arabia,4968.0
+3620,Sorghum,Senegal,1212.0
+3621,Sorghum,Sierra Leone,0.0
+3622,Sorghum,Somalia,610.0
+3623,Sorghum,South Africa,712.0
+3624,Sorghum,South Sudan,49.0
+3625,Sorghum,Sudan,3540.0
+3626,Sorghum,Swaziland,73.0
+3627,Sorghum,Taiwan,8954.0
+3629,Sorghum,Thailand,56.0
+3630,Sorghum,Togo,15.0
+3631,Sorghum,Tunisia,181.0
+3632,Sorghum,Turkey,841.0
+3633,Sorghum,Uganda,219.0
+3634,Sorghum,Ukraine,2.0
+3637,Sorghum,Uruguay,175.0
+3638,Sorghum,Venezuela,11053.0
+3639,Sorghum,Yemen,36.0
+3642,Sorghum,Zambia,135.0
+3643,Sorghum,Zimbabwe,507.0
+3644,"Sugar, Centrifugal",Afghanistan,2624.0
+3645,"Sugar, Centrifugal",Albania,1877.0
+3646,"Sugar, Centrifugal",Algeria,39506.0
+3647,"Sugar, Centrifugal",Angola,6159.0
+3648,"Sugar, Centrifugal",Argentina,621.0
+3649,"Sugar, Centrifugal",Armenia,1390.0
+3650,"Sugar, Centrifugal",Australia,811.0
+3651,"Sugar, Centrifugal",Austria,136.0
+3652,"Sugar, Centrifugal",Azerbaijan,6564.0
+3655,"Sugar, Centrifugal",Bangladesh,23899.0
+3657,"Sugar, Centrifugal",Belarus,8491.0
+3658,"Sugar, Centrifugal",Belize,37.0
+3659,"Sugar, Centrifugal",Benin,1459.0
+3660,"Sugar, Centrifugal",Bermuda,99.0
+3661,"Sugar, Centrifugal",Bolivia,96.0
+3662,"Sugar, Centrifugal",Bosnia and Herzegovina,2471.0
+3663,"Sugar, Centrifugal",Botswana,1621.0
+3664,"Sugar, Centrifugal",Brazil,486.0
+3665,"Sugar, Centrifugal",Brunei,354.0
+3666,"Sugar, Centrifugal",Bulgaria,13002.0
+3669,"Sugar, Centrifugal",Burundi,206.0
+3670,"Sugar, Centrifugal",Cambodia,5661.0
+3671,"Sugar, Centrifugal",Cameroon,1480.0
+3672,"Sugar, Centrifugal",Canada,55579.0
+3674,"Sugar, Centrifugal",Central African Republic,280.0
+3675,"Sugar, Centrifugal",Chad,548.0
+3676,"Sugar, Centrifugal",Chile,11989.0
+3677,"Sugar, Centrifugal",China,75816.0
+3678,"Sugar, Centrifugal",Colombia,2217.0
+3682,"Sugar, Centrifugal",Costa Rica,199.0
+3684,"Sugar, Centrifugal",Croatia,1028.0
+3685,"Sugar, Centrifugal",Cuba,1203.0
+3686,"Sugar, Centrifugal",Cyprus,721.0
+3687,"Sugar, Centrifugal",Czech Republic,651.0
+3688,"Sugar, Centrifugal",Denmark,150.0
+3689,"Sugar, Centrifugal",Djibouti,1812.0
+3690,"Sugar, Centrifugal",Dominican Republic,1020.0
+3693,"Sugar, Centrifugal",Ecuador,1545.0
+3694,"Sugar, Centrifugal",Egypt,33397.0
+3695,"Sugar, Centrifugal",El Salvador,11.0
+3696,"Sugar, Centrifugal",Estonia,902.0
+3697,"Sugar, Centrifugal",Ethiopia,1288.0
+3699,"Sugar, Centrifugal",Fiji,386.0
+3700,"Sugar, Centrifugal",Finland,5348.0
+3704,"Sugar, Centrifugal",France,0.0
+3707,"Sugar, Centrifugal",Gabon,162.0
+3709,"Sugar, Centrifugal",Georgia,4672.0
+3712,"Sugar, Centrifugal",Ghana,8647.0
+3715,"Sugar, Centrifugal",Greece,1385.0
+3716,"Sugar, Centrifugal",Greenland,18.0
+3719,"Sugar, Centrifugal",Guatemala,12.0
+3720,"Sugar, Centrifugal",Guinea,2013.0
+3722,"Sugar, Centrifugal",Guyana,269.0
+3723,"Sugar, Centrifugal",Haiti,3464.0
+3724,"Sugar, Centrifugal",Honduras,301.0
+3726,"Sugar, Centrifugal",Hungary,1992.0
+3727,"Sugar, Centrifugal",Iceland,514.0
+3728,"Sugar, Centrifugal",India,19374.0
+3729,"Sugar, Centrifugal",Indonesia,50216.0
+3730,"Sugar, Centrifugal",Iran,42263.0
+3731,"Sugar, Centrifugal",Iraq,24262.0
+3732,"Sugar, Centrifugal",Ireland,609.0
+3733,"Sugar, Centrifugal",Israel,15577.0
+3734,"Sugar, Centrifugal",Italy,19.0
+3735,"Sugar, Centrifugal",Jamaica,2764.0
+3736,"Sugar, Centrifugal",Japan,99576.0
+3737,"Sugar, Centrifugal",Jordan,7675.0
+3738,"Sugar, Centrifugal",Kazakhstan,10821.0
+3739,"Sugar, Centrifugal",Kenya,6402.0
+3742,"Sugar, Centrifugal",Kuwait,2993.0
+3743,"Sugar, Centrifugal",Kyrgyzstan,5111.0
+3744,"Sugar, Centrifugal",Laos,940.0
+3745,"Sugar, Centrifugal",Latvia,1456.0
+3746,"Sugar, Centrifugal",Lebanon,4419.0
+3747,"Sugar, Centrifugal",Liberia,621.0
+3748,"Sugar, Centrifugal",Libya,8485.0
+3749,"Sugar, Centrifugal",Lithuania,421.0
+3751,"Sugar, Centrifugal",Macedonia,2853.0
+3752,"Sugar, Centrifugal",Madagascar,2023.0
+3753,"Sugar, Centrifugal",Malawi,73.0
+3754,"Sugar, Centrifugal",Malaysia,43627.0
+3756,"Sugar, Centrifugal",Mali,1449.0
+3757,"Sugar, Centrifugal",Malta,557.0
+3759,"Sugar, Centrifugal",Mauritania,4086.0
+3761,"Sugar, Centrifugal",Mexico,11463.0
+3762,"Sugar, Centrifugal",Moldova,644.0
+3763,"Sugar, Centrifugal",Mongolia,1956.0
+3764,"Sugar, Centrifugal",Morocco,24890.0
+3765,"Sugar, Centrifugal",Mozambique,3038.0
+3766,"Sugar, Centrifugal",Nepal,548.0
+3767,"Sugar, Centrifugal",Netherlands,0.0
+3769,"Sugar, Centrifugal",New Caledonia,722.0
+3770,"Sugar, Centrifugal",New Zealand,8426.0
+3771,"Sugar, Centrifugal",Nicaragua,164.0
+3772,"Sugar, Centrifugal",Niger,1191.0
+3773,"Sugar, Centrifugal",Nigeria,33241.0
+3774,"Sugar, Centrifugal",Norway,6812.0
+3775,"Sugar, Centrifugal",Oman,1589.0
+3776,"Sugar, Centrifugal",Pakistan,10056.0
+3777,"Sugar, Centrifugal",Panama,32.0
+3778,"Sugar, Centrifugal",Papua New Guinea,375.0
+3779,"Sugar, Centrifugal",Paraguay,558.0
+3780,"Sugar, Centrifugal",Peru,7357.0
+3781,"Sugar, Centrifugal",Philippines,3471.0
+3782,"Sugar, Centrifugal",Poland,2953.0
+3783,"Sugar, Centrifugal",Portugal,5732.0
+3784,"Sugar, Centrifugal",Puerto Rico,1146.0
+3785,"Sugar, Centrifugal",Qatar,559.0
+3787,"Sugar, Centrifugal",Romania,9276.0
+3788,"Sugar, Centrifugal",Russia,82819.0
+3789,"Sugar, Centrifugal",Rwanda,401.0
+3791,"Sugar, Centrifugal",Saudi Arabia,30455.0
+3792,"Sugar, Centrifugal",Senegal,3017.0
+3795,"Sugar, Centrifugal",Sierra Leone,809.0
+3797,"Sugar, Centrifugal",Slovakia,732.0
+3798,"Sugar, Centrifugal",Slovenia,654.0
+3799,"Sugar, Centrifugal",Somalia,3221.0
+3800,"Sugar, Centrifugal",South Africa,4529.0
+3801,"Sugar, Centrifugal",Spain,3188.0
+3802,"Sugar, Centrifugal",Sri Lanka,17105.0
+3805,"Sugar, Centrifugal",Sudan,7307.0
+3806,"Sugar, Centrifugal",Suriname,490.0
+3807,"Sugar, Centrifugal",Swaziland,7.0
+3808,"Sugar, Centrifugal",Sweden,2563.0
+3809,"Sugar, Centrifugal",Switzerland,11088.0
+3810,"Sugar, Centrifugal",Syria,23344.0
+3811,"Sugar, Centrifugal",Taiwan,9386.0
+3812,"Sugar, Centrifugal",Tajikistan,2586.0
+3814,"Sugar, Centrifugal",Thailand,105.0
+3815,"Sugar, Centrifugal",Togo,2236.0
+3817,"Sugar, Centrifugal",Trinidad and Tobago,1632.0
+3818,"Sugar, Centrifugal",Tunisia,11563.0
+3819,"Sugar, Centrifugal",Turkey,2758.0
+3820,"Sugar, Centrifugal",Turkmenistan,2360.0
+3821,"Sugar, Centrifugal",Uganda,1855.0
+3822,"Sugar, Centrifugal",Ukraine,8325.0
+3824,"Sugar, Centrifugal",United Arab Emirates,32707.0
+3825,"Sugar, Centrifugal",United Kingdom,29288.0
+3827,"Sugar, Centrifugal",Uruguay,3580.0
+3828,"Sugar, Centrifugal",Uzbekistan,9169.0
+3830,"Sugar, Centrifugal",Venezuela,14195.0
+3831,"Sugar, Centrifugal",Vietnam,6022.0
+3833,"Sugar, Centrifugal",Yemen,12518.0
+3836,"Sugar, Centrifugal",Zambia,80.0
+3837,"Sugar, Centrifugal",Zimbabwe,1116.0
+3838,"Tangerines/Mandarins, Fresh",Afghanistan,0.0
+3839,"Tangerines/Mandarins, Fresh",Algeria,0.0
+3840,"Tangerines/Mandarins, Fresh",Argentina,4.0
+3841,"Tangerines/Mandarins, Fresh",Australia,2.0
+3842,"Tangerines/Mandarins, Fresh",Brazil,4.0
+3843,"Tangerines/Mandarins, Fresh",Canada,1647.0
+3844,"Tangerines/Mandarins, Fresh",China,176.0
+3845,"Tangerines/Mandarins, Fresh",Cuba,0.0
+3846,"Tangerines/Mandarins, Fresh",Cyprus,0.0
+3847,"Tangerines/Mandarins, Fresh",Egypt,0.0
+3850,"Tangerines/Mandarins, Fresh",Greece,3.0
+3851,"Tangerines/Mandarins, Fresh",Indonesia,1449.0
+3852,"Tangerines/Mandarins, Fresh",Israel,0.0
+3853,"Tangerines/Mandarins, Fresh",Italy,431.0
+3854,"Tangerines/Mandarins, Fresh",Japan,231.0
+3856,"Tangerines/Mandarins, Fresh",Lebanon,0.0
+3857,"Tangerines/Mandarins, Fresh",Malaysia,939.0
+3858,"Tangerines/Mandarins, Fresh",Mexico,0.0
+3859,"Tangerines/Mandarins, Fresh",Morocco,0.0
+3860,"Tangerines/Mandarins, Fresh",Netherlands,0.0
+3861,"Tangerines/Mandarins, Fresh",Norway,0.0
+3862,"Tangerines/Mandarins, Fresh",Philippines,541.0
+3863,"Tangerines/Mandarins, Fresh",Russia,7119.0
+3865,"Tangerines/Mandarins, Fresh",South Africa,6.0
+3866,"Tangerines/Mandarins, Fresh",Spain,48.0
+3867,"Tangerines/Mandarins, Fresh",Sweden,0.0
+3868,"Tangerines/Mandarins, Fresh",Switzerland,0.0
+3869,"Tangerines/Mandarins, Fresh",Thailand,680.0
+3870,"Tangerines/Mandarins, Fresh",Tunisia,0.0
+3871,"Tangerines/Mandarins, Fresh",Turkey,73.0
+3872,"Tangerines/Mandarins, Fresh",Ukraine,1760.0
+3874,"Tangerines/Mandarins, Fresh",Uruguay,0.0
+3875,"Tangerines/Mandarins, Fresh",Vietnam,1856.0
+3876,"Walnuts, Inshell Basis",Australia,131366.0
+3877,"Walnuts, Inshell Basis",Brazil,93200.0
+3878,"Walnuts, Inshell Basis",Canada,244900.0
+3879,"Walnuts, Inshell Basis",Chile,7429.0
+3880,"Walnuts, Inshell Basis",China,470519.0
+3882,"Walnuts, Inshell Basis",France,221100.0
+3884,"Walnuts, Inshell Basis",India,5800.0
+3885,"Walnuts, Inshell Basis",Iran,690.0
+3886,"Walnuts, Inshell Basis",Israel,119300.0
+3887,"Walnuts, Inshell Basis",Italy,249353.0
+3888,"Walnuts, Inshell Basis",Japan,391500.0
+3889,"Walnuts, Inshell Basis",Jordan,0.0
+3891,"Walnuts, Inshell Basis",Mexico,81500.0
+3892,"Walnuts, Inshell Basis",Moldova,59000.0
+3893,"Walnuts, Inshell Basis",Norway,33400.0
+3894,"Walnuts, Inshell Basis",Russia,143600.0
+3895,"Walnuts, Inshell Basis",Switzerland,65000.0
+3896,"Walnuts, Inshell Basis",Syria,83760.0
+3897,"Walnuts, Inshell Basis",Taiwan,61300.0
+3898,"Walnuts, Inshell Basis",Turkey,452123.0
+3899,"Walnuts, Inshell Basis",Ukraine,0.0
+3901,"Walnuts, Inshell Basis",Vietnam,0.0
+3902,Wheat,Afghanistan,29030.0
+3903,Wheat,Albania,10102.0
+3904,Wheat,Algeria,180125.0
+3905,Wheat,Angola,13899.0
+3906,Wheat,Argentina,1498.0
+3907,Wheat,Armenia,9103.0
+3908,Wheat,Australia,2254.0
+3909,Wheat,Azerbaijan,26136.0
+3911,Wheat,Bangladesh,78307.0
+3913,Wheat,Belarus,16804.0
+3914,Wheat,Benin,1240.0
+3915,Wheat,Bhutan,89.0
+3916,Wheat,Bolivia,15827.0
+3917,Wheat,Bosnia and Herzegovina,8623.0
+3918,Wheat,Brazil,242985.0
+3919,Wheat,Bulgaria,5073.0
+3922,Wheat,Cameroon,11961.0
+3923,Wheat,Canada,7124.0
+3924,Wheat,Chad,2768.0
+3925,Wheat,Chile,32649.0
+3926,Wheat,China,312498.0
+3927,Wheat,Colombia,41943.0
+3930,Wheat,Costa Rica,7890.0
+3932,Wheat,Croatia,223.0
+3933,Wheat,Cuba,52628.0
+3934,Wheat,Cyprus,2419.0
+3935,Wheat,Czech Republic,684.0
+3936,Wheat,Dominican Republic,12908.0
+3939,Wheat,Ecuador,18039.0
+3940,Wheat,Egypt,313531.0
+3941,Wheat,El Salvador,8353.0
+3942,Wheat,Eritrea,2980.0
+3943,Wheat,Estonia,2452.0
+3944,Wheat,Ethiopia,24575.0
+3946,Wheat,Fiji,4057.0
+3949,Wheat,Gabon,2481.0
+3950,Wheat,Georgia,19805.0
+3951,Wheat,Ghana,11048.0
+3952,Wheat,Guatemala,14016.0
+3953,Wheat,Guinea,4862.0
+3954,Wheat,Guyana,2412.0
+3955,Wheat,Haiti,9511.0
+3956,Wheat,Honduras,7017.0
+3958,Wheat,Hungary,4371.0
+3959,Wheat,India,106479.0
+3960,Wheat,Indonesia,141481.0
+3961,Wheat,Iran,128572.0
+3962,Wheat,Iraq,96839.0
+3963,Wheat,Israel,47148.0
+3964,Wheat,Jamaica,11397.0
+3965,Wheat,Japan,293826.0
+3966,Wheat,Jordan,27214.0
+3967,Wheat,Kazakhstan,2094.0
+3968,Wheat,Kenya,20236.0
+3971,Wheat,Kuwait,10716.0
+3972,Wheat,Kyrgyzstan,9685.0
+3973,Wheat,Latvia,2622.0
+3974,Wheat,Lebanon,19458.0
+3975,Wheat,Lesotho,2389.0
+3976,Wheat,Liberia,976.0
+3977,Wheat,Libya,47624.0
+3978,Wheat,Lithuania,2780.0
+3979,Wheat,Macedonia,2308.0
+3980,Wheat,Madagascar,3810.0
+3981,Wheat,Malawi,496.0
+3982,Wheat,Malaysia,45134.0
+3983,Wheat,Mali,1051.0
+3984,Wheat,Malta,2069.0
+3985,Wheat,Mauritania,8450.0
+3987,Wheat,Mexico,83161.0
+3988,Wheat,Moldova,5033.0
+3989,Wheat,Mongolia,4715.0
+3990,Wheat,Morocco,103262.0
+3991,Wheat,Mozambique,11624.0
+3992,Wheat,Namibia,353.0
+3993,Wheat,Nepal,592.0
+3994,Wheat,New Zealand,10570.0
+3995,Wheat,Nicaragua,4670.0
+3996,Wheat,Niger,2612.0
+3997,Wheat,Nigeria,78010.0
+3998,Wheat,Norway,17136.0
+3999,Wheat,Oman,8239.0
+4000,Wheat,Pakistan,68098.0
+4001,Wheat,Panama,4707.0
+4002,Wheat,Papua New Guinea,4009.0
+4003,Wheat,Paraguay,3187.0
+4004,Wheat,Peru,56498.0
+4005,Wheat,Philippines,89692.0
+4006,Wheat,Poland,67540.0
+4007,Wheat,Romania,10802.0
+4008,Wheat,Russia,110177.0
+4009,Wheat,Rwanda,385.0
+4010,Wheat,Saudi Arabia,29164.0
+4011,Wheat,Senegal,11082.0
+4014,Wheat,Sierra Leone,1886.0
+4016,Wheat,Slovakia,599.0
+4017,Wheat,Slovenia,890.0
+4018,Wheat,Somalia,3984.0
+4019,Wheat,South Africa,29737.0
+4020,Wheat,Sri Lanka,40013.0
+4021,Wheat,Sudan,38357.0
+4022,Wheat,Switzerland,17338.0
+4023,Wheat,Syria,29345.0
+4024,Wheat,Taiwan,45639.0
+4025,Wheat,Tajikistan,20954.0
+4027,Wheat,Thailand,32423.0
+4028,Wheat,Togo,2848.0
+4029,Wheat,Trinidad and Tobago,6381.0
+4030,Wheat,Tunisia,48664.0
+4031,Wheat,Turkey,64022.0
+4032,Wheat,Turkmenistan,6799.0
+4033,Wheat,Uganda,1359.0
+4034,Wheat,Ukraine,16637.0
+4036,Wheat,United Arab Emirates,27773.0
+4038,Wheat,Uruguay,2926.0
+4039,Wheat,Uzbekistan,47421.0
+4040,Wheat,Venezuela,57340.0
+4041,Wheat,Vietnam,38573.0
+4042,Wheat,Yemen,54588.0
+4045,Wheat,Zambia,2650.0
+4046,Wheat,Zimbabwe,4803.0

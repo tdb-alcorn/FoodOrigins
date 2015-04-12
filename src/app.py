@@ -1,6 +1,7 @@
 from ingredients import get_ingredients
 from barcodes import get_country
 from origins import origins_us_list
+from map_origins import map_origins
 import web
 import os
 
@@ -23,7 +24,7 @@ def main(barcode, num_countries=10):
         if len(origins) > 0:
             origins.sort(ascending=False)
             origins = origins.iloc[:num_countries]
-            origins = (origins/origins.sum()).to_dict()
+            origins = (origins/origins.sum())
     else:
         origins = {}
     return r['product_name'], origins
@@ -43,4 +44,5 @@ class BarcodeServer:
 
 
 if __name__ == "__main__":
-    web.httpserver.runsimple(app.wsgifunc(), (HOST, PORT))
+    # web.httpserver.runsimple(app.wsgifunc(), (HOST, PORT))
+    map_origins(main('076840100477'))
